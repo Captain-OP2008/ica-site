@@ -6,6 +6,8 @@
 
 > *Merces Letifer* — 致命交易
 
+**在线访问**：https://captain-op2008.github.io/ica-site/
+
 ## 两套界面
 
 站点不是简单的一页式介绍，而是**两层叙事**：
