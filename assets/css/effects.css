@@ -1,0 +1,268 @@
+/* ==========================================================================
+   ICA · effects.css — 扫描线 / 颗粒 / 暗角 / 准入终端 / 撕开动画 / 光标
+   ========================================================================== */
+
+/* ---------- 全局特效层 ---------- */
+.fx{
+  position:fixed;inset:0;pointer-events:none;
+  z-index:var(--z-fx);
+}
+#fx-scan{
+  z-index:var(--z-fx);
+  background:repeating-linear-gradient(
+    0deg,
+    rgba(255,255,255,.028) 0px,
+    rgba(255,255,255,.028) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+  opacity:.5;
+  mix-blend-mode:overlay;
+}
+#fx-vig{
+  background:radial-gradient(115% 95% at 50% 42%,transparent 42%,rgba(0,0,0,.42) 100%);
+}
+#fx-grain{
+  opacity:.032;mix-blend-mode:overlay;
+}
+#fx-grain svg{width:100%;height:100%}
+#fx-glow{
+  background:radial-gradient(48% 34% at 78% 0%,rgba(200,16,46,.085),transparent 72%);
+}
+#fx-sweep{
+  background:linear-gradient(180deg,transparent,rgba(200,16,46,.05) 46%,rgba(200,16,46,.1) 50%,rgba(200,16,46,.05) 54%,transparent);
+  height:180px;top:-180px;bottom:auto;
+  animation:sweep 9s linear infinite;
+  opacity:.75;
+}
+@keyframes sweep{
+  0%{transform:translateY(0)}
+  100%{transform:translateY(calc(100vh + 180px))}
+}
+/* 官网层关闭终端特效 */
+body[data-surface="corporate"] #fx-scan,
+body[data-surface="corporate"] #fx-glow,
+body[data-surface="corporate"] #fx-sweep,
+body[data-surface="corporate"] #cursor{display:none}
+body[data-surface="corporate"] #fx-grain{opacity:.014}
+body[data-surface="corporate"] #fx-vig{display:none}
+
+/* ---------- 进度条 ---------- */
+#progress{
+  position:fixed;top:0;left:0;height:2px;width:0;
+  background:linear-gradient(90deg,var(--ica-red-d),var(--ica-red),var(--ica-red-l));
+  z-index:calc(var(--z-fx) + 1);pointer-events:none;
+  transition:width .1s linear;
+  box-shadow:0 0 10px var(--ica-red-glow);
+}
+body[data-surface="corporate"] #progress{background:var(--accent);box-shadow:none}
+
+/* ---------- 自定义光标（终端层） ---------- */
+#cursor{
+  position:fixed;width:22px;height:22px;
+  border:1px solid rgba(200,16,46,.55);
+  border-radius:50%;
+  pointer-events:none;z-index:var(--z-cursor);
+  transform:translate(-50%,-50%);
+  transition:width .18s var(--ease),height .18s var(--ease),border-color .18s,opacity .2s;
+  mix-blend-mode:difference;
+}
+#cursor::after{
+  content:"";position:absolute;left:50%;top:50%;
+  width:2px;height:2px;background:var(--ica-red);
+  transform:translate(-50%,-50%);border-radius:50%;
+}
+#cursor.hot{width:38px;height:38px;border-color:rgba(200,16,46,.9)}
+#cursor.hidden{opacity:0}
+@media (hover:none),(max-width:1024px){#cursor{display:none}}
+
+/* 只在内部终端层隐藏系统光标（配合上面的自绘准星）。
+   伪装官网、准入终端、表单控件一律保留系统光标 —— 否则鼠标"点不到东西"。 */
+body[data-layer="terminal"] *{cursor:none}
+body[data-layer="terminal"] input,
+body[data-layer="terminal"] textarea,
+body[data-layer="terminal"] select,
+body[data-layer="terminal"] a,
+body[data-layer="terminal"] button,
+body[data-layer="terminal"] label,
+body[data-layer="terminal"] summary,
+body[data-layer="terminal"] .chip,
+body[data-layer="terminal"] .map-pin,
+body[data-layer="terminal"] [role="button"]{cursor:pointer}
+body[data-layer="terminal"] input[type="text"],
+body[data-layer="terminal"] input[type="number"],
+body[data-layer="terminal"] input[type="email"],
+body[data-layer="terminal"] input:not([type]),
+body[data-layer="terminal"] textarea{cursor:text}
+/* 触摸设备 / 窄屏没有自绘准星，必须保留系统光标 */
+@media (hover:none),(max-width:1024px){
+  body[data-layer="terminal"] *{cursor:auto}
+  body[data-layer="terminal"] a,
+  body[data-layer="terminal"] button,
+  body[data-layer="terminal"] label,
+  body[data-layer="terminal"] .chip,
+  body[data-layer="terminal"] .map-pin{cursor:pointer}
+}
+
+/* ---------- 准入终端（Boot） ---------- */
+#boot{
+  position:fixed;inset:0;z-index:var(--z-boot);
+  background:var(--ink-900);
+  display:grid;place-items:center;
+  padding:var(--sp-5);
+  transition:opacity .6s var(--ease),visibility .6s;
+}
+#boot.is-gone{opacity:0;visibility:hidden;pointer-events:none}
+#boot.is-hidden{display:none}
+
+.boot-in{
+  width:100%;max-width:680px;
+  position:relative;z-index:2;
+}
+.boot-mark{
+  width:76px;height:76px;color:var(--ica-red);
+  margin:0 auto var(--sp-5);
+}
+.boot-title{
+  text-align:center;margin-bottom:var(--sp-6);
+}
+.boot-title h1{
+  font-family:var(--font-mono);font-size:clamp(15px,2.4vw,21px);
+  font-weight:var(--fw-bold);letter-spacing:.22em;margin-bottom:7px;
+}
+.boot-title .sub{
+  font-family:var(--font-mono);font-size:var(--fs-2xs);color:var(--fg-4);
+  letter-spacing:.2em;text-transform:uppercase;
+}
+.boot-log{
+  font-family:var(--font-mono);font-size:var(--fs-xs);line-height:var(--lh-loose);
+  color:var(--fg-3);min-height:190px;
+  border:1px solid var(--line);border-radius:var(--radius-m);
+  padding:var(--sp-4);background:rgba(255,255,255,.014);
+}
+.boot-log .ln{display:flex;gap:9px;opacity:0;animation:ln-in .3s var(--ease) forwards}
+@keyframes ln-in{to{opacity:1}}
+.boot-log .ln .k{color:var(--ica-red-l);flex:0 0 auto}
+.boot-log .ln .v{color:var(--fg-3)}
+.boot-bar{
+  height:2px;background:var(--ink-700);margin-top:var(--sp-5);
+  border-radius:2px;overflow:hidden;
+}
+.boot-bar i{
+  display:block;height:100%;width:0;background:var(--ica-red);
+  transition:width .3s var(--ease-out);
+}
+.boot-hint{
+  text-align:center;margin-top:var(--sp-5);
+  font-family:var(--font-mono);font-size:var(--fs-2xs);color:var(--fg-4);
+  letter-spacing:.13em;min-height:18px;
+}
+
+/* ==========================================================================
+   撕开动画：官网层 → 终端层
+   ========================================================================== */
+#rip{
+  position:fixed;inset:0;z-index:calc(var(--z-boot) + 10);
+  pointer-events:none;display:none;
+}
+#rip.on{display:block}
+.rip-panel{
+  position:absolute;inset:0;
+  background:var(--ink-900);
+  transform-origin:top;
+  animation:rip-open .92s cubic-bezier(.7,0,.3,1) forwards;
+  box-shadow:0 40px 120px rgba(0,0,0,.9);
+}
+@keyframes rip-open{
+  0%{clip-path:polygon(0 0,100% 0,100% 100%,0 100%);transform:translateY(0)}
+  100%{clip-path:polygon(0 0,100% 0,100% 0,0 0);transform:translateY(-102%)}
+}
+.rip-seam{
+  position:absolute;left:0;right:0;top:0;height:2px;
+  background:var(--ica-red);
+  box-shadow:0 0 26px 7px var(--ica-red-glow);
+  animation:seam-fall .92s cubic-bezier(.7,0,.3,1) forwards;
+}
+@keyframes seam-fall{
+  0%{transform:translateY(0)}
+  100%{transform:translateY(-100vh)}
+}
+.rip-flash{
+  position:absolute;inset:0;background:var(--ica-red);
+  opacity:0;animation:rip-flash .55s var(--ease);
+}
+@keyframes rip-flash{
+  0%{opacity:0}
+  22%{opacity:.24}
+  100%{opacity:0}
+}
+
+/* ---------- 揭示动画 ---------- */
+.reveal{opacity:0;transform:translateY(13px)}
+.reveal.in{
+  opacity:1;transform:none;
+  transition:opacity .62s var(--ease-out),transform .62s var(--ease-out);
+}
+
+/* ---------- 故障效果 ---------- */
+.glitch{position:relative}
+.glitch::before,.glitch::after{
+  content:attr(data-text);
+  position:absolute;left:0;top:0;width:100%;
+  overflow:hidden;pointer-events:none;
+}
+.glitch::before{color:var(--ica-red);animation:gl-1 2.6s steps(2) infinite;clip-path:inset(0 0 58% 0)}
+.glitch::after{color:#2f7fbf;animation:gl-2 3.1s steps(2) infinite;clip-path:inset(56% 0 0 0)}
+@keyframes gl-1{
+  0%,88%,100%{transform:none;opacity:0}
+  90%{transform:translate(-2px,-1px);opacity:.75}
+  94%{transform:translate(2px,1px);opacity:.6}
+}
+@keyframes gl-2{
+  0%,90%,100%{transform:none;opacity:0}
+  92%{transform:translate(2px,1px);opacity:.6}
+  96%{transform:translate(-1px,-2px);opacity:.5}
+}
+
+/* ---------- 印章落下 ---------- */
+.stamp-in{
+  animation:stamp-in .42s cubic-bezier(.2,1.5,.4,1) both;
+}
+@keyframes stamp-in{
+  0%{opacity:0;transform:rotate(-9deg) scale(1.7)}
+  100%{opacity:.92;transform:rotate(-1.2deg) scale(1)}
+}
+
+/* ---------- 扫描/解码文本效果 ---------- */
+.decode{font-family:var(--font-mono)}
+.decode .scramble{color:var(--ica-red-l)}
+
+/* ---------- 红acted 印章覆盖层 ---------- */
+.denied{
+  position:absolute;inset:0;
+  display:grid;place-items:center;
+  background:rgba(4,5,7,.72);backdrop-filter:blur(2.5px);
+  z-index:4;
+}
+.denied b{
+  font-family:var(--font-mono);font-size:var(--fs-base);letter-spacing:.3em;
+  /* 文字用亮红：品牌红 #c8102e 在半透明黑底上只有 3.41:1，
+     而 13.5px 未达到 WCAG 的"大字号"门槛（14pt 粗体 / 18.66px），
+     必须按正文标准 4.5:1 处理。边框仍用品牌红——非文本图形只需 3:1。 */
+  color:var(--ica-red-l);border:2px solid var(--ica-red);
+  padding:9px 20px;transform:rotate(-4deg);
+  text-transform:uppercase;
+}
+
+/* ---------- 加载骨架 ---------- */
+.skel{
+  background:linear-gradient(90deg,var(--ink-800) 25%,var(--ink-700) 50%,var(--ink-800) 75%);
+  background-size:200% 100%;
+  animation:skel 1.4s linear infinite;
+  border-radius:var(--radius-s);
+}
+@keyframes skel{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+/* ---------- 音频开关脉冲 ---------- */
+.topbar-btn.playing svg{animation:eq .9s ease-in-out infinite alternate}
+@keyframes eq{from{transform:scaleY(.72)}to{transform:scaleY(1.12)}}

@@ -1,0 +1,298 @@
+This article is about original 2002 release. For the 2018 continuation of HITMAN™ , see HITMAN™ 2 . 
+Hitman 2: Silent Assassin (abbreviated to " Silent Assassin " or " SA ") is a stealth video game developed by IO Interactive and published by Eidos Interactive for Microsoft Windows , PlayStation 2 , Xbox , 
+ Nintendo GameCube . It is the second installment in the Hitman video game series and the sequel to Hitman: Codename 47 . It was released on October 1 st , 2002 in the United States of America .
+The player takes the place of a bald assassin named Agent 47 after he killed his creator, Dr. Otto Wolfgang Ort-Meyer and retires to a small church in Sicily .
+The game was succeeded by Hitman: Contracts in 2004.
+Contents
+1 Gameplay 
+1.1 New features 
+1.2 Removed features 
+1.3 Changed features 
+2 Plot 
+2.1 Luring out of Retirement 
+2.2 Visit to St. Petersburg 
+2.3 The Hidden Valley 
+2.4 Further Contracts 
+2.5 Return to St. Petersburg 
+2.6 Redemption At Gontranno 
+3 Controversy & censorship 
+4 Missions 
+4.1 Prologue 
+4.2 Russia 
+4.3 Japan 
+4.4 Malaysia 
+4.5 Afghanistan 
+4.6 India 
+4.7 Epilogue 
+5 Targets 
+5.1 Prologue 
+5.2 St. Petersburg 
+5.3 Japan 
+5.4 Malaysia 
+5.5 Afghanistan 
+5.6 India 
+5.7 Epilogue 
+6 VIPs 
+7 Other characters 
+8 Weapons 
+8.1 Notes 
+8.2 Firearms 
+8.3 Melee Weapons 
+8.4 Other 
+9 Soundtrack 
+10 Reception 
+11 Trivia 
+12 Gallery 
+12.1 Promotional Art 
+13 References 
+Gameplay [ ] 
+Main Menu
+Hitman 2:Silent Assassin is a third-person action/stealth combo revolving around a bald-headed assassin known as Agent 47, who works for the International Contract Agency (also known as "The Agency"), a conglomerate of professional assassins who provide their services to wealthy or otherwise influential customers.
+In the game, 47 is given a set of objectives to complete. Most levels require the assassination of one or more people. However, how missions are completed is up to the player, and there are almost always a variety of ways to complete missions. Instead of simply running and gunning through the mission, one can set traps, like poisoning a drink, to terminate the target in silence. Some missions have assassination possibilities unique to the level.
+While it is a stealth title, the game does not necessarily enforce such an approach, allowing the player to engage at their own discretion, thus highlighting the sandbox element of the series.
+Before any assignment, the player is provided with a briefing, consisting of intelligence on the target, a map detailing the area where 47 is to encounter the target, and a list of weapons that they can take on the mission. The briefing is managed by 47's controller, Diana Burnwood , at the Agency. The intelligence is usually comprised of a picture of the target, sometimes video footage as well.
+The game relies heavily on the disguise system. 47 can find disguises or remove them from an incapacitated person in order to blend in with his surroundings, access restricted areas, to pass by security unnoticed (unless he's too close to them) and wield weapons almost freely, depending on the disguise. This plays in with the "suspicion" system; a bar beside the health meter on the HUD represents how much suspicion 47 garners. There are multiple ways to blend in more effectively. 47's cover can be blown if suspicion gets too high, and the disguise will no longer be of any use. It is possible to switch between multiple disguises throughout the level.
+New features [ ] 
+The fiber wire, the binoculars and the compass are now a permanent part of 47's arsenal and no longer need to be bought at the start of each mission. Also, the compass is now part of the HUD rather than an object.
+Ratings are introduced. At the end of each mission, the stealth and aggression are rated. If the highest rating, Silent Assassin , is earned, a new weapon is unlocked.
+The map now shows all AI movements in real-time, including civilians, guards, policemen, VIPs and targets. In addition, it also shows elevators, doors, stairs, ladders, ICA pickup spots, and points of interest to help traverse the map.
+Anaesthetic , a new non-lethal weapon is introduced. Instead of killing enemies, it sedates them for a short period of time.
+Additional melee weapons, such as the golf club , are introduced.
+During close encounters, 47 can knock out enemies with the butt of his weapon, creating another way to pacify enemies without killing them.
+47 can break the target's neck when using fibre wire in a compact place or on stairs.
+The ability to crouch is introduced, which allows 47 to hide behind a low object.
+47 can now run backwards, making movement more fluent and player-friendly.
+Detailed statistics are shown at the end of each mission.
+First-person mode, replacing the free-look view, is introduced.
+AMT Hardballers are introduced as Ballers, a dual version, treated as single.
+Looking through the lock of a door is now possible.
+Ability to pick locked doors is available.
+Weapons gathered from previous missions can be used in the next ones, replacing the shop menu.
+In most of the missions, Diana talks to 47 to assist him in completing the mission.
+Suspicion meter, a bar beside the health meter on the HUD, is introduced, which represents how much suspicion 47 garners. There are multiple ways to blend in more effectively. 47's cover can be blown if suspicion gets too high.
+Removed features [ ] 
+Dual-wielding is no longer the default action when picking a handgun with another one already in hand. It's still possible with the Dual-handgun glitch , though.
+The shop menu is no longer available, being replaced with the ability for players to use weapons and utilities acquired from previous missions or the Silent Assassin weapon award.
+Free-look is removed (replaced by first-person mode).
+Changed features [ ] 
+Running now requires players to press the directional buttons, as opposed to the previous game where pressing the run button will make 47 run forward.
+Plot [ ] 
+Note: While the general plot of Silent Assassin follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+Sergei Zavorotko and a Mystery Man talk on a cargo ship about someone the mystery man saw in Rotterdam. They went to Dr. Ort-Meyer's cloning lab/mental asylum in Romania and found everybody inside dead. They found a few tapes that showed Agent 47 strangling an Romanian SWAT member and dragging his body to corner with a Fiber Wire and shooting down more Romanian SWAT members and an orderly. After watching the tapes, the mystery man concluded that the killer was none other than Agent 47, and Sergei decided to hire him, before leaving the building.
+Luring out of Retirement [ ] 
+47, before going to rescue Vittorio
+After spending some years as a legendary hitman, 47 decided to leave his life as a contract killer and retreated to a Sicilian church owned by Father Emilio Vittorio . Many rumors arose about his death while being extremely wealthy. However, he worked as a humble gardener at the church. Soon, Vittorio became a friend of 47, and 47 decided to confess his past to Vittorio. After his confession, a car arrived at the church, with two persons inside. One of the persons assaulted Vittorio and kidnaped him, before leaving a ransom of 500,000 dollars. Unable to pay that price, 47 contacted the ICA (International Contract Agency) , much to their surprise, and agreed to perform an assassination mission for information about the whereabouts of Vittorio. He got information from the Agency that Vittorio was held hostage in the basement of the villa belonging to the leader of Sicilian mafia, Guessipi Gulliani. 47 infiltrated the Villa Borghese and killed Gulliani, but failed to find Vittorio in the basement room. The agency confirmed this by describing recent satellite footage showing the priest being dragged away by four bearded Russian looking men in uniform, where he was later lost at an airport.
+Visit to St. Petersburg [ ] 
+3 of 47's first targets (The five Generals) upon returning to the Agency
+To repay his debt to the Agency, 47 accepted an assignment which entailed the assassination of an ex-KGB Russian general, Rinat S. Rumyantsev at a meeting in St. Petersburg. After the demise of the general, the remaining generals, started their own investigation of the murder of their fellow. This was used as an excuse by Sergei Zavorotko to get them all eliminated. First, 47 was sent after General Makarov , who was trying to get some protection by his mafia contact Igor Kobasko , in order to find the assailant. Both of them were eliminated by 47 while having a meeting at the Kirov park in St. Petersburg.
+After Makarov's assassination, 47 was contacted once more to eliminate another General, Mikhail Bardachenko at his secret underground bunker, as well as free his interrogated prisoner, who was later revealed to be Agent Smith . Following this 47 was sent to the German Embassy in St. Petersburg , where he had to kill Vladimir Zhupikov , last general from the meeting, who had defected to Germany. In addition, 47 was also ordered to retrieve a briefcase containing some a missile guidance system that the general was presumed to sell to the highest bidder in the west. Due to his defection, however, Russians were also enraged, and sent a Spetsnaz Agent to retrieve the briefcase. Nevertheless, 47 successfully completed his task.
+The Hidden Valley [ ] 
+Hayamoto's Castle
+After the hit on the last General, 47 negotiated a payment raise and accepted more contracts from the Agency. He was ordered to eliminate a Japanese criminal mastermind and arms dealer, Masahiro Hayamoto . However, since his location was unknown, 47 was forced to kill his son, Masahiro Hayamoto Jr. , and place a tracking device in his body, eventually leading him to his actual target when his son's corpse was taken to him. After travelling a long way through Masahiro's highly fortified stronghold in central Japan, which involved disabling the alarm units before entering the castle, 47 was able to take him out and obtain a missile guidance system he had.
+Further Contracts [ ] 
+Eventually, 47 gave up his search for Vittorio, believing him to be dead. He traveled to various countries- Afghanistan, Malaysia and India to carry out contracts.
+Following Hayamoto's assassination, 47 was ordered to eliminate a Malaysian hacker Charlie Sidjan , who was believed to have stolen a valuable piece of military software. After eliminating his presumed target in his headquarters' basement, 47 found out that the person he killed wasn't his target, but the target's twin brother . After placing a hacking device in his main computer terminal in order to retrieve the software, Sergei Zavorotko found out that the software had already been passed on to an Indian Cult , but couldn't do anything about them. 47 successfully eliminated Charlie Sidjan and escaped Malaysia. 
+47 was then contacted again to retrieve some cargo stolen by Afghan Rebels and hidden in the desert of Afghanistan. He was ordered to acquire the coordinates of the cargo as well as its keys, from two high ranking officials, before eliminating their leader to prevent him selling the cargo to UN, and finally retrieving the cargo from an underground base, where he was also ordered to assassinate the lieutenant, Yussef Hussein .
+47, disguised as a surgeon, kills Deewana Ji in a heart transplant surgery
+The cargo, however, was stolen again by Sikh cultists, and Agent 17 (showing that Sergei Zavorotko was also involved to get an excuse to get them eliminated by 47). 47 was sent to the Temple City in Punjab, India to perform a hit on their leader, Deewana Ji . With help from Agent Smith, 47 was able to infiltrate the Cult Leader's sacred Gurduvara, where he eliminated his personal physician, Hannelore von Kamprad , without alerting anyone, and then the Hospital, where he was scheduled to undergo a heart surgery. Despite extremely tough security, 47 was able to assassinate his target. Upon escaping, Agent 47 was attacked by an unknown bald assailant oddly resembling himself, who is later revealed to be Agent 17 , whose plan was to lure 47 into a trap where he had set up explosives to kill him. However, 47 was able to successfully repel the attack and escape.
+Return to St. Petersburg [ ] 
+Soon after the homicide of Deewana Ji, the Agency found out that all of 47's previous contracts were ordered by same client, Sergei Zavorotko, brother of one of 47's genetic fathers, Arkadij "Boris" Jegorov . It was revealed that he was a world terrorist and arms dealer. All of 47's targets were individuals who were involved in a transaction of a nuclear warhead Sergei has bought recently, and that the items 47 was ordered to "retrieve" were all components of two nuclear missiles, which Sergei was planning to sell to a Sikh sect in Punjab, India. The warheads had key signature software that would fool the Americans into thinking the warheads were theirs, and therefore bypass the American missile defense system. Sergei, who had ties to the Russian government and military, needed to eliminate everyone involved in the deal, and therefore, offered 47 the contracts as the client. However, at the end, when the Sikh Cult betrayed him by stealing the cargo, he offered a contract to kill the Cult Leader as a revenge.
+47, after killing Agent 17
+Ordered by the UN, despite them having no mandate, the Agency ordered 47 to kill Zavorotko at his head-office in St. Petersburg. This was actually planned by Sergei Zavorotko and the Mystery Man to bait 47 and get him eliminated by 17. Despite not expecting him, upon arriving there, 47 found Agent 17 again. 47 was able to kill him, and found out that he was one of 47's genetic brothers, Agent 17 , another cloned assassin by Dr. Ort-Meyer. 47 then told Sergei, who was handling 17, to get off his back, and threatened to slit his throat. However, instead of that Sergei further provoked 47, and revealed that he had Vittorio . 47 lost his cool, and told Sergei that involving Vittorio was his biggest mistake.
+Redemption At Gontranno [ ] 
+47 decides to resume his life as a Hitman 
+47 arrived at the church. Sergei deployed several of his best bodyguards, but 47 killed all of them. In the end, 47 also killed Zavorotko, and shot his dead body again with his ballers, as a way of venting out his anger. Vittorio gave 47 his rosary and begged him to follow a good path but the Assassin decided that he was incapable of finding inner peace, and thus, left the rosary on the church door, resuming his life as a Hitman. 
+Controversy & censorship [ ] 
+The game's release sparked controversy due to a level featuring the killing of Sikhs within a depiction of their most holy site, the Harmandir Sahib, where hundreds of Sikhs were massacred in 1984 [1] . An altered version of Silent Assassin was eventually released on all the platforms with the related material removed from the game, however, the DRM-free version available on GOG.com is completely uncensored and patched to 1.01.
+Censored versions (patched beyond v1.01. including the Steam release) retain all three Sikh levels; however references to Gurdwara location have been removed, as well as dialogue from Agent Smith referring the Sikhs as 'towelheads' has been removed. Temple City level female patrols and alcohol bottles have been removed and posters around the level now show the face of the cult leader instead of Shiva. [2] 
+Another rather bizarre bit of censorship is Sergei's bleeped "fuck" in the ending cutscene of Terminal Hospitality, where he and the Mystery Man discuss hiring Agent 17 to kill 47. The subtitles in said cutscene also wrongly say "god damn" for some reason.
+Missions [ ] 
+Silent Assassin has twenty-one missions, including the prologue, more than any other game of the hitman franchise.
+Prologue [ ] 
+The Gontranno Sanctuary 
+Anathema 
+Russia [ ] 
+St. Petersburg Stakeout 
+Kirov Park Meeting 
+Tubeway Torpedo 
+Invitation to a Party 
+Japan [ ] 
+Tracking Hayamoto 
+Hidden Valley 
+At the Gates 
+Shogun Showdown 
+Malaysia [ ] 
+Basement Killing 
+The Graveyard Shift 
+The Jacuzzi Job 
+Afghanistan [ ] 
+Murder at the Bazaar 
+The Motorcade Interception 
+Tunnel Rat 
+India [ ] 
+Temple City Ambush 
+The Death of Hannelore 
+Terminal Hospitality 
+Epilogue [ ] 
+St. Petersburg Revisited 
+Redemption at Gontranno 
+Targets [ ] 
+Main article(s): Category:Hitman 2: Silent Assassin targets 
+Prologue [ ] 
+Giuseppe Guillani 
+St. Petersburg [ ] 
+Russian Army General 
+Makarov 
+Igor Kubasko 
+Mikhail Bardachenko 
+Vladimir Zhupikov 
+Spetsnaz Agent (optional)
+Japan [ ] 
+Masahiro Hayamoto Jr. 
+Masahiro Hayamoto 
+Malaysia [ ] 
+Brat Charliego Sidjan 
+Charlie Sidjan 
+Afghanistan [ ] 
+Mohammad Amin (optional)
+Ahmed Zahir (optional)
+Abdul Bismillah Malik 
+Yussef Hussein 
+India [ ] 
+Two Indian-American Assassins 
+Hannelore von Kamprad 
+Deewana Ji 
+Epilogue [ ] 
+Agent 17 
+Bodyguards of Sergei Zavorotko
+Sergei Zavorotko
+VIPs [ ] 
+Emilio Vittorio ( Anathema and Redemption at Gontranno )
+Sergei Zavorotko 
+Makarov 
+Mikhail Bardachenko 
+Vladimir Zhupikov 
+United Nations soldiers
+Agent Smith 
+Patients in The Death of Hannelore 
+Other characters [ ] 
+Mystery Man 
+Lei Ling 
+Clera 
+Tanaka Kusahana 
+Weapons [ ] 
+Notes [ ] 
+The naming conventions for the weapons in this game have undergone a substantial simplification compared to that seen in the original, as can be seen;
+The Beretta is now "9mm pistol"
+The Colt Python is simply "revolver"
+The PSM is simply ".54 pistol", et cetera
+Firearms [ ] 
+Silverballer .45 
+9mm Pistol 
+9mm Pistol SD 
+Revolver 
+5.45mm Pistol 
+Deagle .50 
+.22 Suppressed 
+Uzi 9mm 
+Sub Machine Gun 
+Silenced SMG 
+AK Assault Rifle 
+M4 Rifle 
+SP12 Shotgun 
+Double-Barreled Shotgun 
+Sawn-Off Shotgun 
+SVD Sniper 
+W2000 Sniper 
+W2000 Custom Sniper 
+MI95 Sniper 
+R93 Sniper 
+M60 Light MG 
+Combat Crossbow 
+Melee Weapons [ ] 
+Fiber Wire 
+Kitchen knife 
+Combat knife 
+Scalpel 
+Golf club 
+Katana 
+Fire axe 
+Anaesthetic 
+Other [ ] 
+Bomb 
+Poison 
+Soundtrack [ ] 
+The soundtrack of the game is also composed by Jesper Kyd, the composer of Hitman: Codename 47's soundtrack, but was never released until 2005, along with the soundtrack of its predecessor.
+Reception [ ] 
+Hitman 2: Silent Assassin probably received the best reviews as compared to any other Hitman game and other games of 2002. IGN gave the game an 8.7 with a review "One of the more interesting games of 2002 returns with much needed improvement". GameRankings and Metacritic gave the PlayStation 2 version 85.02% and 85/100, [3] [4] the PC version 84.88% and 87/100, [5] [6] the Xbox version 84.63% and 84/100 [7] [8] and the GameCube version 83.47% and 83/100. [9] [10] Metacritic also stated "IO Interactive has fixed almost every flaw for Hitman 2, the result is an almost perfect blend of action and stealth." GameSpot gave it a score of 8.6/10, saying "Hitman 2 virtually fixes all the problems of its predecessor and stands tall on its own merit as an outstanding action game". [11] Electronic Gaming Monthly scored Hitman 2 's GameCube version 7/8/8.5: the first reviewer criticized its artificial intelligence and mission briefings, but said that "each time I circumvented the immeasurable odds and made the crucial killing blow, Hitman 2 was briefly a blast"; the third reviewer summarized it as "an engaging adventure title that rewards patient players". [12] Eurogamer gave the game 7.9 on 10.
+The user score of Hitman 2: Silent Assassin was 90.
+Hitman 2 has sold more than 3.7 million copies as of 23 April 2009. [13] It is the second best selling Hitman game so far, with Hitman: Absolution being the first, at 7 million. By July 2006, the PlayStation 2 version of Hitman 2 had sold 1.1 million copies and earned $39 million in the United States. Next Generation ranked it as the 47th highest-selling game launched for the PlayStation 2, Xbox or GameCube between January 2000 and July 2006 in that country. Combined console sales of Hitman games released in the 2000s reached 2 million units in the United States by July 2006. [14] Hitman 2 's computer and Xbox releases each received a "Silver" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), [15] indicating sales of at least 100,000 copies per version in the United Kingdom. [16] ELSPA gave the game's PlayStation 2 release a "Platinum" certification, [17] for sales of at least 300,000 copies in the region. [16] 
+Hitman 2 was nominated for Computer Gaming World 's 2002 "Action Game of the Year" award, which ultimately went to Medal of Honor: Allied Assault . The editors wrote, " Hitman 2 is a huge improvement over the original, and it's one of the best games of last year in any genre." [18] 
+Trivia [ ] 
+Silent Assassin was the only numbered sequel in the Hitman series, until the 2018 release of HITMAN™ 2 .
+It is the only Hitman game to be released on a Nintendo platform (Nintendo GameCube), until Hitman 3 was later released on Nintendo Switch several years later.
+Only the PlayStation 3 release of the game comes with Spanish language support.
+Gallery [ ] 
+Promotional Art [ ] 
+Promotional image for Gontranno Sanctuary
+Promotional image for Anathema
+Ditto, but for Invitation to a Party
+Ditto
+Promotional for Basement Killing
+Promotional for Shogun Showdown
+Ditto
+Promotional for Tracking Hayamoto
+References [ ] 
+↑ " Young Sikhs force changes to Hitman 2 ". CBBC. 21 November 2002. Archived from the original on 8 February 2008. Retrieved 28 January 2008. 
+↑ https://www.youtube.com/watch?v=QVbqmDyXdFo 
+↑ " Hitman 2: Silent Assassin for PlayStation 2 ". GameRankings. Archived from the original on 9 July 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for PlayStation 2 Reviews ". Metacritic. Archived from the original on 23 September 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for PC ". GameRankings. Archived from the original on 10 December 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for PC Reviews ". Metacritic. Archived from the original on 1 February 2017. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for Xbox ". GameRankings. Archived from the original on 26 December 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for Xbox Reviews ". Metacritic. Archived from the original on 13 March 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for GameCube ". GameRankings. Archived from the original on 21 June 2016. Retrieved 13 April 2013. 
+↑ " Hitman 2: Silent Assassin for GameCube Reviews ". Metacritic. Archived from the original on 2 October 2016. Retrieved 13 April 2013. 
+↑ Kasavin, Greg (8 October 2002). " Hitman 2: Silent Assassin review ". GameSpot. Archived from the original on 13 January 2014. Retrieved 15 April2009. 
+↑ " Hitman 2: Silent Assassin ". Electronic Gaming Monthly. 1 August – 3 September 2003. Archived from the original on 14 January 2004. Retrieved 10 April 2010. 
+↑ " Corporate Strategy Meeting " (PDF) (PDF). Square Enix. 22 April 2009. p. 16. Archived (PDF) from the original on 7 March 2012. Retrieved 3 July 2012 
+↑ Campbell, Colin; Keiser, Joe (July 29, 2006). " The Top 100 Games of the 21st Century ". Next Generation . Archived from the original on October 28, 2007. 
+↑ " ELSPA Sales Awards: Silver ". Entertainment and Leisure Software Publishers Association . Archived from the original on February 21, 2009. 
+↑ 16.0 16.1 Caoili, Eric (November 26, 2008). " ELSPA: Wii Fit , Mario Kart Reach Diamond Status In UK ". Gamasutra . Archived from the original on September 18, 2017. 
+↑ " ELSPA Sales Awards: Platinum ". Entertainment and Leisure Software Publishers Association . Archived from the original on May 15, 2009. 
+↑ Staff (April 2003). " Computer Gaming World's 2002 Games of the Year". Computer Gaming World (225): 83–86, 88, 89, 92–97. 
+Missions in Hitman 2: Silent Assassin 
+Prologue (Sicily) 
+The Gontranno Sanctuary - Anathema 
+Russia 
+St. Petersburg Stakeout - Kirov Park Meeting - Tubeway Torpedo - Invitation to a Party 
+Japan 
+Tracking Hayamoto - Hidden Valley - At the Gates - Shogun Showdown 
+Malaysia 
+Basement Killing - The Graveyard Shift - The Jacuzzi Job 
+Afghanistan 
+Murder at the Bazaar - The Motorcade Interception - Tunnel Rat 
+India 
+Temple City Ambush - The Death of Hannelore - Terminal Hospitality 
+Epilogue (Russia & Sicily) 
+St. Petersburg Revisited - Redemption at Gontranno 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman 
+Hitman 2: Silent Assassin 
+Languages 
+Français

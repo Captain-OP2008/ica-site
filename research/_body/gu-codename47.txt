@@ -1,0 +1,311 @@
+"A bald man wakes up in a padded cell with an enigmatic barcode on his neck, haunted by nightmares. He soon realizes he has a single purpose in life — he is a clone, born and bred for contract killings." 
+― Hitman: Codename 47's Manual 
+Hitman: Codename 47
+Codename 47's box art. 
+Game Information:
+Developer:
+IO Interactive 
+Publisher:
+Eidos Interactive 
+Release Date:
+November 19, 2000
+ December 1, 2000
+ February 23, 2001
+ September 23, 2003
+Engine:
+Glacier
+Size:
+0.318 GB (318 MB)
+Genre:
+Action
+Platforms:
+Microsoft Windows 
+Game Mode(s):
+Single-Player
+Official Website(s):
+Codename 47 Webpage (EidosInteractive.com, Defunct) 
+ Codename 47 Webpage (ioi.dk) 
+ Hitman Webpage (Hitman.com) 
+Hitman: Codename 47 (commonly abbreviated to " Codename 47 " or "C47" ) is a third-person stealth game developed by IO Interactive and was released in the United States of America on November 19 th , 2000 for PC through Eidos Interactive . Codename 47 serves as both the first installment of the Hitman franchise, as well as IO-Interactive's debut in the gaming industry, followed by its sequel in 2002, Hitman 2: Silent Assassin .
+Contents
+1 Gameplay 
+2 Plot 
+2.1 Clone #47 
+2.2 Kowloon Triads in Gang War 
+2.2.1 Hong Kong Destabilization 
+2.2.2 Slaying a Dragon 
+2.3 The Colombian Jungle 
+2.3.1 The Ochoa Assassination 
+2.4 Bombings at the Bath Hotel 
+2.5 A Gunrunner's Paradise 
+2.6 The Asylum 
+2.6.1 Meet Your Brother 
+3 Missions 
+3.1 Prologue (Romania) 
+3.2 Hong Kong 
+3.3 Colombia 
+3.4 Budapest 
+3.5 Rotterdam 
+3.6 Epilogue (Romania) 
+4 Targets 
+4.1 Hong Kong 
+4.2 Colombia 
+4.3 Budapest 
+4.4 Rotterdam 
+4.5 Epilogue (Romania) 
+5 VIPs 
+6 Weapons 
+6.1 Sidearms 
+6.2 Submachine Guns 
+6.3 Assault Rifles 
+6.4 Sniper Rifles 
+6.5 Machine Guns 
+6.6 Shotguns 
+6.7 Melee Weapons 
+6.8 Other 
+6.9 Unusable 
+7 Soundtrack 
+8 Reception 
+9 Trivia 
+10 Gallery 
+10.1 Promotional Art 
+10.2 Concept Art 
+11 References 
+Gameplay [ ] 
+Main Menu
+Codename 47 is a third-person action/stealth combo which revolves around Agent 47 , a genetically enhanced human clone, who is subjected to a series of challenging assassinations which must be completed.
+During these assassinations, Agent 47 (controlled by the player) can acquire and use a wide range of weapons, starting from semi-automatic pistols to automatic rifles. However, more silent weaponry, such as the Fiber Wire , or the Oyabun Knife is also available. The weaponry varies on the mission played, so as Plutonium Runs Loose , for example, allows the player to buy a " minigun ," while The Lee Hong Assassination only offers a list of handguns and sub-machine guns, although higher-caliber weapons such as the Blaser Jagdwaffen R93 Sniper can usually be found on location.
+Agent 47 using a rifle to eliminate a target
+Agent 47's movements are controlled with basic turning, strafing and walking/running. Agent 47 is able to climb ladders when necessary, and has enough physical strength to throw himself from two adjacent balconies or platforms, drag bodies of any body type, and, due to his genetic combination, can disguise as generally any European or European-descended person.
+Each level in the game takes place in an open environment, populated with non-playable characters (such as civilians armed guards and targets). Although mission criteria may vary, the goal is generally to find Agent 47's assigned target and kill them through any effective means possible. The path may appear linear at first, but it is possible through various ways to approach a target and complete a mission without directly eliciting a violent reprisal.
+Before every assignment, the player is provided with a briefing, consisting of intelligence on the target, a map detailing the area where 47 is to encounter said target, and a list of weapons that they can purchase. The briefing is managed by a controller at the Agency , and every agent is assigned his own controller (Agent 47's controller being Diana Burnwood ). The intelligence is usually a picture of the target, with video footage as well, along with information including height, weight and a brief rundown of their careers.
+Agent 47 disguised as a Red Dragon Triad Member
+The game is based on the disguise system. Save for the Tutorial and the Colombian arc, the player begins all missions wearing Agent 47 's Suit , which restricts access to non-public areas; but, most importantly, it almost always prevents the player from reaching the target. Thus, Agent 47 can acquire certain disguises by finding them or killing other characters in order to steal their clothes. Doing so allows him to pass by security unnoticed and possibly even to carry weapons openly. The discarded clothes are folded and left on the ground, visible to the player but not to others, and can be worn again later. The body of the victim can be dragged to a secluded location in order to prevent other people seeing it and triggering alarms. Agent 47's disguise will be compromised as soon as the body from which it was taken is discovered, or an illegal action (deemed "Suspicious") is done under the disguise.
+Agent 47 creates sound while walking and running, which alerts any hostile characters in the close vicinity if an illegal action is being committed. To counter, Codename 47 heavily relies on a sneaking function, which causes Agent 47 to move in a low, stalking manner, which is also silent.
+Sneaking also allows the Agent to retrieve a weapon from his inventory without anyone hearing it; if 47 is standing upright when the player pulls out a weapon, it will alert nearby characters.
+Although Codename 47 is a stealth game (though not necessarily enforcing that ideal), the game still allows the player to engage at their own discretion, highlighting the game's recurring sandbox element. There are consequences, however, depending on the player's actions.
+There are incentives in the form of financial rewards and penalties. For example, if the player kills civilians, it's possible there could be a deduction of $2000 for "cleaning." This deduction grows depending on the number of non-target casualties the player inflicts. As money is used to purchase weapons and ammo during the course of the game, the player is pressured to utilize stealth and disguise mechanics for the most cost-effective method to take out targets.
+Plot [ ] 
+Note: While the general plot of Codename 47 follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+Clone #47 [ ] 
+Main article(s): Training 
+Clone #47, released from his shackles
+In the basement of a remote sanatorium , a tattooed bald man, shackled to a bed in a locked and padded cell, was awakened by an unidentified voice over a loudspeaker. The man, a genetically engineered clone known only as ” 47 ", slowly came around while the door unlocked. The loudspeaker claimed he was the person he could "trust the most".
+47 was ordered to get rid of his hospital robes, a suit awaiting him on the other side of the door. With the voice instructing him further on, 47 practiced his movement fluidity and strength through an obstacle course, learning to use different kinds of weapons, which finally ended with 47 disguising himself as one of the orderlies to escape. Meanwhile, the man controlling the loudspeaker watched 47 on a camera near the exit during the escape responded with a satisfied laugh.
+Kowloon Triads in Gang War [ ] 
+Main article(s): Kowloon Triads in Gang War 
+Agent 47 in his motel room, opening the shades
+After #47 escaped the asylum, he joined the International Contract Agency , a contract-killing company and it's assumed that he acquires the title of Agent, considering the talent displayed at the sanitarium. Almost a year after his escape, Agent 47 is deployed in Hong Kong for a rather difficult assignment: the assassination of the Red Dragon Triad leader Lee Hong , one of the most dangerous people in Hong Kong.
+The Agency, through 47's handler Diana Burnwood , stressed that while it was possible Agent 47 can reach Hong and eliminate him, it would be impossible for him to flee the city alive afterwards and thus devised an intricate plan that would almost destroy the Red Dragon Triad externally, subsequently weakening Lee Hong's influence over the Hong Kong mob and authorities, allowing Agent 47's escape following the hit.
+Hong Kong Destabilization [ ] 
+Main article(s): Ambush at the Wang Fou Restaurant , The Massacre at Cheung Chau Fish Restaurant 
+47 blowing up the Blue Lotus delegation's car
+Agent 47 began setting the plan in motion by killing a Red Dragon negotiator during a peace meeting with the Blue Lotus Triad . Likely taken as a hostile action against each-other, the latter triad came in high numbers to Lee Hong's Headquarters, the Wang Fou Restaurant for a peace truce.
+Agent 47 intercepted this meeting as well and massacred the entire Blue Lotus delegation, bringing the two triads on the brink of an all-out gang war. The police, who were on Lee Hong's payroll, intervened to preserve the peace. One last meeting was set on neutral grounds, a small fish restaurant, with the Hong Kong Chief of Police himself participating in the negotiations. Agent 47 murdered the chief and the Blue Lotus negotiator (while making it seem like the Red Dragon Triad was behind the act), finally severing Lee Hong's ties with the authorities and halting Lee Hong's influence.
+With the Red Dragon Triad weakened, Lee Hong was finally in a vulnerable enough position, allowing Agent 47 to engage. The client, however, wanted the Red Dragon Triad completely wiped out, so in addition to killing Lee Hong, Agent 47 had to steal a Jade Figurine from the triad's headquarters, as losing the figurine would damage the triad's morale beyond repair, let alone the death of their leader.
+Slaying a Dragon [ ] 
+Main article(s): The Lee Hong Assassination 
+Lee Hong, relaxing in his mansion
+The Jade Figurine was locked behind one of the various safes in Hong's restaurant. Agent 47 acquired the safe combination from Lei Ling , a prostitute working in Hong's brothel, in exchange for helping her escape, and learns the safe's location from a captured CIA agent named Smith . After freeing the CIA agent, he informed 47 about Zhun , Lee Hong's large bodyguard, who followed the triad leader everywhere, even tasting his food.
+Agent 47 acquired the Jade Figurine and traded it for a vial of poison, which he then used on Lee Hong's food. Zhun, however, tasted the meal first, exposing 47's attempt to poison Lee Hong. Hong ran away, and 47 tried to pursue him but was held down by the dying Zhun. The agent managed to kill the bodyguard and proceeded to track down Hong to his palace behind the restaurant. He ultimately killed him. Agent 47 found a cryptic letter on Hong's body, detailing a secret project that Hong was apparently involved in. Afterward, 47 escaped Hong Kong unscathed, on Hong's speedboat.
+The Colombian Jungle [ ] 
+Main article(s): Find the U'wa Tribe , The Jungle God 
+Agent 47 landing in the Colombian Jungle
+Following Agent 47's successful assignment in Hong Kong, the Agency presented him with another similarly complicated mission. He was to assassinate the notorious Colombian drug lord Pablo Belisario Ochoa who had his drug empire hidden in Colombia's jungle, some of it cutting across the local U'wa Tribe 's territory. Several attempts at Ochoa's life have failed in the past, thus prompting the tribe to nickname him " The Man With Nine Lives ".
+Agent 47 was deployed in the north-western end of the jungle and made his way through the thick vegetation trying to locate Ochoa's base. He came across a crashed aircraft which was meant to smuggle Ochoa's drugs, and among the wreckage, he found a golden statue, which represented one of the U'wa Tribe's deities. The statue was hollowed out and used for drug smuggling, and since the aircraft had crashed, Ochoa ordered his henchmen to recover the statue.
+As such, Agent 47 ran into some of his security while they were taking a tribe member hostage. Agent 47 eliminated the guards and freed the hostage, who was, in fact, the U'wa Chieftain 's brother, who led 47 the way to the U'wa Tribe's village. Freeing him and returning one of the tribe's most precious artifacts earned 47 the tribe's trust.
+Tezcatlipoca: The God of Death (feasting on a pig)
+The chief informed Agent 47 about a secret passage to Ochoa's base. However, he warned 47 of encountering Tezcatlipoca , their sacred god of death, and advised him to perform a sacrifice if he wanted to proceed unscathed. 47 crossed a narrow rope bridge deeper into the U'wa Camp and ran into Tezcatlipoca, who was revealed to be nothing more than a large jaguar. Nevertheless, 47 offered one of the boars to the "God of Death," and gained access to the secret passage. Case in point, with the Jaguar, focused on 47's offering, 47 escaped into Ochoa's camp. 
+The Ochoa Assassination [ ] 
+Main article(s): Say Hello to My Little Friend 
+Reaching the drug lord's base of operations, Agent 47's main objectives were to take out Ochoa and blow up his drug lab in order to permanently cease cocaine production. Agent 47 infiltrated the fenced perimeter and quickly found Ochoa in his hacienda, snorting vast amounts of cocaine. The agent disposed of Ochoa's guards and confronts him on the second floor of the mansion. However, the drug lord was expecting another attempt on his life and armed himself with an M60 machine gun, ready to take out anyone who even thinks about trying to kill him.
+Ochoa with a mountain of cocaine, in his hacienda
+Following a rather long shootout, Ochoa was ultimately killed, having taken large amounts of bullets. Similar to Hong, on Ochoa's self, another cryptic letter laid, detailing Ochoa's involvement in the same project mentioned in Hong's letter. Agent 47 acquired a bomb from Ochoa's office, which he used to blow up the drug lab. Having brought down Ochoa and his drug empire, Agent 47 escaped Colombia on Ochoa's plane, awaiting further instructions from the Agency.
+Bombings at the Bath Hotel [ ] 
+Main article(s): Traditions of the Trade 
+Agent 47 looking out of a limousine window
+A new mission came after the incident in Colombia, and Agent 47 was tasked to assassinate Frantz Fuchs , an Austrian terrorist who was planning to detonate a chemical bomb in the Hotel Gallàrd in Budapest , where leaders of many great nations were present for a peace summit.
+The chemical bomb, inside Fuchs' dentist's office
+The client requested 47 to kill Frantz Fuchs and steal the bomb. Unlike his other targets, Fuchs was not powerful nor well guarded, giving 47 the capability to kill him easily. On Fuchs' desk laid two more cryptic letters from the previous two targets, all connected by the same project under unknown means, labeled only with the motto " Blood and Muscle. " Agent 47 took the bomb with him and left the hotel.
+A Gunrunner's Paradise [ ] 
+Main article(s): Gunrunner's Paradise , Plutonium Runs Loose 
+After the Fuchs' homicide, Agent 47 was sent to Rotterdam harbor where he was hired to assassinate a world-class arms dealer, Arkadij Jegorov also known as "Boris." Before his assignment, Diana informed Agent 47 that somehow all his targets so far were all connected, as each one had some involvement in French Foreign Legion together. 
+Jegorov's warhead rigged to detonate
+Unlike the previous criminals, Jegorov's whereabouts were unknown, which caused Agent 47 to track down another arms dealer, Ivan Zilvanovitch , who worked with Jegorov. By bugging a suitcase containing a large sum of money, Agent 47 managed to locate the ship in which his target was residing. Jegorov, however, prepared a thermonuclear bomb and an escape route if something, somehow, goes wrong. Agent 47 was able to enter the ship and kill Jegorov but finds out that the bomb was primed and ready to detonate. Fortunately, Agent 47 was able to disarm the bomb, thanks to its old model, before bringing the ship to international waters for an Agency pickup to arrive and evacuate him.
+The Asylum [ ] 
+Main article(s): The Setup , Meet Your Brother 
+After Jegorov's assassination, the Agency was in turmoil when they realized that the clients for the four previous missions were all one and the same, violating one of the Agency's rules. Yet, the client was so powerful that even the ICA's board of directors accepted one final request from him. The target was Dr. Kovacs , a doctor in a Romanian hospital with high security, so the Agency restricted Agent 47 from bringing any weapons from outside.
+Agent 47 in front of the Asylum's gates
+47 arrived at the hospital and entered further by using an alias, "Tobias Rieper". The receptionist let him in, but unbeknownst to 47, he phoned a man about his arrival who, in turn, called Romanian Special Forces. On the other hand, Agent 47 managed to meet Kovacs. During their conversation, Agent 47 remembered him as "the one with the needle". Kovacs, surprised, began to fear 47 and tells him that everything was Ort-Meyer 's fault. Shortly, a team of SWAT storms the front and enters the hospital to take down 47.
+47 killed Kovacs and uses his clothes as an appropriate disguise. Free of suspicion, he explored the hospital and finds Agent Smith there, drugged and chained. He freed Smith, who paid his freedom back by revealing a secret passage to the basement, where Ort Meyer's secret lab was present. Agent 47 readied himself and descended below.
+Meet Your Brother [ ] 
+The army of No. 48s
+Accessing the basement he escaped from a year earlier , 47 found out that it was used as a place for human cloning experiments.
+Suddenly, a voice came out from the loudspeaker, Dr. Ort-Meyer himself, the very same voice from one year ago. He revealed that 47 is the result of a cloning experiment which combined the genetic material of each of his four previous targets who were Ort-Meyer's associates in French Foreign Legion , as well as Ort-Meyer himself, with the goal of creating a flawless human being.
+Ort-Meyer orchestrated 47's escape from the asylum in order to test his performance in the outside world and ordered his associates' deaths because they wanted to use 47 for their own purposes, an immune super-soldier. Ort-Meyer finally told him that 47 himself has to be killed too, since Ort Meyer then created clones more powerful than him, yet unable to think themselves, making them mere puppets. The final contract was revealed to be a setup. With more than a dozen No. 48s , the army of the new clones, 47 was attacked, but his years of training proved to be superior to the clones' puppet-like maneuvers, as he slaughtered all of them. 
+Ort-Meyer's demise
+With Ort-Meyer his final target, the hitman entered his chamber by using the corpse of one of the dead clones to open the gates.
+Ort-Meyer came out and approached 47, before trying to incapacitate him with his stun gun. However, 47 showed his own creator his prowess and shot him in the chest. Bleeding and near death, Ort Meyer muttered one last phrase: " What good is a bulletproof vest, when death strikes from within? " before the 47 coldly snapped his neck on the floor, ending his life and leaving a red, insignia-like logo of blood on the floor.
+Missions [ ] 
+Codename 47 has a total of thirteen missions, taking place in five different locations across the world.
+Prologue (Romania) [ ] 
+Training 
+Hong Kong [ ] 
+Kowloon Triads in Gang War 
+Ambush at the Wang Fou Restaurant 
+The Massacre at Cheung Chau Fish Restaurant 
+The Lee Hong Assassination 
+Colombia [ ] 
+Find the U'wa Tribe 
+The Jungle God 
+Say Hello to My Little Friend 
+Budapest [ ] 
+Traditions of the Trade 
+Rotterdam [ ] 
+Gunrunner's Paradise 
+Plutonium Runs Loose 
+Epilogue (Romania) [ ] 
+The Setup 
+Meet Your Brother 
+Targets [ ] 
+Hong Kong [ ] 
+Red Dragon Negotiator 
+Blue Lotus Emissary 
+Blue Lotus Triad Members
+(Another) Red Dragon Negotiator
+Hong Kong Chief of Police 
+Lee Hong 
+Colombia [ ] 
+Pablo Ochoa 
+Budapest [ ] 
+Frantz Fuchs 
+Rotterdam [ ] 
+Arkadij Jegorov 
+Epilogue (Romania) [ ] 
+Dr. Kovacs 
+Numerous No. 48 Clones
+Otto Wolfgang Ort-Meyer 
+VIPs [ ] 
+Blue Lotus Emissary 
+Lei Ling 
+Agent Smith 
+Ivan Zilvanovitch 
+Weapons [ ] 
+Sidearms [ ] 
+AMT 1911 'Hardballer' 
+Beretta 92 
+ Beretta 92. Silenced 
+Desert Eagle Mark XIX 
+Luger P08 SD 
+Derringer 
+Submachine Guns [ ] 
+Heckler & Koch MP5 
+ Heckler & Koch MP5SD 
+Israeli Military Industries UZI 
+Assault Rifles [ ] 
+Kalashnikov AK47 
+Kalashnikov AK103 
+M16A2 
+Sniper Rifles [ ] 
+Blaser Jagdwaffen R93 Sniper 
+Walther WA2000 Sniper 
+Machine Guns [ ] 
+US Army M60 
+M134 Minigun 
+Shotguns [ ] 
+Franchi PA3/215 
+Mossberg Persuader Shotgun 
+Sawn-off Shotgun 
+Melee Weapons [ ] 
+Fiber Wire 
+Oyabun knife 
+Pentagon knife 
+Kitchen knife 
+Meat Cleaver 
+Poison Syringe 
+Other [ ] 
+Poison 
+Bomb 
+Unusable [ ] 
+Some weapons usable only by NPC's and not by the player are featured in the game.
+Stun Gun 
+Blowgun (Available through cheats)
+Chinese Sword 
+Soundtrack [ ] 
+Main article(s): Hitman: Codename 47/Soundtrack 
+The soundtrack of Codename 47 was composed by Jesper Kyd (along with the piece "Intro" being co-composed by Pierre Földes, [1] and sound design by Jun Mizumachi), [2] and wasn't released until May 3, 2005, in a dual-disc format along with the soundtrack of its successor, Hitman 2: Silent Assassin .
+Reception [ ] 
+Codename 47 generally received mixed reviews, which edges on positive, if not very positive. It earned a 7.5 from IGN, rating it good, and the critic humorously stating " I was considering an exciting new career before I played this game. " [3] .
+Codename 47 got a 73.65% from GameRankings [4] , a 73% from popular Metacritic reviewers, and a 7.7 out of 10 out of its user score [5] . IMDb gave the game a 6.9 out of 10 [6] , and GameSpot gave the game a 5.2 out of 10, the reviewer stating " Even if you like the basic premise and action of the game, a number of very serious flaws quickly sap up the entertainment. " [7] 
+Eurogamer gave the game 8 of 10 [8] , and GOG gave the game a 4.1 out of 5 [9] .
+On Steam, the user reviews reached overall a "Mostly Positive," with around 74% in user reviews (in a total of 1,039 reviews) being positive, giving the game a 7 out of 10 (as of April 2 nd , 2018). [10] 
+Codename 47 received a "Silver" sales award from the Entertainment and Leisure Software Publishers Association (ELSPA), [11] indicating sales of at least 100,000 copies in the United Kingdom. [12] 
+Trivia [ ] 
+Codename 47 is the only PC and Windows exclusive game in the Hitman series. [9] [10] 
+If the player allows Agent 47's bank account to go beneath $0, the Agency will "cancel" 47's account, making the player fail the game, thus restarts the mission. So far, this is the only Hitman game to have that function (as it is the only Hitman game where you lose money for partaking in a mission).
+Codename 47 was one of the first games to use ragdoll physics, [13] beaten out by Jurassic Park: Trespasser in 1998.
+ Codename 47 was also one of the first games, if not the first to include world-based physics for foliage and other materials.
+During development, Codename 47 was originally named " Hitman – The Game " as a likely placeholder. [14] 
+Gallery [ ] 
+Promotional Art [ ] 
+Promotional screenshot of Agent 47 killing Dr. Ort-Meyer in an Asylum office (instead of Dr. Kovacs).
+Promotional screenshot of Frantz Fuchs in the Hotel Gallàrd's thermal bath (instead of his brother, Fritz ).
+Promotional poster showing Arkadij Jegorov 's Mercenaries.
+Concept Art [ ] 
+Codename 47 was still named " Hitman - The Game ."'"`UNIQ--ref-00000013-QINU`"'" data-src="http://web.archive.org/web/20241211211049/https://static.wikia.nocookie.net/hitman/images/4/41/C47-HitmanTheGamePromo.jpg/revision/latest/scale-to-width-down/148?cb=20180411014736"/> 
+The front cover concept from 1998, when Codename 47 was still named " Hitman - The Game ." [14] 
+Back cover of the box.
+References [ ] 
+↑ Hitman: Codename 47/Hitman 2: Silent Assassin Soundtracks - Back Cover 
+↑ DISCogs.com - Hitman: Codename 47 Track Listing 
+↑ IGN Review 
+↑ GameRankings Reviews 
+↑ Metacritic Review 
+↑ Internet Movie DataBase Review 
+↑ GameSpot Review 
+↑ Eurogamer Review 
+↑ 9.0 9.1 GOG (Good Old Games) Page 
+↑ 10.0 10.1 Steam Page 
+↑ "ELSPA Sales Awards: Silver" Entertainment and Leisure Software Publishers Association 
+↑ Caoili, Eric (November 26, 2008). "ELSPA: Wii Fit , Mario Kart Reach Diamond Status In UK" 
+↑ "Gamasutra - Features - "Advanced Character Physics" printer friendly" graphics.cs.cmu.edu 
+↑ 14.0 14.1 IO Interactive on Twitter - 4/10/18 
+Missions in Hitman: Codename 47 
+Prologue (Romania) 
+Training 
+Hong Kong 
+Kowloon Triads in Gang War - Ambush at the Wang Fou Restaurant - The Massacre at Cheung Chau Fish Restaurant - The Lee Hong Assassination 
+Columbia 
+Find the U'wa Tribe - The Jungle God - Say Hello to My Little Friend 
+Hungary 
+Traditions of the Trade 
+Rotterdam 
+Gunrunner's Paradise - Plutonium Runs Loose 
+Epilogue (Romania) 
+The Setup - Meet Your Brother 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman 
+Hitman: Codename 47 
+Featured Articles 
+Languages 
+Deutsch 
+ Español 
+ Français 
+ Italiano 
+ Português do Brasil 
+ Русский

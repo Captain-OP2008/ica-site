@@ -1,0 +1,460 @@
+"Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world." 
+― Hitman: Absolution's Tagline. 
+Hitman: Absolution
+Game Information:
+Developer:
+IO-Interactive 
+Publisher:
+Square Enix Europe 
+Feral Interactive (Mac OS X) 
+WB Games (HD Enhanced Collection) 
+Release Date:
+November 20, 2012
+ November 20, 2012
+ November 20, 2012
+ January 24, 2013
+ January 11, 2019 (HD Enhanced Collection)
+Engine:
+Glacier 2
+Size:
+25.3 GB (25300 MB)
+Genre:
+Action
+Platforms:
+Microsoft Windows 
+ Mac OS X 
+ PlayStation 3 
+ PlayStation 4 
+ Xbox 360 
+ Xbox One 
+Game Mode(s):
+Single-Player (With Online Competition/Leader-boards) 
+Official Website(s):
+Absolution Webpage (ioi.dk) Official Absolution Webpage (Absolution.Hitman.com) Hitman Webpage (Hitman.com) 
+Hitman: Absolution is the fifth title in the Hitman series developed by IO Interactive and published by Square Enix . The game was released for the PlayStation 3 , Xbox 360 and Microsoft Windows on November 20, 2012. [1] The elite edition, which contains all DLCs, was released for Mac OS X on May 15th, 2014 by Feral Interactive. It also featured backwards compatibility on the Xbox One .
+Hitman: Absolution runs on IO Interactive's proprietary Glacier 2 game engine, combining classic Hitman game mechanics with new mechanics. [2] 
+The game's story further delves into the mysterious life of Agent 47 , the series' protagonist. Hitman: Absolution was unveiled at the E3 2011 in Los Angeles.
+Contents
+1 Gameplay 
+1.1 New features 
+2 Plot 
+2.1 A Personal Contract 
+2.2 Escape and Evade 
+2.3 Rosewood Massacre 
+2.4 Arrival at Hope 
+2.5 Attack of The Saints 
+2.6 Return to Chicago 
+2.7 Absolution 
+3 Missions 
+3.1 Prologue 
+3.2 Chicago 
+3.3 Hope, South Dakota 
+3.4 Chicago 
+3.5 Epilogue 
+4 Targets 
+4.1 Prologue 
+4.2 Chicago 
+4.3 Hope, South Dakota 
+4.4 Chicago 
+4.5 Epilogue 
+5 VIPs 
+6 Items 
+6.1 Firearms 
+6.2 Melee Weapons 
+6.3 Explosives 
+6.4 Other 
+7 Development 
+8 Reception 
+9 Trivia 
+10 Gallery 
+11 Videos 
+12 See also 
+13 References 
+14 External links 
+Gameplay [ ] 
+In Hitman: Absolution, the player assumes the role of Agent 47. Presented from a third-person perspective, the gameplay centers around completing set objectives within a series of levels. Objectives can range from simply reaching the end of the level, to killing specific individuals.
+Unlike its predecessors, Absolution follows linear gameplay. Big, sandbox type missions of previous titles are now replaced by linear levels, divided into several mini-missions, called segments, which are connected to each other via a single entrance or exit.
+Despite linear level design, however, players can choose how to complete each level to some extent, using firearms and melee weapons against enemies if opting for the action-oriented approach, or avoid enemies altogether and only attacking the set target(s), if using the stealth-oriented approach. Agent 47 also has the ' Instinct ' ability that lets the player monitor enemies more easily. There are also environmental ways to kill or distract individuals; players can use poison to spike coffee, pull switches to make a disco ball fall and break, cause a massive explosion at a gas station, pull a switch to cause scaffolding to fall down, cause fires, or set off fireworks. Players complete chapters in order to progress through the story. The player journeys to various locations, including a mansion, library, strip club, gun store, wrestling arena, courthouse, and hotel during the story.
+Like the previous Hitman titles, Absolution also relies on disguise system to complete a mission. However the disguise detection system has been changed completely from previous games, as the people wearing similar clothes to that of 47 can see through his disguise faster, even from a medium distance, while others cannot see though it. Players can use instinct ability to blend into environment and act casually, thus eradicating the chances of detection through disguises.
+The game also introduces an online option to Hitman series , ' Contracts Mode ', where players can create their own missions for other players to complete. Players choose one of the areas from the game's story missions and decide which NPC's are required to be eliminated, what weapon must be used to eliminate each target, what disguise is required, whether the body must be hidden or not and if the player is allowed to be spotted by the enemies. However servers for Contracts Mode has have since been shutdown, potentially forever.
+New features [ ] 
+47's health now automtically regenerates after taking damage, however the health bar will shrink over time until he uses a First Aid Station .
+Saves are replaced by checkpoints.
+Large, self-contained, open-ended missions have been replaced by a series of linear mini-missions, each connected via a single door. No mini-missions contain multiple exit points, nor do any allow players to leave the same way they came in.
+There are cinematic sequences during the missions, therefore, the newspaper feature is removed.
+Point shooting , which allows 47 to place strategic shootings in slow motion to kill multiple enemies quickly at the cost of Instinct, similar to the Dead Eye mechanic in Red Dead Redemption or Mark And Execute from Splinter Cell: Conviction and Blacklist . 
+Absolution formerly introduced a " Contracts Mode ", which allowed players to select up to three targets from within any level to assassinate and create a custom made challenge that could be saved and shared online. They could bring in any weapons they like and used any weapons from within the level, but they had to be able to complete the contract they set up in order to be allowed to save the challenge. [3] 
+ Weapons and disguises collected during Story Mode were used on Contracts Mode for free, but the player was also buy them using money gain from contracts. 
+47 can take cover and peek around corners similar to most third person shooters. He can also grab targets over low covers.
+Absolution has an improved firearm aiming system that is more typical of third person shooters, unlike the previous games, as aiming the gun is required before firing it. The first-person view is also removed.
+The ability to hold Breath is introduced, which makes 47 stronger in hand to hand combat.
+47 can now conceal heavy weapons or long rifles, thus removing the ICA crates and weapon briefcases.
+47 can now subdue or kill targets from behind with his own hands, removing the necessity of sedatives.
+47 can now use his exceptional hand to hand combat training to his advantage during gameplay against other NPCs in the form of a quick time event.
+All the melee weapons kills in one hit regardless of use in front or behind.
+Some melee weapons, such as the bust, the bottle and the bong, will break after being used.
+Dual-wielding has been greatly expanded upon; now 47 can switch from carrying two of smaller firearms to only carrying one and vice versa mid-mission (if two of them are collected), unlike in Hitman: Blood Money where the player had to choose between carrying one or two Silverballers before the mission started. Furthermore, when 47 dual-wields handguns, the pistols are fired one at a time and not simultaneously like before, allowing for less frequent reloads, and better efficiency.
+The circular inventory system has been removed and replaced with a D-pad-like one (or a simple vertical one if on PC and using keyboard and mouse) that doesn't pause the game when brought up. It's also limited to the pair of Silverballers, another kind of handgun (plus one of the same for dual-wielding if found), a sniper rifle, another large weapon such as a submachine gun (which can also be dual-wielded if another is found) or an assault rifle or a shotgun, a garrote weapon (usually the fiber wire ), another melee weapon and a Remote Explosive .
+47 can now find poison and sedatives in some of the levels. They are no longer available from the beginning, nor they are able to be obtained through the upgrades.
+The throwing mechanism has been improved with a lock-on system, when 47 throws bladed weapons such as knives and axes. When throwing a object, the game now shows its trajectory to make aiming easier.
+The Fiber Wire or a garroting weapon is now used by simply pressing a specific button, instead of first tensing the wire before executing the attack like in previous games. 47 now drag the targets with fiber wire immediately after strangling them.
+47 can no longer drop or throw firearms. Frisk searches, metal detector wands, and full-sized metal detectors have been completely removed.
+47 can now take off silencers or put them on any time. Silenced weapons deal less damage but are useful for killing enemies silently.
+47 can now hang on to ledges and move and can also grab NPCs above him or through windows and pull them over the edge, thus killing them.
+47 can now hide two bodies in the Body Containers and also hide himself in them. Additionally, closets can now be used to hide bodies in.
+47 can navigate through vents, allowing him to travel undetected while also scanning the environment for enemies.
+47 can no longer walk around completely safely wearing a disguise as NPCs wearing same clothes will recognize him through the disguise. To prevent this, 47 can use Instinct, while in their sight radius, to trick them or simply keep his distance.
+47 can now interact with his environment to hide at a safe spot , such as standing by a box of donuts pretending to eat one while disguised as a cop, standing by a food stand pretending to read a menu, or hanging on a wooden cross disguised as a scarecrow.
+47 can now trigger car alarms by hitting or shooting the car to create a distraction. Previously, this was only possible by shooting the cars. Also, cars are now explosive.
+Instead of using the coin as the primary mean of distraction, 47 can now use bottle, brick, melee weapon or even activate the radio for distractions.
+If 47 is caught trespassing or doing some other suspicious activity by guards, the rest of the NPCs won't be alerted immediately like in older games. Instead, he will be asked to leave (if trespassing) or held at gunpoint and will have a moment to gain control of the situation by killing them or knocking them out before they can alert other people. 47 can also fake surrender, where he will grab the guard who approaches him, disarm them and take them as a human shield . When holding a human shield, 47 can no longer reload weapons.
+The game now has a score system which gives points for actions such as killing discretely, hiding bodies and performing headshots and deducts points for infractions such as being spotted and killing non-targets. Subduing non-targets will also deduct points, however if the body is hidden, then the lost points will be restored. Each segment has separate scores, which determine the total score in a level. The rating is awarded depending upon the score.
+There are multiple objectives/achievements to unlock for each level, done through Challenges , that also affect the final score of a mission. The objectives vary, from collecting evidence to infiltrating using a specific disguise. Most of these deal with the way a target is eliminated or how many disguises 47 uses during a playthrough. The objectives are so varied that it's impossible to get them all during a single session, and some of them directly oppose each other (such as Suit Only and Chameleon, the latter being collect all disguises), encouraging the player to replay levels and try different tactics.
+If 47 triggers a full scale alert, the level's guards might call for backup.
+Crowds have been drastically improved, reacting to violence and alerting guards.
+Civilian NPCs will sometimes report gunshots, explosions, and bodies to 47 if he is disguised as a guard or police officer or the military.
+Plot [ ] 
+Note: While the general plot of Absolution follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+A Personal Contract [ ] 
+Following the events of Hitman: Damnation , Agent 47 's handler Diana Burnwood , without explanation, betrayed her employer, the International Contract Agency (ICA). She disclosed the agency's existence to the public and sabotaged their funding and database before using the subsequent confusion to vanish. After the ICA recovered from the damage, 47 was tasked by his new handler, high-level Agency official Benjamin Travis , to eliminate the treacherous Burnwood woman and retrieve a mysterious teenage girl named Victoria from her mansion in Chicago , Illinois.
+47 shoots Diana.
+47 arrived at the mansion under the cover of an ice cream truck driver and snuck inside, confronting Diana while she was having a shower. She noticed 47 before he could fire and pleaded for him to listen, but he took a shot regardless. As Diana collapsed onto the floor and 47 went to deliver the final shot to end her life, the agent stopped and comforted his dying friend out of a desire to know why she betrayed the ICA. Diana told 47 that she had uncovered a plot by Travis to genetically-engineer Victoria into a superhuman assassin, in similar fashion to Agent 47's creation by the Ort-Meyer project . Not wishing to see Victoria suffer the same fate as 47, she betrayed the ICA and escaped with her. Honoring Diana's final request, 47 agreed to protect Victoria. He took her away from the mansion and cut off communications with Travis. Realizing quickly that 47 had turned his back on the Agency, Travis branded the legendary assassin a traitor and demanded that every agent available work to locate him before he could slip away.
+Escape and Evade [ ] 
+47 hides in a library while evading the police.
+With help from a nun named Sister Mary , 47 dropped Victoria off at the Rosewood Orphanage to hide, reasoning that all of his other hideouts were known by ICA. Following this, he contacted Birdie , a former ICA operative, for information about the Agency and anyone after Victoria, which Birdie agreed to provide once 47 had assassinated a crime boss in Chinatown for him. 47 killed the so called "King of Chinatown", but Birdie additionally asked for 47's Silverballers as additional payment. Birdie gave 47 a tip about an "arms industry VIP" named Blake Dexter , head of Dexter Industries , who was staying at the top floor of the Terminus Hotel and trying to get his hands on Victoria. 47 snuck into the hotel and, from a conversation between Dexter and his secretary Layla Stockton in his penthouse, learned that Dexter was planning to kidnap Victoria and collect a ransom from the highest bidder. 47 attempted to garotte Dexter's bodyguard Sanchez before dealing with Dexter, but failed; Sanchez's superhuman strength and durability allowed him to survive the attack and knock out 47 by throwing him through the door of Dexter's room. Dexter, identifying 47, opted to kill a hotel maid to frame the hitman and set the penthouse on fire to cover his tracks. 47 was able to get out of the room, but soon the hotel was surrounded by Chicago police. 47 managed to escape the hotel, avoiding the policemen and their helicopter through an abandoned library and apartment, before arriving at a railway station he used to leave the area.
+Rosewood Massacre [ ] 
+After 47's narrow escape, Birdie informed the agent about Dexter's informant in Chicago, strip club owner Dominic Osmond , believing him to be the man informing Dexter about Victoria . After carrying out the assassination, 47 listened to a taped phone call in the late Osmond's office and found out that Dexter had hired a mercenary group led by Edward Wade to find Birdie and get Victoria's location from him. Birdie called 47 for help immediately. 47 headed back to Chinatown , passing through a derelict building and store, before killing some of Wade's thugs searching for Birdie. However, as he reached Birdie's hideout, 47 discovered that the informant had already been captured. He immediately headed to the orphanage , unaware that Birdie had betrayed him to save his own life by revealing Victoria's location to Wade.
+Lenny takes Victoria hostage with a grenade.
+47 managed to arrive at Rosewood just as Wade and his men attacked. He took Victoria with him and headed for the elevator to hide in the basement, but the power was cut off by Wade's men, forcing 47 to find fuses and restore power. However, before he could get into the basement, Wade captured Victoria. Sister Mary tried to intervene, but Dexter's son Lenny unintentionally killed her at Wade's provocation. 47 made it into the basement and managed to mortally wound Wade, but Lenny escaped with Victoria. Learning where to find Dexter from the dying Wade's matchbox, 47 stole Wade's car and headed to Hope , South Dakota, a town ruled by Dexter and his hired guns as well as corrupt sheriff Clive Skurky .
+Meanwhile, Birdie met with Dexter and told him about Dom Osmond's murder by 47, offering his own information services in the club owner's stead. Dexter refused, having already secured Victoria and having no further need for an informant, but let Birdie leave with his life after he mentioned that ICA was after Victoria . Birdie, angered yet eager still to gain from the situation, sent an offer to Travis: a tip on 47's location in exchange for a payout.
+Arrival at Hope [ ] 
+47 arrives at Hope, South Dakota.
+After arriving at Hope, 47 learned of Lenny's location from a local bartender before being contacted by Birdie, who had arranged for the assassin's Silverballers to be dropped off at a gun store nearby. After retrieving his iconic pistols, 47 took out Lenny's gang, the " Hope Cougars ", who were planning to kidnap Victoria from Dexter and sell her to a rival weapons company without Lenny's knowledge. He subdued Lenny, drove him out into the wilderness, and subsequently interrogated him about Victoria's location. Lenny revealed that his father had ordered him to leave her with Sanchez, who ran underground cage fights at Dexter's factory. Lenny's ultimate fate is unknown, but eventually never made it out of the desert alive.
+Meanwhile, Blake Dexter was informed by one of his scientists, Dr. Warren Ashford , of Victoria's unusual biology, with her abilities only activated by an isotope in her necklace. Shortly after, Dexter found out about the kidnapping of his son Lenny. Enraged by the news, Dexter arranged for Sheriff Skurky to find Lenny while he met with Travis and his assistant Jade Nguyen to set up a ransom for Victoria.
+47 arrived at Dexter Industries headquarters and, in an effort to prevent others from trying to make use of Victoria, eliminated the facility's top scientists and erased and/or stole any research data on her that he could find. 47 found out that Sanchez had left Victoria at the courthouse with the Sheriff before killing Sanchez during one of his cage fights.
+Attack of The Saints [ ] 
+The Saints arrive at the hotel.
+47 took time to recuperate at the nearby Waikiki Inn, but only narrowly survived a surprise attack by an ICA strike team. The team was helmed by the Saints , a so-called "pet project" of Travis's consisting of several elite female assassins. 47 systematically neutralized the Saints down to the last, including their leader, Lasandra Dixon , before taking one of their communicators and letting Travis know that the Saints had failed in their mission. Enraged and humiliated, Travis personally headed to Hope with a small army of ICA operatives to kill 47 and find Victoria.
+47 managed to find Victoria under the Hope Courthouse jails, but was subdued by Sheriff Skurky using an electrified pool of water and a taser. Dexter would arrive and attempt to torture 47, demanding to know what became of Lenny, but left after Skurky assured him that he would be able to handle the situation. Taking advantage of a brief moment alone, 47 was able to retrieve his pistols and escape the courthouse. Just as 47 escaped, Travis's group of ICA operatives took over the town and shot Skurky in the leg. 47 chased the wounded Skurky to a church and mortally wounded him in a standoff after the Sheriff took a hostage. As 47 tortured him for information by stepping on his wounded leg, Skurky told him that Dexter was heading with Victoria to Blackwater Park in Chicago before the sheriff finally succumbed to his wounds. 47 subsequently left the smoking ruins of Hope and made his way to Chicago in a commandeered hearse.
+Return to Chicago [ ] 
+As 47 arrived in Chicago, he made a quick stop at Tommy Clemenza 's tailor shop to replace his worn out suit for a new one in preparation for his confrontation at Blackwater Park.
+Meanwhile, Dexter and Travis met to go through with the ransom, but Travis attempted to renege on his end of the deal. In response, Dexter shot an unrelated bound and gagged woman he had brought in under the apparent pretense of her being Victoria. Startled and fearing for Victoria's safety, Travis agreed to hand over the money in advance and leave empty-handed for the time being.
+After infiltrating Blackwater Park, 47 took out a surveillance camera in the elevator, unintentionally alerting Dexter's security team. Layla told Dexter that he should leave with Victoria, assuring him that she would stop the assassin.
+47 was able to eliminate Layla and discover Dexter's panic room. Listening in with Layla's phone, he found out that Dexter was trying to deal with 47 permanently by escaping on a helicopter and destroying the entire building he was on as he departed. 47 would manage to sneak up to and eliminate Dexter, who, with his dying words, offered an apology to his son...and his money. This prompted a disgusted and incensed Victoria to throw the $10 million on his body before leaving with 47.
+Absolution [ ] 
+"You will never know."
+A few months later, Travis and his assistant Jade Nguyen arrived at a cemetery in England with an ICA crew to find Diana 's grave, as he suspected that 47 may not have went through with killing Diana despite confirming the kill. 47 arrived there as well, recounting the letter Diana gave to him. In the letter, Diana revealed Victoria was created by Travis's funding without the knowledge and approval of ICA's upper eschelons and tasked him to eliminate Travis. After eliminating Jade and Travis's elite bodyguards, the Praetorians , 47 confronted Travis himself after injuring him in an explosion. As Travis ranted at 47 for wasting Victoria's potential for the ICA, he asked 47 if he really did kill Diana. 47 refused to give a clear answer with a resounding " You will never know " and shot Travis in the head.
+As Travis suspected, Diana had, in fact, survived, with 47 having brought Victoria to her to ensure her safety. Victoria would contemplate tossing her isotope necklace into a body of water, with Diana encouraging her to "do what you have to." Victoria's ultimate decision and fate are unknown. Diana would later send a message to 47, welcoming him back to the ICA proper and thanking him for his help. The game ends with a final scene involving Chicago police detective Cosmo Faulkner , who had been tracking 47 since the Terminus Hotel fire. He is visited by the duplicitous Birdie , who offers to help him for a price.
+Missions [ ] 
+Hitman: Absolution consists of 20 missions. All of them, except the epilogue, take place in Chicago and fictional town of Hope in South Dakota.
+Prologue [ ] 
+A Personal Contract 
+Chicago [ ] 
+The King of Chinatown 
+Terminus 
+Run For Your Life 
+Hunter and Hunted 
+Rosewood 
+Hope, South Dakota [ ] 
+Welcome to Hope 
+Birdie's Gift 
+Shaving Lenny 
+End of the Road 
+Dexter Industries 
+Death Factory 
+Fight Night 
+Attack of the Saints 
+Skurky's Law 
+Operation Sledgehammer 
+Chicago [ ] 
+One of a Kind 
+Blackwater Park 
+Countdown 
+Epilogue [ ] 
+Absolution 
+Targets [ ] 
+Prologue [ ] 
+Diana Burnwood 
+Chicago [ ] 
+The King of Chinatown 
+Dominic Osmond 
+Bill Dole 
+Larry Clay 
+Frank Owens 
+Edward Wade 
+Hope, South Dakota [ ] 
+The Hope Cougars 
+ Tyler Colvin 
+Landon Metcalf 
+Gavin LeBlond 
+Mason McCready 
+Luke Wheeley 
+Lenny Dexter (optional)
+Marcus Green 
+Raymond Valentine 
+Warren Ashford 
+Sanchez 
+The Saints 
+ Jennifer Anne Paxton 
+Heather McCarthy 
+Agnija Radoncic 
+Dijana Radoncic 
+Louisa Cain 
+Jaqueline Moorhead 
+Lasandra Dixon 
+Kurt J. Dean (optional Target)
+Raymond A. Campisi (optional Target)
+James S. Giguere (optional target)
+Clive Skurky 
+Robert Goddard (optional)
+Elton Russell (optional)
+Chicago [ ] 
+Layla Stockton 
+Blake Dexter 
+Epilogue [ ] 
+Jade Nguyen 
+The Praetorians 
+ Jack Aegis 
+John Hoplon 
+Carey Scutum 
+Benjamin Travis 
+VIPs [ ] 
+Victoria ( Rosewood and Countdown )
+Great Balls of Fire Bartender 
+Hope Preacher 
+Waikiki Inn Manager (optional)
+Floyd 
+Lenny Dexter ( Shaving Lenny only)
+Ning Tai (optional)
+Kyle J. Brown (optional)
+Jim Joyner (optional)
+Merle Ginsberg (optional)
+Items [ ] 
+For the category, see Hitman: Absolution weapons .
+Firearms [ ] 
+Agency ARZ 160 
+Agency Dynamics CPW 
+Agency HX UMP 
+Agency JAGD P22G 
+Agency Kazo TRG 
+Agency RPG (Cutscene only)
+Agency SPS 12 
+AH 74U 
+Aries 24-7 
+Aries Charging Ram 
+Bartoli Custom 
+Bronson M1928 
+Dexter's Ultramax 
+HX AP-15 
+HX UMP 
+Ilyon R700 
+Jagd P22G 
+Kazo TRG 
+Krugermeier 2-2 
+Layla's JAGD P22G 
+M590 12ga 
+Mustang Snub 
+Pink Aries Charging Ram 
+Police M590 12ga 
+SA .44 Auto 
+Silverballers 
+Skurky's Mustang Snub 
+SPS 12 
+Steiner-Bisley Zenith 
+STG 58 
+STG 58 Elite 
+Swiss 3000 
+Swiss Derringer 
+The Absolver 
+Travis' Swiss 3000 
+Ultramax 
+Worn M590 12ga 
+Worn Z&M Model 60 
+Z&M Model 60 
+Zug TMP 
+Melee Weapons [ ] 
+Agency Tanto Knife 
+Axe 
+Baseball Bat 
+Battle Axe 
+Bill Spike 
+Bong 
+Book 
+Bottle 
+Brick 
+C4 Brick 
+Cleaver 
+Coffee Mug 
+Crowbar 
+Dog's Bone 
+Dummy Arm 
+Fiber Wire 
+Filet Knife 
+Fire Axe 
+Fire Extinguisher 
+Fire Poker 
+Folding Knife 
+Gasoline Can 
+Gavel 
+Glass Shiv 
+Golf Club 
+Hammer 
+Hula Girl 
+Iron 
+Katana 
+Kitchen Knife 
+Mace 
+Measuring Tape 
+Metal Pipe 
+Morning Star 
+Plunger 
+Police Baton 
+Power Cord 
+Radio 
+Scissors 
+Screwdriver 
+Sledge Hammer 
+Statue Bust 
+Syringe 
+Tomahawk 
+Toy Robot 
+Vase 
+War Hammer 
+Wrench 
+Explosives [ ] 
+Remote Explosive 
+C4 Brick 
+Proximity Mine 
+Other [ ] 
+Birdie's File 
+Fire Paste 
+Fugu Fish 
+Glass 
+Keycard 
+Lighter Fuel 
+Movie Reel 
+Proximity Detector 
+Rat Poison 
+Sleeping Pills 
+Teddy 
+U'wa Tribe Poison 
+Development [ ] 
+Though plans to continue the Hitman franchise were first announced in 2007, [4] it was not until May 2009 that Eidos confirmed the game was in development. [5] Certain plot details for the game were rumored in 2009, stating that the game's story would lead Agent 47 to a low point from which he would have to rebuild himself. [6] 
+On April 20, 2011 Square Enix filed the trademark for the name Hitman: Absolution in Europe, leading sites to speculate that it would be the name of the fifth Hitman game. [7] 
+On May 10, 2011 a teaser trailer was released, confirming the title: Hitman Absolution . The short, 27 second trailer, briefly showed Agent 47 attaching a silencer and a rattle snake coiled around his Silverballer pistol. It has been reported the game will be "familiar and yet [a] significantly different experience from other Hitman Games." [8] 
+Keith Carradine has been hired to play the main villain, Blake Dexter . Marsha Thomason will voice Diana Burnwood , 47's traditional voice actor, David Bateson , was originally replaced, but it was later confirmed that he would be returning to voice 47. Jesper Kyd will not return to compose the soundtrack.
+On May 10, 2012 a blog at Barcode Society [1] officially unveiled the release date of Hitman: Absolution as November 20, 2012 and introduced Hitman: Sniper Challenge , a stand-alone Gamestop pre-order bonus for PS3 and Xbox 360.
+On May 30, 2012, IOI released E3 2012 trailer, called Attack of The Saints , showing Agent 47 against The Saints , a special team of assassins sent by ICA to kill him. The trailer received criticism for depicting the nuns in a sexual manner, which prompted Tore Blystad to apologize for the problem in an E3 interview. [9] 
+On August 28, 2012, IO announced that David Bateson, who wasn't scheduled to voice 47 in Absolution , will be returning to the franchise after all. [10] 
+Reception [ ] 
+Hitman Absolution received a positive reception. IGN gave it a 9, with the tagline "Well executed". GameRankings gave it 84.83% on PS3, 79.29% on Xbox 360, and 76.13% on PC. Metacritic gave it 83 on PS3, and 79 each on Xbox 360 and PC, reviewing "An excellent game with an almost Grindhouse film aesthetic to it". IMDb gave the game an 8.8 on 10. Gamespot gave the game a 7.5. Giantbomb gave the game an 8.5. The Official Playstation magazine and Official Xbox magazine gave the game 9 out of 10 and 10 out of 10, respectively. Gamemaster gave the game 90%, the Daily mail gave the game a 4/5 and Edge gave the game 7/10. However, the game also received criticism, where PC gamer gave the game 66%, saying "a passable stealth game, but the one that betrays almost everything that, so far, has made Hitman great".
+Trivia [ ] 
+Absolution is the only game in the franchise to take place almost entirely in the continental United States , with only the epilogue taking place out in a different country, namely England .
+The Xbox 360 version of the Professional Editions Artbook isn't available to be bought digitally. The pages do not appear to be digital online either.
+Absolution was released on November 20, 2012, which is the forty-seventh week in the year (a reference to the protagonist, Agent 47).
+Absolution is the only game in the franchise not to feature Carlton Smith .
+The game was changed several times during production, with the developers playing around several ideas for the game, such as playable Edward Wade , using 47's tie as a substitute for fibber wire and allowing players to use a rocket launcher. More info about the game's development phases can be found on the (currently) Apple exclusive app Hitman: Absolution Full Disclosure . The apps content can also be found here .
+In 2012 a short documentary was created titled " Burning Hope: The Making of Hitman: Absolution " which showed a lots of behind the scenes footage of the actors/actresses playing characters and developers showing pre-release content.
+In the intro from the HD Enhanced Collection, the Square Enix logo is replaced with the Warner Bros. Interactive Entertainment logo, as WB Games published the enhanced port.
+ This was later replaced with the WB Games logo in a patch.
+Despite the game's largely positive reviews, it is regarded by most fans of the series as the worst Hitman game.
+Absolution is the first game in the franchise that has Japanese dub.
+Gallery [ ] 
+Hitman Absolution for the Xbox 360 (original)
+Hitman Absolution Poster
+Hitman Absolution - Xbox 360 Cover
+Experimental cover art 1
+Experimental cover art 2, which ended up being the official cover art.
+Experimental cover art 3 only in the steelbook without the 18
+Hitman: Absolution cover arts for Xbox 360, PS3 and PC (left to right)." data-src="http://web.archive.org/web/20241220085122/https://static.wikia.nocookie.net/hitman/images/f/f8/Box_art_for_Hirman_Absolution.jpg/revision/latest/scale-to-width-down/200?cb=20120314031431"/> 
+The official Hitman: Absolution cover arts for Xbox 360, PS3 and PC (left to right).
+Standard edition
+Professional Edition
+Deluxe Edition
+Hitman: Absolution logo" data-src="http://web.archive.org/web/20241220085122/https://static.wikia.nocookie.net/hitman/images/8/83/Absolution_Logo.jpg/revision/latest/scale-to-width-down/180?cb=20121118191733"/> 
+Hitman: Absolution logo
+Hitman: Absolution logo " data-src="http://web.archive.org/web/20241220085122/https://static.wikia.nocookie.net/hitman/images/c/c2/Hitman_Absolution_Logo_decay.jpg/revision/latest/scale-to-width-down/180?cb=20121118191827"/> 
+Decayed Hitman: Absolution logo 
+Absolution ." data-src="http://web.archive.org/web/20241220085122/https://static.wikia.nocookie.net/hitman/images/f/f6/Various_achievements_in_Hitman-_Absolution.png/revision/latest/scale-to-width-down/180?cb=20130620135216"/> 
+Various icons of various achievements that can be achieved in Absolution .
+Videos [ ] 
+Hitman Absolution - Deus Ex DLC Trailer 
+Deus Ex DLC Trailer
+Hitman Absolution - Agent 47 ICA File Trailer 
+ICA File Trailer
+Hitman Absolution The Ultimate Assassin 
+The Ultimate Assassin
+Hitman Absolution Introducing the World 
+Introducing the World
+Hitman Absolution Introducing a Living Breathing World Trailer 
+A Living, Breathing World
+Hitman Absolution Teaser Trailer 
+Teaser Trailer.
+Hitman Absolution E3 2011 Trailer
+ E3 2011 Trailer.
+Hitman Absolution - Run For Your Life Playthrough 
+Run For Your Life Playthrough.
+Hitman Absolution - A Personal Contract VGA 2011 Trailer
+ A Personal Contract.
+Hitman Absolution (VG) () - Attack Of The Saints trailer 
+Attack of the Saints.
+Introducing Agent 47 - Hitman Absolution Gameplay Trailer
+ Gameplay Trailer.
+Hitman Absolution Gamescom 2012 Introducing Contracts Trailer HD
+ Gamescom Introducing Contracts Trailer
+Hitman Absolution (VG) (2012) - Contracts trailer 
+Contracts Trailer
+Hitman Absolution Full Disclosure Trailer 
+Full Disclosure Trailer
+Hitman Fan Made logo
+ Fan Made Logo
+See also [ ] 
+Achievements 
+Easter Eggs 
+Glitches 
+References [ ] 
+↑ 1.0 1.1 Sniper Challenge and Absolution Release Date 
+↑ Agent 47 Steps Out of the Shadows in Hitman: Absolution 
+↑ Barcode Society 
+↑ SCiAR07 
+↑ Hitman 5, Kane & Lynch Sequel And Movie In The Works 
+↑ News: Hitman 5 out 2010 - plot details 
+↑ Hitman: Absolution Sounds Like The Name For "Hitman 5" 
+↑ Hitman Absolution Announced - PlayStation 3 News at IGN 
+↑ IO Apologetic Over Hitman Trailer Controversy 
+↑ http://terminalgamer.com/2012/08/28/square-enix-confirms-david-bateson-as-voice-of-agent-47-in-hitman-absolution/ 
+External links [ ] 
+Barcode Society 
+Gamewise Guide 
+Missions in Hitman: Absolution 
+Prologue 
+A Personal Contract 
+Chicago 
+The King of Chinatown - Terminus - Run For Your Life - Hunter and Hunted - Rosewood 
+Hope, South Dakota 
+Welcome to Hope - Birdie's Gift - Shaving Lenny - End of the Road - Dexter Industries - Death Factory - Fight Night - Attack of the Saints - Skurky's Law - Operation Sledgehammer 
+Chicago 
+One of a Kind - Blackwater Park - Countdown 
+Epilogue 
+Absolution 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman: Absolution 
+Hitman 
+Languages 
+Deutsch 
+ Русский

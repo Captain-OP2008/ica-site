@@ -1,0 +1,206 @@
+This article is about the 2018 video game. For the 2002 video game, see Hitman 2: Silent Assassin . 
+Hitman 2 (stylized as HITMAN™ 2 ) is the 7 th installment to the Hitman video game series, and was Released on November 13 th , 2018. It was the first entry to the franchise after Io-Interactive acquired the rights to Hitman from Japanese publisher Square Enix .
+Unlike 2016's HITMAN™ , HITMAN™ 2 is not episodic, opting to use a traditional release. Various game add-ons and DLC released after the initial launch, including the Legacy Pack, which includes every location from HITMAN™ season one updated with features from HITMAN™ 2; the DLC is free for all players who own HITMAN™ season one. [1] 
+HITMAN™ 2 was delisted on all platforms on January 26 th , 2023, coinciding with HITMAN™ III ' s rebranding to Hitman: World of Assassination .
+Contents
+1 Gameplay Overview 
+1.1 Progression 
+1.2 Difficulty 
+1.3 Ghost Mode 
+2 Plot 
+3 Missions 
+3.1 Sniper Assassin 
+4 Updates 
+5 Editions 
+6 Videos 
+7 Gallery 
+7.1 Promotional Material 
+8 References 
+Gameplay Overview [ ] 
+In HITMAN™ 2 , players once again take control of Agent 47 in order to fulfill assassination missions. For the first time, players are to complete contracts either solo or with others via online co-op in the Sniper Assassin game mode, in addition to the standard single-player experience. Missions take place in dynamic locations across the globe, where players can utilize the sandbox nature of the maps to their advantage in order to achieve their goal in any way they see fit. From an assortment of weapons, environmental hazards, distractions and tactics, creative use of the world is at your disposal, along with the return of opportunities and hints from the previous game which aid players into seeing some of the more spectacular assassination methods.
+New features that come with HITMAN™ 2 include camera view grids, where players are able to see the field of view a camera has by way of a displayed grid, seen on the floor or wall where the camera is facing when using Instinct Mode . The Picture-in-Picture feature, first introduced in Hitman: Blood Money [2] , also makes a return in HITMAN™ 2 , which will pop-up a small screen in the corner of the player's screen when other characters do something of importance during a mission, such as when and how someone discovers a body. [3] 
+The game also features Elusive targets; British actor Sean Bean portrays the first elusive target Mark Faba , aka "The Undying", a MI5 agent turned freelance assassin.
+Progression [ ] 
+Progression is centered around mastering locations. As players level up the Mastery track for each location, they unlock starting locations, agency pickups, and new items that give options to take on each mission in new ways. Progress can be achieved by either completing Challenges or earning Performance XP.
+Performance XP acts as a second avenue to accumulate experience points. It awards a small amount of XP for doing moment-to-moment actions during a playthrough, like taking someone out silently, hiding a body, or killing a target. By default, Performance XP will be displayed, but this can be toggled on or off in Settings.
+A Player Profile levels up according to total XP earned. Player badges are the visual representation of the profile level. Both Mastery and Performance XP are funneled into the Player Profile as well as the Mastery Track, leveling both up as players progress through the game. Outside of those two systems, items can be unlocked by completing specific Challenges.
+Both XP systems also work on the Season One locations within HITMAN™ 2 if players own the Legacy Pack. Mastery tracks for the Legacy locations have been tweaked to give a more directed progression of unlocks.
+Difficulty [ ] 
+There are three difficulty levels: Casual, Professional, and Master.
+Casual is for new players. It gives players an easier way to experiment with the world without fear of failing. Also Security Cameras have been removed in Casual
+Professional is the default. It gives players a feeling of being a true assassin, using all of the game's intricate mechanics to assassinate targets. Cameras work like cameras and Mirrors work like mirrors but foot steps are not heard. (basically HITMAN 2016's Normal Mode but some guards positions from Hard mode have been added)
+Master is extra challenging. Combat will be extremely hard and NPCs will be more aware of their surroundings, making stealth gameplay a greater challenge.(basically HITMAN 2016's Professional mode where foot steps are heard)
+As with the progression system, all of difficulty levels can be selected on the Legacy locations within HITMAN 2. Some unlocks can only be earned by completing Challenges on specific difficulties. However, completing a challenge in a harder difficulty removes the need to repeat in a lower difficulty. This is especially applicable to The Classics .
+Ghost Mode [ ] 
+Ghost Mode was a 1v1 mode where players competed against each other online as Agent 47. Rather than faced each other directly, players competed against one another in assassinating identical targets. The Agent who eliminated the most targets more quickly and cleanly was the victor.
+While players existed in their own environments, they started the Mode side-by-side. They were able to check their opponent's progress at any time, as opponents appeared as a "ghost" in their environment. Assistance included weapons, items, outfits, and ghost crate supply drops.
+Plot [ ] 
+This plot summary contains spoilers for HITMAN™ 2 and Agent 47: Birth of the Hitman . 
+Note: While the general plot of HITMAN 2™ follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+Following the events of HITMAN™, Agent 47 embarks on a mission to hunt down the mysterious "Shadow Client" and disassemble his militia further. His first lead is the location of one of the Shadow Client's lieutenants, Alma Reynard. 47 is able to gain some intel on the Shadow Client's activities from Reynard's home in New Zealand before eliminating her. Via the ICA, Providence contracts 47 to hunt down the rest of the Shadow Client's militia. When 47 asks Diana why the ICA would be willing to work with Providence, she replies that both organizations share interests in putting a stop to the Shadow Client, whose activities are now causing a global panic. Diana also reveals she did not mention "the man on the train" to the ICA Board, and mentions Providence secretly promised to her to reveal 47's past, against ICA regulations of submitting personally-motivated contracts. 47 asks her why she's helping him, and responds by saying that she "knows what it's like having everything taken from you" . She then notes that this lead on 47's past has been the best one in 20 years of working together.
+Following the intel gained from Reynard, 47 is sent to Miami to assassinate tech giant Robert Knox and his daughter Sierra , the owner and heir of Kronstadt Industries respectively. Not only have they secretly sold advanced weapons to war criminals, but they are also Providence defectors, who left to join the Shadow Client's side to protect themselves from his attacks. After news of Robert and Sierra reach The Partners ; the leaders of Providence, who are in consternation as more of their operatives are killed worldwide. The Constant calms them down, and notes that he and the rest of Providence managed to identify the Shadow Client as Lucas Grey, the former head of security to deceased Providence key-holder Eugene Cobb , but do not know any of his past, only that he worked in various wars over the years. Grey, now located in Central Europe, pursues his own plans with hacktivist Olivia Hall and insists that they need 47's help if they are to dismantle Providence, despite Halls' clear distrust of this plan.
+47 heads to Colombia next in order to assassinate drug lord Rico Delgado and his top lieutenants; Andrea Martínez and Jorge Franco , who have been using their smuggling network to aid Grey and his militia get around the globe undetected. Diana reports the mission's success to Providence while visiting the graves of her family in Surrey. In a flashback, the cutscene reveal that she witnessed her parents being killed by a car bomb after they attempted to bring the company responsible; Blue Seed Pharmaceuticals , responsible for her younger brothers' death (James Burnwood), to court. Meanwhile, Grey steals a vial from the Ether Biotech Corporation in Johannesburg , and blows up the floor he was on after leaving via helicopter. His militia then orchestrate a hostage situation to publicly reveal Providence's existence. 47 is then sent to Mumbai to track down and eliminate the pirates who killed a Providence operative in Shanghai . After the mission, 47 follows Grey's trail to Romania, back to the Institute for Human Betterment ; the very same asylum where he was created by Dr. Ort-Meyer. He encounters Grey at gunpoint, who reveals that they were both previously kept in the lab to be raised as assassins for Providence. After some disbelief, 47 recalls "a boy" dying during a raid on the Institute, and Grey gets him to remember that he was Subject 6, 47's childhood friend, and that they both made a pact to take revenge on those responsible for turning them into assassins.
+The revelation leads to Diana meeting with Grey and Hall in Berlin. Grey reveals that Ort-Meyer, the scientist responsible for his and Agent 47's creation, was a member of Providence, and had check-ins with The First Constant, as well as phone call orders from three executive members known as "The Partners ". He reveals that after Grey and 47's original plan to take down The Institute and Providence failed, The Partners got paranoid, and decided to erase 47's memories to make sure compliance was kept, though Grey was able to escape before his memories were wiped as he was deemed dead due to 47 and 6's raid on the Institute. Grey's current objective is to capture the First Constant, as he is the only person who knows the identities of the Partners. However, only 47 knew the identity of the first Constant. Grey then reveals that the item he had stolen from Ether was an antidote that was designed to counteract the serum Ort-Meyer had created that let 47 regain his memories. Initially reluctant to work with Grey, Diana eventually abides by 47's wish to take the antidote. The antidote allows 47 to remember that the first Constant was legendary Cold War spymaster codenamed " Janus ". In order to get close to Janus, Diana files a false ICA report implicating Janus as the true Shadow Client, while claiming Grey was just a subordinate, giving 47 pretext to infiltrate Janus' home in the suburbs of Vermont.
+Investigating several clues, Agent 47 finds evidence that Janus was planning to meet the Constant at a gala held by " The Ark Society ", a plutocratic survivalist group created within Providence. Olivia is able to pinpoint the meeting location on a remote island in the North Atlantic, but they find out that the Constant, revealed as the man who hired Diana and 47 at the end of Hitman , was forced to be implanted with a suicide chip by the Partners that will instantly release lethal poison into his body if he's compromised. 47 is then dispatched to eliminate Zoe and Sophia Washington, twin sisters and newly appointed chairwomen of the Ark Society who each hold a kill-switch for the Constant. Once the Washington sisters are neutralized, 47 and Grey proceed to capture and extract the Constant. 47, Grey, and Diana interrogate the Constant on a ship, pointing out that by being captured, his life is forfeit to the Partners. Defeated, the Constant reveals that Providence is made up of the Ingram, Carlisle, and Stuyvesant families, with each family having a representative that serves as a "Partner."
+As 47 and Grey head out to confront the three families, the Constant -- exposed by Diana as one " Arthur Edwards " -- taunts Diana about what she does not know about Agent 47. A final flashback reveals to the audience (and not Diana) that 47 was responsible for the car bomb that killed Diana's parents .
+Nevertheless, Edwards assists the team in locating the three Partners, suggesting that they “follow the money” to their individual accounts at the Milton-Fitzpatrick investment bank, Grey’s former employ. 47 is sent to the bank’s New York branch to both steal data on the Partner accounts and eliminate the director, Athena Savalas , a Providence operative, in order to cover their tracks.
+The bank data showed that the Partners made payments to Haven, a small corporation operating out of the Maldives that specializes in identity management for wealthy criminals. Realizing that the Partners have started new lives under new identities, 47 is sent to Haven’s private island to eliminate founder and CEO Tyson Williams , IT expert Steven Bradley , and client coordinator Ljudmila Vetrova , in order to buy Hall enough time to hack their servers before the three targets are scheduled to reset it. Though the new identities and locations of the Partners are successfully acquired; Carl Ingram , Marcus Stuyvesant , and Alexa Carlisle , Edwards unexpectedly escapes with the controlling the shares of Providence sent to his account instead of those of the Partners —- unbeknownst to Grey and 47. The duo head out to confront their former masters and finish their pact.
+Missions [ ] 
+Image 
+Missions 
+Location 
+Nightcall 
+Oceania
+New Zealand
+Hawke's Bay 
+The Finish Line 
+North America
+Florida, U.S.A.
+Miami 
+Three-Headed Serpent 
+South America
+Colombia
+Santa Fortuna 
+Chasing a Ghost 
+Asia
+Maharashtra, India
+Mumbai 
+Another Life 
+North America
+Vermont, U.S.A.
+Whittleton Creek 
+The Ark Society 
+Europe
+North Atlantic Ocean
+Isle of Sgàil 
+Golden Handshake 
+North America
+New York, U.S.A
+New York 
+The Last Resort 
+Asia
+Maldives
+Haven Island 
+Sniper Assassin [ ] 
+Image 
+Missions 
+Location 
+The Last Yardbird 
+Europe
+Austria
+Himmelstein 
+The Pen and the Sword 
+Asia
+Singapore
+Hantu Port 
+Crime and Punishment 
+Eurasia/North Asia
+Siberia , Russia 
+Perm-14 
+Updates [ ] 
+Various game updates and DLC have been and will continue to release throughout HITMAN™ 2 's lifespan including seasonal events, digital item packs, mission expansions and regular gameplay changes & fixes.
+Forgotmyotheraccount 
+ • 
+ 26 June 2020 
+0 
+Game Update 2.72 
+Official Patch Notes: 
+https://www.ioi.dk/hitman-2-november-update/
+November is all about celebrating the one year anniversary of HITMAN 2 – and we’ve already revealed the full content list that’s coming your way in our November Roadmap blog post! 
+The N…
+Read Full Post 
+For a list of downloadable content see this page. 
+For a list of game updates and patch notes see this page. 
+Editions [ ] 
+Features 
+Edition 
+Standard 
+Silver 
+Gold 
+Collectors 
+Sniper Assasin Mode
+ Early access with pre-order 
+✓ 
+✓ 
+✓ 
+✓ 
+Executive Pack*
+ ICA 19 Blackballer pistol, ICA Executive suitcase 
+✓ 
+✓ 
+✓ 
+Expansion 1
+ Including new location, missions, sniper map outfits and weapons 
+✓ 
+✓ 
+✓ 
+Main Game Early Access
+ Play hitman 2 four days early 
+✓ 
+✓ 
+Expansion 2
+ Including new location, missions, sniper map, outfits and weapons 
+✓ 
+✓ 
+Collector's Pack*
+ Concussive rubber duck, midnight black suit 
+✓ 
+✓ 
+Gun Case Replica & Collectibles
+ Exclusive steelcase, bullet keyring, rubber duck, signature coin. 
+✓ 
+*exclusive in-game content 
+Videos [ ] 
+HITMAN 2 - Haven Island Location Reveal
+HITMAN 2 - Siberia Announcement Trailer
+HITMAN 2 - Official New York (The Bank) Location Trailer
+HITMAN 2 - Miami Pack Trailer
+Hitman 2 - Hantu Port Trailer
+HITMAN 2 - Holiday Hoarders Trailer
+HITMAN 2 - The World is Yours
+HITMAN 2 – Gameplay Launch Trailer
+HITMAN 2 – Official Live Action Launch Trailer
+HITMAN 2 - No One is Untouchable
+HITMAN 2 - HITMAN Perfected
+HITMAN 2 - Ghost Mode Gameplay Reveal
+HITMAN 2 – Untouchable (All Locations Reveal)
+Official HITMAN™ 2 Santa Fortuna Trailer
+Official HITMAN 2 Colombia Teaser Trailer
+HITMAN 2 - Miami Gameplay Trailer
+HITMAN 2 - How to Hitman (Hidden in Plain Sight)
+HITMAN 2 - How To Hitman (The Briefcase)
+Official HITMAN™ 2 – How to Hitman Tools of the Trade
+Official HITMAN™ 2 – How to Hitman Assassin Mindset
+HITMAN 2 – How to Hitman (Immersion)
+HITMAN™ 2 Announcement Trailer
+HITMAN™ 2 Sniper Assassin Trailer
+Gallery [ ] 
+Promotional Material [ ] 
+Promotional for the Miami trailer.
+Promotional for the pre-ordering page.
+General trailers promotional.
+Ditto.
+References [ ] 
+↑ "Hitman 2 will include updated versions of Hitman Season 1's missions as DLC" . PC Gamer. Retrieved 20 August 2018. 
+↑ List of gameplay concepts 
+↑ "You’ll have to be even more careful in Hitman 2" . Polygon. Retrieved 6 September 2018. 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman 
+HITMAN™ 2 
+Languages 
+Deutsch

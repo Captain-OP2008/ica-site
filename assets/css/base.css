@@ -1,0 +1,315 @@
+/* ==========================================================================
+   ICA — International Contract Agency
+   base.css · 设计令牌 / 字体 / 基础重置
+   ========================================================================== */
+
+/* ---------- 设计令牌 ---------- */
+:root{
+  /* 墨色梯度：企业官网层偏冷灰白，终端层偏石墨黑 */
+  /* 文本可读性基线：--ink-400 及以上用于正文与辅注，必须 ≥4.5:1（WCAG AA）。
+     历史值 --ink-400:#4a5462 只有 2.61:1，等于把最次要信息写在黑底上看不见；
+     --ink-300:#6b7686 为 4.35:1，差一点不达标。两档已按目标对比度重算，
+     色相保持同一冷灰蓝，观感仍是石墨黑而非灰底。
+     校准基准取**最亮的常用背景** --ink-800(#101318) 而非最深的 --ink-900：
+     卡片与面板铺在 --ink-800 上，只按 --ink-900 算会让面板内的辅注重新跌破 4.5。
+     实测（背景 #101318）：--ink-400 4.53:1 · --ink-300 6.02:1 · --ink-200 7.18:1。 */
+  --ink-900:#07080a;
+  --ink-850:#0b0d11;
+  --ink-800:#101318;
+  --ink-750:#151920;
+  --ink-700:#1b2028;
+  --ink-600:#252b35;
+  --ink-500:#333b47;   /* 1.77:1 — 仅用于边框/填充，不承载文本 */
+  --ink-400:#717f93;   /* 4.53:1 — 最次要文本（编号、元数据、导航分组） */
+  --ink-300:#8794a6;   /* 6.02:1 — 辅助说明 */
+  --ink-200:#98a2b0;   /* 7.18:1 — 次要正文 */
+  --ink-100:#c6cdd6;   /* 12.50:1 — 正文 */
+  --ink-050:#e8ecf1;   /* 16.89:1 — 标题与强调 */
+  --paper:#f4f5f7;
+  --paper-2:#e7e9ed;
+
+  /* ICA 标色：证件红 */
+  --ica-red:#c8102e;
+  --ica-red-d:#8e0a20;
+  --ica-red-l:#e8324c;
+  --ica-red-glow:rgba(200,16,46,.42);
+
+  /* 语义色 */
+  --ok:#3f9e6a;
+  --warn:#c9902a;
+  --danger:#c8102e;
+  --info:#4a7fb5;
+
+  /* 机密等级色 */
+  --cls-public:#5b8a5b;      /* 4.62:1 */
+  --cls-restricted:#b08a2e;  /* 5.76:1 */
+  --cls-secret:#c26a1e;      /* 5.03:1 */
+  --cls-topsecret:#ef435c;   /* 5.03:1 — 原 #c8102e 只有 3.41:1，10px 印章读不清 */
+
+  /* 排版 */
+  /* 中文字形必须排在 monospace 之前：Windows 上 monospace 会解析成 Courier New，
+     它带中文字形，会把中文吃掉、回退成宋体。放在通用族之前才能让中文用雅黑。 */
+  --font-mono:"JetBrains Mono","IBM Plex Mono",Consolas,"SF Mono",Menlo,"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Noto Sans SC",monospace;
+  --font-sans:"Inter","Segoe UI",-apple-system,"Helvetica Neue",Arial,"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Noto Sans SC",sans-serif;
+  --font-cn:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Noto Sans SC","Source Han Sans SC",sans-serif;
+  --font-serif:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Noto Sans SC",sans-serif;
+
+  /* 字号阶梯：8 档，覆盖全站。
+     改版前站点实测使用了 21 种字号（9 / 9.5 / 10 / 10.5 / 11 / 11.18 / 11.61 / 12 /
+     12.04 / 12.47 / 12.5 / 13 / 13.5 / 14 / 14.5 / 15 / 15.5 / 19 / 22 / 23 / 44），
+     这是逐处手调留下的痕迹，视觉上没有节奏。收敛到 8 档后每个层级的差异才可读。 */
+  --fs-2xs:10px;    /* 微标签、表头、导航分组 */
+  --fs-xs:11px;     /* 编号、时间戳、元数据 */
+  --fs-sm:12.5px;   /* 紧凑说明、卡片注记 */
+  --fs-base:13.5px; /* 正文主力 */
+  --fs-md:15px;     /* 强调正文、导语 */
+  --fs-lg:16px;     /* 小标题、卡片标题 */
+  --fs-xl:19px;     /* 区块标题 */
+  --fs-2xl:23px;    /* 统计数字、页面主标题 */
+  --fs-3xl:29px;    /* 展示级数字 */
+
+  /* 行高：按用途分三档，不再逐处写小数 */
+  --lh-tight:1.28;  /* 标题 */
+  --lh-snug:1.55;   /* 表格、紧凑列表 */
+  --lh-base:1.72;   /* 正文 */
+  --lh-loose:1.82;  /* 长段落 */
+
+  /* 字重：只用四档。此前的 520 / 560 / 620 / 650 在多数中文字体上
+     会回退到同一字面，等于没写；统一后层级靠字号与色彩区分。 */
+  --fw-normal:400;
+  --fw-medium:500;
+  --fw-semibold:600;
+  --fw-bold:700;
+
+  /* 行长：中文正文每行 30–40 字最舒适，50 字是可读上限。
+     用 em 而非 ch——中文一个全角字正好 1em，直接对应"每行几个字"；
+     ch 基于数字 0 的宽度，在中文字体里约为 0.5em，容易误判成两倍。 */
+  --measure:48em;
+  --measure-wide:62em;
+
+  /* 尺度 */
+  --sp-1:4px; --sp-2:8px; --sp-3:12px; --sp-4:16px;
+  --sp-5:24px; --sp-6:32px; --sp-7:48px; --sp-8:64px; --sp-9:96px;
+
+  --radius-s:2px;
+  --radius-m:3px;
+  --radius-l:5px;
+
+  --shell-max:1240px;
+  --rail-w:252px;
+  --topbar-h:58px;
+
+  /* 动效 */
+  --ease:cubic-bezier(.22,.61,.36,1);
+  --ease-out:cubic-bezier(.16,1,.3,1);
+  --dur-1:.16s; --dur-2:.28s; --dur-3:.5s;
+
+  /* 层级 */
+  --z-bg:0; --z-content:10; --z-rail:40; --z-topbar:50;
+  --z-overlay:200; --z-boot:600; --z-cursor:900; --z-fx:950;
+
+  --grid-line:rgba(255,255,255,.035);
+  --hair:rgba(255,255,255,.09);
+  --hair-strong:rgba(255,255,255,.16);
+}
+
+/* 终端层（默认深色）与官网层（浅色）的语义映射 */
+body[data-surface="terminal"]{
+  --bg:var(--ink-900);
+  --bg-2:var(--ink-850);
+  --bg-3:var(--ink-800);
+  --panel:rgba(255,255,255,.022);
+  --panel-2:rgba(255,255,255,.04);
+  --fg:var(--ink-050);
+  --fg-2:var(--ink-200);
+  --fg-3:var(--ink-300);
+  --fg-4:var(--ink-400);
+  --line:var(--hair);
+  --line-2:var(--hair-strong);
+  --accent:var(--ica-red);
+  /* 红色作为**文字**时的取值。品牌红 #c8102e 在石墨黑上只有 3.41:1，
+     低于正文标准，因此暗底改用亮红 #e8324c（4.76:1）；
+     浅底反过来用深红 #8e0a20（8.84:1）。装饰性用途（边框、填充、图标）
+     仍然使用 --accent，不在此列。 */
+  --accent-text:var(--ica-red-l);
+}
+
+body[data-surface="corporate"]{
+  --bg:#f6f7f9;
+  --bg-2:#ffffff;
+  --bg-3:#eef0f3;
+  --panel:#ffffff;
+  --panel-2:#f9fafb;
+  --fg:#12161c;
+  --fg-2:#39424f;
+  --fg-3:#5a6472;   /* 5.60:1 */
+  --fg-4:#68707b;   /* 4.65:1 — 原 #828c9a 只有 3.18:1，浅底上最难读的一档 */
+  --line:rgba(18,22,28,.10);
+  --line-2:rgba(18,22,28,.18);
+  --accent:#0f4c81;
+  --accent-text:var(--ica-red-d);
+}
+
+/* ---------- 重置 ---------- */
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg);
+  color:var(--fg);
+  font-family:var(--font-sans),var(--font-cn);
+  font-size:var(--fs-md);
+  line-height:var(--lh-base);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  overflow-x:hidden;
+}
+body.is-locked{overflow:hidden}
+
+img,svg,video{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+button,input,select,textarea{font:inherit;color:inherit}
+button{background:none;border:0;cursor:pointer}
+ul,ol{margin:0;padding:0;list-style:none}
+table{border-collapse:collapse;width:100%}
+h1,h2,h3,h4,h5,p{margin:0}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* 滚动条 */
+::-webkit-scrollbar{width:10px;height:10px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{
+  background:var(--ink-500);
+  border:2px solid transparent;
+  background-clip:content-box;
+  border-radius:6px;
+}
+::-webkit-scrollbar-thumb:hover{background:var(--ink-400);background-clip:content-box}
+
+/* ---------- 排版基元 ---------- */
+.mono{font-family:var(--font-mono)}
+.cn{font-family:var(--font-cn)}
+
+/* 中文排版精修。
+   text-spacing-trim：全角标点（，。、：；）半角化，避免中文句子里出现
+   一整个字宽的空白。Chrome 123+ / Edge 支持，不支持时静默降级，
+   不会产生横排溢出——这是可安全使用的渐进增强。
+   hanging-punctuation：行首标点悬出正文块，让左侧字符边线保持齐整（Safari 支持）。
+   text-wrap:pretty：避免段末只剩一两个字，并让换行更均衡。 */
+body{
+  text-spacing-trim:space-first;
+  hanging-punctuation:first allow-end;
+}
+p,li,dd,dt,figcaption{
+  text-wrap:pretty;
+}
+h1,h2,h3,h4{
+  text-wrap:balance;   /* 标题换行均衡，避免末行只有一个词 */
+  text-spacing-trim:trim-start;
+}
+/* 数字在表格与编号里对齐才有档案感 */
+.num,td,.tbl th{
+  font-variant-numeric:tabular-nums;
+}
+
+/* 正文行长约束（全局）。
+   中文一行超过 50 字，读者换行时会丢失上一行的起点；实测改版前
+   locations / finance / facilities 的主段落中位数是 72em，接近舒适值两倍。
+   这里对 p / li / dd 统一设上限——max-width 只在元素本来更宽时才生效，
+   所以表格单元格、两栏卡片这些本来就窄的容器不受影响。
+   .view-h .sub 自己声明了更宽的上限，优先级更高，保持原样。 */
+p,li,dd,.note > div{max-width:var(--measure)}
+
+/* 中英混排护栏。
+   中文里夹的长英文词（机构名、装备型号、URL）没有可断行位置，
+   会把容器撑破或留下巨大的字间空隙。overflow-wrap 允许在必要时断词，
+   word-break:normal 保证正常中文仍然按字断行，不会把整句拆成竖排。 */
+body{overflow-wrap:break-word;word-break:normal}
+/* 编号与型号（BRO3886、GAMA、Jaeger 7）内部不允许断行 */
+.mono,.num{word-break:keep-all;overflow-wrap:normal}
+
+/* 选中文本用品牌红，而不是浏览器默认的蓝——终端里蓝色高亮会破坏色彩体系 */
+::selection{background:var(--ica-red);color:#fff}
+::selection:window-inactive{background:var(--ink-600);color:var(--ink-050)}
+
+.eyebrow{
+  font-family:var(--font-mono);
+  font-size:var(--fs-2xs);
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  color:var(--fg-4);
+}
+
+.h-display{
+  font-family:var(--font-mono);
+  font-weight:var(--fw-bold);
+  letter-spacing:-.01em;
+  line-height:var(--lh-tight);
+}
+
+/* 中英混排：英文术语注记 */
+.term{
+  font-family:var(--font-mono);
+  font-size:.86em;
+  color:var(--fg-3);
+  letter-spacing:.01em;
+}
+.term::before{content:" (";opacity:.5}
+.term::after{content:")";opacity:.5}
+
+/* 数值/编号 */
+.num{font-family:var(--font-mono);font-variant-numeric:tabular-nums}
+
+/* ---------- 公用原子 ---------- */
+.hair-t{border-top:1px solid var(--line)}
+.hair-b{border-bottom:1px solid var(--line)}
+.sr-only{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;
+}
+.redact{
+  display:inline-block;background:var(--fg);color:transparent;
+  border-radius:1px;user-select:none;cursor:help;
+  transition:all var(--dur-2) var(--ease);
+  padding:0 .18em;
+}
+.redact:hover,.redact.is-open{background:transparent;color:var(--accent-text)}
+
+.stamp{
+  font-family:var(--font-mono);
+  font-size:var(--fs-2xs);
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  padding:3px 7px;
+  border:1px solid currentColor;
+  border-radius:var(--radius-s);
+  display:inline-flex;align-items:center;gap:5px;
+  transform:rotate(-1.2deg);
+  /* 曾用 opacity:.9 做"褪色印章"效果，但那会把 10px 小字的实际对比度
+     再压低约 10%，本就只有 3.41:1 的红色直接跌到 3.0 附近。
+     改为只让边框半透明：文字保持实色可读，印章的旧纸感由线条承担。 */
+  border-color:color-mix(in srgb, currentColor 55%, transparent);
+  font-weight:var(--fw-medium);
+}
+.stamp[data-cls="PUBLIC"]{color:var(--cls-public)}
+.stamp[data-cls="RESTRICTED"]{color:var(--cls-restricted)}
+.stamp[data-cls="SECRET"]{color:var(--cls-secret)}
+.stamp[data-cls="TOP SECRET"]{color:var(--cls-topsecret)}
+
+.dot{
+  width:6px;height:6px;border-radius:50%;
+  background:currentColor;display:inline-block;flex:0 0 auto;
+}
+.dot.pulse{animation:dot-pulse 2.4s var(--ease) infinite}
+@keyframes dot-pulse{
+  0%,100%{opacity:1;box-shadow:0 0 0 0 var(--ica-red-glow)}
+  50%{opacity:.55;box-shadow:0 0 0 5px transparent}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{
+    animation-duration:.01ms !important;
+    animation-iteration-count:1 !important;
+    transition-duration:.01ms !important;
+  }
+}

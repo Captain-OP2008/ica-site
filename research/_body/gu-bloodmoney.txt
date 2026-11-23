@@ -1,0 +1,335 @@
+Hitman: Blood Money is a stealth video game developed by IO Interactive and published by Eidos Interactive for Microsoft Windows , 
+ PlayStation 2 , PlayStation 3 , Xbox , Xbox 360 . It is the fourth installment in the Hitman video game series and was released on May 30, 2006, in the United States .
+The story follows the life of professional hitman, Agent 47 , as narrated in cutscenes by a former director of the FBI to a journalist who is interviewing him. The wheelchair-bound ex-director recounts how his agency tracked 47 over a two-year period. The game also marks 47's arrival to the United States . The game was a critical and commercial success for Eidos, selling more than 2.1 million copies.
+Developer Feral Interactive released the mobile version called Hitman: Blood Money ー Reprisal on the App Store and Google Play in November 30,2023.
+Contents
+1 Gameplay 
+1.1 New features 
+1.2 Altered or removed features 
+2 Plot 
+2.1 Death of a Showman 
+2.2 Story of a Silent Assassin 
+2.3 Return to the United States 
+2.4 Homicide of Chad Bingham Jr. and hits in Mississippi 
+2.5 Las Vegas 
+2.6 Amendment XXV 
+2.7 End of the Hitman 
+2.8 Requiem 
+2.9 Aftermath 
+3 Missions 
+3.1 Prologue 
+3.2 Chile 
+3.3 Paris 
+3.4 California 
+3.5 New Orleans 
+3.6 Colorado 
+3.7 Mississippi 
+3.8 Las Vegas 
+3.9 Epilogue 
+4 Targets 
+4.1 Prologue (Baltimore) 
+4.2 Chile 
+4.3 France 
+4.4 California 
+4.5 Louisiana 
+4.6 Colorado 
+4.7 Mississippi 
+4.8 Nevada 
+4.9 Epilogue (Washington D.C.) 
+5 VIPs 
+6 Weapons 
+6.1 Personal 
+6.2 Custom 
+6.3 Collectible 
+6.4 Non-collectible 
+6.5 Melee Weapons 
+6.6 Unobtainable Weapons 
+7 Soundtrack 
+8 Reception 
+9 Trivia 
+10 See also 
+11 References 
+Gameplay [ ] 
+Hitman: Blood Money is a third-person action/stealth combo revolving around a bald-headed assassin known as Agent 47, who works for the International Contract Agency (also known as "The Agency"), a conglomerate of professional assassins who provide their services to wealthy or otherwise influential customers.
+In the game, 47 is given a set of objectives to complete. Most levels require the assassination of one or more people. However, how missions are completed is up to the player and there are almost always a variety of ways to complete missions. Instead of simply running and gunning through the mission, one can set traps, like poisoning a drink, to terminate the target in silence. Some missions have assassination possibilities unique to the level.
+While it is a stealth title, the game does not necessarily enforce such an approach, allowing the player to engage at their own discretion, thus highlighting the sandbox element of the series.
+Before any assignment, the player is provided with a briefing, consisting of intelligence on the target, a map detailing the area where 47 is to encounter the target, and a list of weapons that they can take on the mission. The briefing is managed by 47's controller, Diana Burnwood , at the Agency. The intelligence is usually comprised of a picture of the target, sometimes video footage as well.
+The game relies heavily on the disguise system. 47 can find disguises or remove them from an incapacitated person in order to blend in with his surroundings, access restricted areas, to pass by security unnoticed (unless he's too close to them) and wield weapons almost freely, depending on the disguise. This plays in with the "suspicion" system; a bar beside the health meter on the HUD represents how much suspicion 47 garners. There are multiple ways to blend in more effectively. 47's cover can be blown if suspicion gets too high, and the disguise will no longer be of any use. It is possible to switch between multiple disguises throughout the level.
+New features [ ] 
+The gameplay of Hitman: Blood Money has improved much since Hitman: Contracts . Many new features were introduced in the game including
+47 can now climb obstacles such as crates and is not dependent on a button prompt to do so. (climbing through windows still require a button press)
+47 can now engage enemies in unarmed combat as well as disarm them.
+Ability to take an NPC as human shield and knock them out or throw them afterwards, is introduced.
+47 can now hide dead or unconscious bodies in containers or dispose of them by tossing them off rails and ledges.
+47's personal weapons can now be upgraded, such as his Silverballers and WA2000 
+An ICA crate will now be provided to store weapons, either found in on a mission or two handed weapons without a case if brought into a mission.
+Also added is the notoriety system. If the player, during a mission, gets caught on camera surveillance or is witnessed committing murder, Agent 47 's notoriety will rise. Notoriety can be lowered by stealing CCTV tapes, eliminating witnesses, or bribing them after the mission.
+Weapons and the coin can be thrown as a means of distraction.
+Melee combat is improved, allowing the player to kill NPCs by tossing objects like knives. Once thrown into an NPC however, the weapon cannot be retrieved for reuse.
+Accident system (officially) introduced and expanded upon compared the staged kills compared to Silent Assassin and Contracts, providing the player some methods to make the target's death look like an accident; for example, tampering with someone's grill to make it explode when it is turned on, rigging a chandelier to fall on a target, or simply pushing the target off a balcony.
+47 can kill someone in an elevator by climbing through the above emergency hatch and strangling them using the fiber wire. This will result in the victim being pulled up through the hatch, where the body will be hidden on the elevator roof. For this attack to work, the target must be standing close enough to the hatch; fortunately, most elevator passengers oblige. The player can also simply aim and shoot through the hatch, though this is less reliable.
+Crouch mode and sneak mode are combined, causing 47 to crouch when stationery and sneak when moving, Additionally, the speed in sneak mode is increased.
+The AI has now been completely revamped. Unlike previous titles, the AI cannot instantly see-through disguises, as well as open fire upon seeing 47 in a restricted area. Instead, they will warn him to leave the area and give him a chance to do so.
+The AI can now see blood spatter, alerting their suspicion. Also, they can find a dead body by following blood trails, unless the corpse is hidden in a container.
+47 can now hide in closets and cabinets.
+AI guards can discover 47 hiding in a closet if they remain in close proximity to said closet for too long while in pursuit mode.
+At the end of each mission, a newspaper article is displayed about the hit, in which the content varies depending on the investigation results and the player's notoriety. It will detail the weapon most frequently used, how accurately it was used, the number of policemen, security guards, and civilians killed or injured, and if there were any witnesses. Sketch drawings are also sometimes visible showing Agent 47 's face, which grow progressively more accurate as 47 's notoriety grows. The article's title relates to the player's mission rating.
+An NPC becomes a witness if they:
+Are injured by the player.
+See the player with a weapon that does not correspond with their disguise.
+See the player jumping/climbing obstacles.
+See the player attacking.
+See the player breaking a fuse box.
+See the player manipulating a body.
+See the player picking a lock.
+See the player drawing a weapon.
+Altered or removed features [ ] 
+The reward system is altered, awarding the player with cash along with rating at the end of a mission instead of unlocking (special variariants on) weapons (dual wielded, or silenced)
+47 can now only walk or run backwards while firing a gun or throwing an item, otherwise he will face the camera.
+If 47 renders an NPC unconscious, either by using his syringe filled with sedative or knocking them out with close combat, they will not awaken for the entirety of the level until a security guard checks on them to revive them, unlike in previous games.
+Peeking through keyholes will now attract attention from NPCs that can see you.
+Plot [ ] 
+Note: While the general plot of Blood Money follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+Death of a Showman [ ] 
+47's first target in the U.S., Joseph Clarence
+At a Baltimore amusement park , many people are killed in an accident caused by negligent maintenance of a Ferris wheel. During the trials after the accident, owner of the park, Joseph Clarence was cleared of all charges, thanks to his ties with a local narcotics distribution ring, led by a gang leader named Scoop . The father of one of the victims called the ICA and ordered a hit on Clarence. Agent 47 was sent by the Agency to carry out the hit, making this his first assignment in the United States . 
+Story of a Silent Assassin [ ] 
+Alexander Leland Cayne
+In 2006, journalist Rick Henderson from the First Edition newspaper arrives at the mansion of former FBI director Alexander Leland "Jack" Cayne , to interview him concerning a recent attack on the White House , though it quickly becomes clear that Cayne's real intent was to discuss something else and the interview was just a cover for a more important story, which he calls "the scoop of the century". Cayne begins by mentioning the assassination of Don Fernando Delgado and his son Manuel in Chile.
+On February 29, 2004, 47 was sent by the Agency to assassinate Don Fernando Delgado, who was a famous wine producer of Chile . However, unbeknownst to many, he was involved in a large drug business across the globe. 47 was inserted to his wine cellar along with a tourist group, on the unveiling of Delgado's new wine label named after 1980's B-action star Rick Stanton . 47 was also requested to kill Delgado's son Manuel, who despite being heavily involved in his father's drug trade, was himself a drug addict. 47 completed his mission and escaped on Delgado's personal seaplane. 
+Rick Henderson was greatly surprised to know about the involvement of 47 in Delgado's assassination. Cayne told him further that his curiosity about 47 increased further when one of his friends was also intrigued after the famous opera incident in Paris , France. 
+On the 17th of March 2004, 47 is sent to Paris to kill the famous Tenor Alvaro D'Alvade , and his deep friend and partner, Richard Delahunt , the American Ambassador to the Vatican. Both targets were reported to be behind a prostitution ring trafficking in boys and girls from Eastern Europe. D'Alvade was present at the opera house to rehearse for the play Tosca, and Delahunt was present there to watch it. With the cover from construction crew renovating the theater, 47 eliminated both targets and escaped the opera house, but was shot by Mark Parchezzi III ￼ disguised as a Paris Police officer. Despite being heavily wounded, 47 successfully returned to the US. 
+Return to the United States [ ] 
+After his return to the United States , Agent 47 is offered several contracts by many customers eager to hire the legendary Hitman . His first assignment saw him eliminating an alcoholic criminal present at a rehabilitation center, after obtaining his identity from an undercover agent locked in the facility. ICA wanted the agent to be retrieved alive, but the clinic only allowed the patients to discharge on death or recovery. So, the Agency was forced to use an experimental serum causing its victim to enter into a state in which they appeared to be dead, allowing 47 to take him out of the facility easily. The Agent, who was later revealed to be Carlton Smith , was brought out of the facility by 47, who also killed two low-level contracts' targets at the facility, along with his original target. A month later, 47 killed a Cuban crime-lord and FBI state witness, Vinnie Sinistra , at his house in California. 
+While telling Henderson about Vinnie's assassination, Cayne lied to him by stating that Vinnie had the information about the cloning data files of Dr. Ort-Meyer , who created 47, but 47 killed him and stole cloning data to sell to the highest bidder. He also stated that during the Mardi Gras parade of 2004, 47 was working to kill the US Secretary of the Interior. In fact, he was working to save US Secretary from Cayne's assassins, the Crows , led by an albino class II human clone assassin, Mark Purayah II . 47 was contracted to kill Purayah along with his assassins Angelina Mason and Raymond Kulinsky . 
+Cayne also falsely told Henderson that Purayah was an accomplice of 47 and was killed by FBI. Hearing this, Rick became greatly surprised about the widespread human cloning, but Cayne became angry and referred to cloning as a "terrorist's wet dream" and "ultimate weapon of mass destruction". He emphasized his view by stating that it was 47 who killed Senator Chad Bingham's son, much to Henderson's shock. 
+Homicide of Chad Bingham Jr. and hits in Mississippi [ ] 
+On the Christmas eve of 2004, 47 was sent to kill Chad Bingham, Jr. and Lorne de Havilland , owner of a playboy magazine, who had a compromising video of Chad. Due to Senator Bingham's involvement in re-election campaign, the client wanted both Havilland and Chad Jr. dead, as well as retrieval of tape showing Chad accidentally killing a prostitute. Despite the presence of another Franchise assassin at the scene, 47 successfully accomplished his task and escaped. 
+After death of de Havilland, 47 was offered two contracts from a client from Mississippi. The first contract saw him eliminating a veteran sailor and secret leader of a drug trading gang, ￼ Skip Muldoon as well as all of his gang members, while they were aboard their ship along with tourists. The client also wanted some photographs to be retrieved from Skip's safe. After Skip's homicide, 47 was contracted to kill his son, Buddy Muldoon on his wedding ceremony and the latter's prospective John LeBlanc , father-in-law, while protecting Margeaux LeBlanc , the bride. 
+Las Vegas [ ] 
+47 arriving at Shamal Hotel, Las Vegas
+After hits in Mississippi, 47 arrived at Shamal Hotel in Las Vegas to kill Sheikh Mohammad Bin Faisal Al-Khalifa , CEO of an Arabian Pharmaceutical Exports . The Sheikh was trying to buy some lab reports and DNA material from Hendrik Schmutz , a white supremacist from South Africa . 47 was also contracted to kill Sheikh's scientist Tariq Abdul Lateef , who was present to inspect the material before the deal. 47 killed all three of his targets and escaped the hotel. 
+At this time, Agency's employees were being gradually assassinated by their counterpart, The Franchise . The situation degraded to the point where 47's controller, Diana Burnwood , informed him that they were the only ones left. At a certain point, Diana ended up closing down the Agency with a final contract to kill the assassins coming after them and splitting the remaining funds between them. 47 arrived at the shark club in Las Vegas to kill a corrupt CIA Agent Anthony Martinez , and his lover and a notorious-arms dealer Vaana Ketlyn , as well as find the identity of the Franchise's assassin after him before killing them. 
+Amendment XXV [ ] 
+While walking to a church revealed to be 47's funeral place, Cayne told Henderson that 47 was about to be cremated, as his bone marrow sample was required to create a successful clone and with his death, the anyone else's chance of producing a non-defective clone would also vanish. When Rick questioned how Cayne was able to catch him, he replied that he was able to do so because 47 took "the most difficult, most highly paid assassination attempt in history", referring to the presidential attack Rick was trying to talk about at the beginning of their conversation. 
+After the assignment in Las Vegas , 47 was approached by an old acquaintance Agent Smith . He offered 47 a high-profile mission, paid for using several million dollars' worth of diamonds, to prevent an assassination on the president of the United States , Tom Stewart .
+47 and Mark Parchezzi in the Oval Office
+The assassins were The Franchise's clone assassin, Mark Parchezzi III and the Vice-President, Daniel Morris , both working for Alpha Zerox , the shadowy political organization which owned The Franchise and was dedicated to monopolizing the cloning technology that spawned 47. They intended to assassinate the President and place pro-Franchise Vice President of the seat of Presidency before the elections so that Stewart might not be re-elected and forward his pro-cloning stance, therefore disabling their ability to monopolize it. 
+47 successfully eliminated Morris and Parchezzi in the White House on September 22, 2005. Immediately afterwards Parchezzi was believed to be Morris' assassin.
+End of the Hitman [ ] 
+Hunted by both enemy operatives and the police, 47 fled to his hideout. Without warning, he was visited by Diana Burnwood , immediately arousing his suspicion. Diana proposed a plan to 47 to help them both escape danger from The Franchise. As 47 mulled over the briefing she handed him, expressing his misgivings as to the likelihood of its success, Diana injected him with what seemed to be a poison syringe. 47's body was surrounded by SWAT members, and Diana, announcing that killing 47 was "surprisingly pleasant", was formally inducted into The Franchise by Alexander Cayne.
+Requiem [ ] 
+47's funeral
+Cayne and Henderson arrived at the church to witness the funeral of world's most nefarious assassin, whose death was falsely claimed by Cayne as an accident. Diana, who was with Cayne and Henderson, draped 47's custom Silverballer pistols over his chest, as a sign of respect during his hasty funeral and kissed him after applying lipstick. It became apparent that the "poison" she injected was actually the fake-death serum 47 had used in an earlier mission to get agent Smith out of a rehabilitation clinic. Diana's lipstick contained the antidote to the serum in it, implying she was actually 'killing' 47 for their survival. The funeral began and moments before 47's cremation, the antidote was successful and he awakened, slaughtering everyone in the church (excluding Diana, who had already left, taking the liberty of locking the gates to prevent 47's victims from escaping), thus leaving no witnesses and ultimately securing his identity from the public. 
+Aftermath [ ] 
+Diana, after the reformation of ICA
+Sometime after the funeral bloodbath, Diana used The Franchise's assets to reopen the International Contract Agency , which overlooked the Copenhagen harbor. She received a call from a person referred to as "Your Majesty". Diana said that the Agency has lost track of 47. Meanwhile, 47 arrived at an establishment engaging in conversation with a traditionally dressed Asian man. They discussed a service that can be found 'in the back'. 
+The story ends on the curtain literally closing on the two.
+Missions [ ] 
+Hitman: Blood Money consists of twelve missions, all except two of which take place in United States.
+Prologue [ ] 
+Death of a Showman 
+Chile [ ] 
+A Vintage Year 
+Paris [ ] 
+Curtains Down 
+California [ ] 
+Flatline 
+A New Life 
+New Orleans [ ] 
+The Murder of Crows 
+Colorado [ ] 
+You Better Watch Out… 
+Mississippi [ ] 
+Death on the Mississippi 
+Till Death Do Us Part 
+Las Vegas [ ] 
+A House of Cards 
+A Dance with the Devil 
+Epilogue [ ] 
+Amendment XXV 
+Requiem 
+Targets [ ] 
+Main article(s): Category:Hitman: Blood Money targets 
+Prologue (Baltimore) [ ] 
+Joseph "Swing King" Clarence 
+Chile [ ] 
+Fernando Xalvador Delgado 
+Manuel Delgado 
+France [ ] 
+Alvaro D'Alvade 
+Richard Delahunt 
+California [ ] 
+Carmine DeSalvo (optional, one of the three is an actual target, chosen randomly)
+Rudy Menzana (optional)
+Lorenzo Lombardo (optional)
+Vinnie "Slugger" Sinistra 
+Louisiana [ ] 
+Mark Purayah II 
+Angelina Mason 
+Raymond Kulinsky 
+Colorado [ ] 
+Chad Bingham, Jr. 
+Lorne de Havilland 
+Mysterious female assassin (optional)
+Mississippi [ ] 
+Skip Muldoon 
+The Gator Gang 
+ Everett Jefferson 
+Adam Hendrikson 
+Elijah Krup 
+Junior O’Daniel 
+William S. Corfitz 
+Joe Netberg 
+Buddy Muldoon 
+John "Pappy" LeBlanc 
+Nevada [ ] 
+Mohammad Bin Faisal Al-Khalifa 
+Tariq Abdul Lateef 
+Hendrik Schmutz 
+Anthony Martinez 
+Vaana Ketlyn 
+Eve 
+Maynard John 
+Epilogue (Washington D.C.) [ ] 
+Mark Parchezzi III 
+Daniel Morris 
+Alexander Leland Cayne 
+Rick Henderson 
+Cayne's bodyguards
+Priest 
+VIPs [ ] 
+Agent Smith 
+Jimmy Cilley 
+Margeaux LeBlanc 
+Weapons [ ] 
+Main article(s): Category:Hitman: Blood Money weapons 
+Personal [ ] 
+These are the default equipped weapons carried by 47 automatically at the start of each mission:
+Fiber Wire 
+Syringe Poison 
+Syringe Sedative 
+RU-AP Mine 
+Coin 
+Custom [ ] 
+These are the firearms automatically unlocked for 47 to choose from during the briefing before each mission (from A Vintage Year onward). They are provided by the Kruger Schmidt weapon-smith company and are all heavily customizable:
+Silverballer 
+SP12 Shotgun 
+SMG Tactical 
+M4 Assault Rifle 
+W2000 Sniper 
+Collectible [ ] 
+These are all the firearms and projectile weapons found throughout the game which can be procured by 47 during missions, unlocking them for selection alongside the custom arms for future completion of the game:
+SLP .40 Pistol and SLP .40. S 
+Snub Nosed Revolver 
+Six Shooter 
+Bull .480 
+Desert Eagle 
+MP5 
+SAF SMG 
+MP7 
+MP9 
+TMP 
+SG552 
+FN-2000 
+M14 
+Shotgun 
+Dragunov 
+Kazo TRG 
+Elephant Rifle 
+Air Rifle 
+Nailer 
+Non-collectible [ ] 
+These are all the firearms and projectile weapons that can be found throughout the game, but for various reasons cannot be carried over to other missions or stored in the Hideout :
+WWI Pistol 
+Replica Mark III 
+Custom 1911 
+Melee Weapons [ ] 
+These are all the melee weapons otherwise found in different missions, though none of which can be carried over to other missions.
+Kitchen knife 
+Fire Extinguisher 
+Baseball bat 
+Hammer 
+Screwdriver 
+Stun Gun 
+Hedge Cutter 
+Shovel 
+Cane Sword 
+Meat Cleaver 
+Stilleto 
+Unobtainable Weapons [ ] 
+These are all the weapons that have been removed from being able to use or collect but can still be accessed by accessing and changing the data files of the game.
+Bowie Knife 
+Bullseye .22
+Mark III 
+White Baseball bat 
+Throwing Knife 
+Nail File 
+Pickaxe
+Pitchfork
+Soundtrack [ ] 
+The Hitman: Blood Money Original Soundtrack , composed by Jesper Kyd , composer of previous titles' soundtracks, was released on 20 May 2006 by Sumthing Else and Eidos Interactive . The score was performed jointly with the Budapest Symphony Orchestra and the Hungarian Radio Choir. It features Kyd's trademark ambience and dark, foreboding arrangements with the choral parts in deep brooding Latin.
+The score was nominated for the "Best Video Game Score" award in the 2006 MTV Video Music Awards ceremony but lost out to The Elder Scrolls IV: Oblivion . However, it did receive the "Xbox Game of the Year - Best Original Score" award from IGN.
+Reception [ ] 
+Hitman: Blood Money generally got positive reviews, although according to many critics the game was "undercooked" and "could have been the best game ever". IGN gave the game a flat 8 on 10, saying "IO Interactive's presentation is better than ever, but has the core game changed at all?". GameRankings gave it 82.98% on Xbox 360, 82.51% on PS2, 82.38% on PC and 81.76% on Xbox. Metacritic gave the game 83 on Xbox 360, 82 on PS2 and PC, and 81 on Xbox, the critics saying "An epic experience from beginning to end, filled with dark humor, lots of action and most importantly the perfect blend of engrossing story and engaging gameplay. Throw in some sumptuous visuals and atmospheric sounds and you've got the best game of 2006 so far.". IMDb gave the game an 8.2 on 10. Gamespot gave the game an 8.2, reviewing "The stealthy assassin 47 returns for a fourth appearance.". Eurogamer gave the game an 8.5 on 10. Official Xbox Magazine gave the game 8/10, saying "The master of disguise cleans up with his new greatest hits.".
+The user score went up to 94, the highest in the series so far.
+The game has sold over 2.1 million copies.
+Trivia [ ] 
+This game is part of the Hitman HD Trilogy and the Hitman HD Enhanced Collection.
+The PS3 version is a port from the Xbox 360 version, not the PS2 version unlike Hitman 2: Silent Assassin and Hitman: Contracts .
+ However, in the intro, EIDOS PRESENTS is replaced with SQUARE ENIX PRESENTS since Square Enix published the HD version.
+Blood Money is the first game in the Hitman series to have at least one target in all missions. The second was HITMAN™ .
+Only the PS3 version of the game comes with Spanish language support.
+The European release of the Hitman Collection on PC is DRM-free and already patched to the latest version
+In the HITMAN™ cinematic Legacy , the first shot of Agent 47 firing his Walther WA 2000 Sniper rifle from a "CASINO" sign is a direct reference to one of Blood Money's promotional shots. [1] [2] 
+In the intro from the HD Enhanced Collection, EIDOS PRESENTS and/or SQUARE ENIX PRESENTS was replaced with the WB Games logo due to WB Games being the publisher of the enhanced port.
+In another game, 25 to life, produced by Eidos, Blood Money posters appear in the form of billboards. 25 to life was released four months ago before Blood Money.
+See also [ ] 
+Achievements 
+Cheats 
+Easter Eggs 
+Glitches 
+Soundtrack 
+References [ ] 
+↑ Hitman: Blood Money promotional image 
+↑ HITMAN Reddit 
+Missions in Hitman: Blood Money 
+Training 
+Hideout - Death of a Showman 
+Chile 
+A Vintage Year 
+France 
+Curtains Down 
+California 
+Flatline - A New Life 
+Louisiana 
+The Murder of Crows 
+Colorado 
+You Better Watch Out... 
+Mississippi 
+Death on the Mississippi - Till Death Do Us Part 
+Nevada 
+A House of Cards - A Dance with the Devil 
+Epilogue 
+Amendment XXV - Requiem 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Hitman: Blood Money 
+Games 
+Hitman 
+Languages 
+Deutsch 
+ Français

@@ -1,0 +1,362 @@
+"Welcome to the World of Assassination. You are Agent 47, the world's ultimate assassin." 
+― Hitman's Tagline. 
+HITMAN™
+Hitman's box art. 
+Game Information:
+Developer:
+IO Interactive 
+Publisher:
+Square Enix Europe (Formerly)
+ Io-Interactive (Formerly) [1] 
+ Feral Interactive (MacOS) [1] 
+ WB Games
+Release Date:
+March 11 th , 2016 (Intro Pack/ Paris ) (Digital) 
+ April 26 th , 2016 ( Sapienza ) (Digital) 
+ May 31 st , 2016 ( Marrakesh ) (Digital) 
+ July 19 th , 2016 (Summer Bonus Episode) (Digital) 
+ August 16 th , 2016 ( Bangkok ) (Digital) 
+ September 27 th , 2016 ( Colorado ) (Digital) 
+ October 31 st , 2016 ( Hokkaido ) (Digital) 
+ December 13 th 2016 (Winter Bonus Episode) (Digital) 
+ January 31 st , 2017 (Retail) 
+Engine:
+Glacier (Modified) 
+Size:
+67.9 GB (67900 MB) (GOTY + All DLC)
+Genre:
+Action Stealth
+Platforms:
+Microsoft Windows (Steam, Epic Games Store)
+ MacOS 
+ Linux 
+ PlayStation 4 
+ Xbox One 
+Game Mode(s):
+Single-Player (With online leader-boards and challenges) 
+Official Website(s):
+Hitman Webpage (ioi.dk) Hitman Webpage 
+Hitman (stylized as HITMAN™ ) is the 6 th installment to the Hitman video game series. It was released on March 11 th , 2016 digitally, and was released in retail on January 31 st , 2017 [2] . It was released for Microsoft Windows , macOS , Linux , PlayStation 4 and Xbox One .
+The game's levels were released through free content updates and these types of additions are expected for bonus content in the future. [3] 
+HITMAN™ was delisted on all platforms on January 26 th , 2023, coinciding with HITMAN™ III ' s rebranding to Hitman: World of Assassination .
+Contents
+1 Gameplay 
+2 New Features 
+3 Plot 
+3.1 Secrets of the Global Elite 
+3.2 Trapping the Messenger 
+3.3 Providence 
+3.4 The Shadow Client 
+3.5 The Revelation of Providence 
+3.6 Partnership 
+4 Locations 
+5 Weapons 
+5.1 Firearms 
+5.2 Melee 
+5.2.1 Sharp/Lethal 
+5.2.2 Blunt/Non-Lethal 
+5.3 Other 
+5.4 Explosive 
+6 Trivia 
+7 Videos 
+8 Gallery 
+8.1 Concept Art 
+8.2 Promotional Images 
+8.3 Miscellaneous 
+9 References 
+Gameplay 
+Hitman is a third-person stealth video game in which players take control of Agent 47 , a genetically enhanced assassin, traveling to international locations and eliminating contracted targets. As in other games in the Hitman series, players are given a large amount of room for creativity in approaching their assassinations. For instance, players may utilize long-ranged rifles to snipe a target from a long distance, or they may decide to assassinate the target at close range by using blade weapons or garrote wire. Players can use explosives or disguise the assassination by creating a seemingly accidental death. A common method to approach a mission is to incapacitate other characters and wear their outfits as a disguise, which allows the player to gain access to restricted areas more easily. Actions of non-playable characters influence the game. For instance, players can gain more information about the position of their target through listening to a nearby news reporter.
+The level design of the game features a structure similar to that of Hitman: Blood Money and earlier games in the series, as opposed to the linear structure of Hitman: Absolution . Every episode in the game features a sandbox-type environment which can be explored by the player, featuring numerous ways to eliminate targets from accidents to scripted "opportunities" which require multiple tasks to complete. Levels are larger in Hitman , in which the maps in the game are "six to seven times larger than the biggest levels in Absolution." Levels accommodate about 300 non-playable characters (NPCs), with each having different routines and reacting differently to players' actions. 
+New Features 
+Sandbox-type, large, non-linear levels present in earlier Hitman games, most notable being Blood Money, have been reintroduced, as opposed to the linear missions of Absolution. 
+Opportunities are introduced, which require multiple tasks to complete, eventually ending on target(s) assassination.
+Save games are now reintroduced. Players can save their game anytime during missions, with Professional difficulty only allowing one save per level. Auto-saving is also available.
+Instinct Mode , which was introduced in Absolution , is reintroduced in a simplified form, no longer being an expendable resource
+The Rating system akin to Blood Money's is introduced. Player's mission performance review is rated on a 5-star rating system, influenced by factors such as time is taken, the number of non-targets killed, whether the player was spotted, whether or not they have been recorded on camera or if bodies were found.
+The ability to choose different starting locations or outfits has been introduced.
+The Agency Pickup reintroduced, allowing players to smuggle weapons at specific points in a level.
+Mastery Points introduced, which earn players new items including new gadgets such as weapons, different types of poison and explosives, new agency pickup locations, or new starting locations.
+Completing challenges in a mission will now award players with Mastery Points. Gaining enough mastery points will cause the player to earn a level of Mastery Level, with a total of 20 levels.
+Disguise detection system similar to early Hitman titles is now reintroduced.
+Time-limited "Elusive Targets " introduced, which are specialized contracts and will only surface once. These contracts made by Square Enix , have new stories, looks and ways to complete the missions. Once the player dies, he/she can no longer play the Elusive Contract. However, Elusive Contract can be restarted at any point, except after the player killed the target, or begun combat or are hunted by hostiles. If a player fails to assassinate an elusive target before the mission expires, or alert the target and allow them to escape, the target will not return. Successful completion of multiple targets yields cosmetic rewards for the player.
+" Escalation Contracts ," which are contracts created by the developers, are introduced and include multiple stages that require the player to complete certain tasks such as assassinating a target with a specific weapon or disguise or breaking into a safe. Completing a stage will progress through the escalation, and the difficulty will increase with new targets to assassinate, new challenges to comply with or with new changes to the level. Each Escalation contract contains five difficulty levels. Saving or Loading the game is not allowed within an Escalation contract.
+Contracts Mode also returned in Hitman , allowing players to assign up to five NPCs as assassination targets, set requirements for how to kill them, and share their contract with other players to compete for high scores on. 
+Dropping an illegal item is now a suspicious act and NPCs that witness this will either become hostile or report 47 to the guards.
+Plot 
+Note: While the general plot of Hitman follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+The game's prologue takes place twenty years before the events of the game, in 1999. It begins with Agent 47 stepping off a helicopter somewhere in Greenland , in front of a cliff leading into a secret International Contract Agency recruitment base . As he continues, the door opens and Diana Burnwood greets him, telling 47 about her position in The Agency. She leads him to his quarters, where 47 will start his training the next day. A day passes and 47 starts guided training, a simulated test with fake weapons and International Contract Agency operatives. 47 kills his main target, Kalvin Ritter , and stops training.
+After 47's training was completed, her advisor, Director Erich Soders , claims 47's stats are off the charts. Afterward, Diana gave 47 more time to practice with free-formed training.
+After that, 47 began his final test. It was a re-creation of one of Soders' own legendary missions, where he had to kill Jasper Knight at a Cuban military base during the Cold War. With Diana's help, 47 killed Jasper Knight with flying colors and got accepted into The Agency where he gained the title of Agent.
+The prologue ends with Agent 47 talking to Diana, with the latter telling him that he should lay low until the Agency contacts him. Diana asks Agent 47 his name, to which he responds with "47." After Agent 47 leaves, he continues his life as an assassin.
+Secrets of the Global Elite 
+Main article(s): The Showstopper 
+The unnamed man and Viktor, the latter handing a file
+Six-Seven years after the events of Hitman: Absolution , the game starts in the year 2019. Agent 47 is given a contract assignment for Viktor Novikov and his girlfriend, Dalia Margolis . They are the ringleaders of an intelligence agency by the name of IAGO . IAGO has stolen top secret information about MI6 agents in the Middle east and Agent 47 was sent by MI6 to eliminate Novikov and Margolis before they sell the list to the highest bidders. Agent 47 succeeds flawlessly, killing both of his targets and escaping Paris .
+However, one day earlier, there was a meeting between Viktor Novikov and an unnamed man . Novikov hands the man a file, claiming it's "the secrets of the 'Global Elite,'" and the man proceeds to message an unknown source to "leak the names." The names are presumed to be Novikov and Margolis'.
+Trapping the Messenger 
+Main article(s): World of Tomorrow 
+After completing his contract in Paris, Agent 47 travels to the coastal town of Sapienza, Italy. There the ICA has been contracted to destroy a DNA-specific Virus capable of infecting and eliminating anyone without a trace and eliminate its creator Dr. Silvio Caruso of the Ether Biotech Corporation and his company-appointed assistant, Dr. Francesca De Santis . Agent 47 successfully assassinates both targets, infiltrates the Ether field laboratory in the caves beneath Caruso's villa, and destroys the virus.
+The man threatening a member of Providence
+One week later, in Johannesburg , an unidentified agent, investigating the destruction of the virus is ambushed by the "Shadow Client" in his car. The man reveals that he has been following the agent since the latter left Italy after using IAGO and the ICA to arrange for the destruction of the virus. He then holds the agent at gunpoint and demands an object called the "key." The agent threatens the man with reprisal by an organization called "Providence," but in reply, the man mentions another man named Cobb who made a similar warning. The agent hands over his key and is shot.
+Providence 
+Main article(s): A Gilded Cage 
+Agent 47 is sent to Marrakesh , Morocco to assassinate General Reza Zaydan and former bank CEO Claus Hugo Strandberg . Strandberg, who was to be on trial for billion-dollar investment fraud, was freed by mercenaries and evaded prosecution by taking refuge at the local Swedish consulate. Zaydan, who secretly controls the mercenaries, plans to use Strandberg's escape to drive the Moroccan public to riot, creating an opportunity for a military coup d'état. The ICA is hired by a multinational construction contractor to prevent the coup to preserve lucrative government contracts. Agent 47 assassinates both men, preventing the coup.
+The two men conversing
+Two days later, in New York City , two men discuss the deaths of the agent in Johannesburg and Cobb who also carried a key, as well as the failure of the coup and the destruction of the virus. They realize that these events have all been orchestrated as an attack on Providence. They discover that a vault which held information on Providence's assets and operatives, requiring two keys to open, has been compromised and raided. One of the men warns the other, the "Director," to begin preparing defenses now that Providence has been exposed.
+The Shadow Client 
+Main article(s): Club 27 
+After the assassination in Marrakesh, Agent 47 receives a contract to assassinate famed indie rock singer Jordan Cross and his family lawyer Ken Morgan at a luxury hotel on the Chao Phraya River in Bangkok , Thailand . Previously, Cross had been acquitted of the death of his girlfriend, Hannah Highmoore, through a legal defense and cover-up conducted by Morgan on behalf of Cross's father, recluse billionaire media mogul Thomas Cross . The Highmoore family, seeking retribution, issues the contract. The mission takes place on Jordan's 27th birthday, alluding to his death falling into the pattern of the 27 Club.
+A week after Agent 47 eliminates both targets, Thomas Cross is kidnapped and subsequently found dead after emerging from seclusion to attend Jordan's funeral, and his offshore bank accounts are emptied by unknown parties. Diana informs Agent 47 that the ICA, alerted by these events and patterns in the contracts Agent 47 has carried out, is now searching for a single "Shadow Client" who has indirectly set each of the contracts in motion by leaking information to the actual clients.
+The Revelation of Providence 
+Main article(s): Freedom Fighters 
+The ICA discovers that the shadow client's transmissions were sent by Olivia Hall, a hacktivist, from a farm compound in Colorado. The farm houses a training camp for a private militia led by Sean Rose , an eco-terrorist, and bomb-maker connected to Thomas Cross's kidnapping. Urged by Erich Soders, the ICA board of directors orders an operation targeting Rose, under the assumption that he is the shadow client.
+Agent 47 is sent to eliminate Rose and three other militia members: Penelope Graves , a criminal profiler who defected from Interpol while investigating Rose; Ezra Berg , a chemical interrogator and former Mossad operative; and Maya Parvati , a combat instructor and former assassin for the Tamil Tigers.
+After eliminating all targets, Agent 47 further investigates the shadow client's motivations at Diana's behest. In the camp's command center, Agent 47 finds that the shadow client has tracked his past assassinations over several decades, which would not be possible unless the shadow client knew his identity. Additionally, key figures from each contract influenced by the shadow client, and many other persons, are labeled as having ties to Providence , which Diana and Agent 47 recognize as the name of a rumored secret organization of powerful elite that covertly controls world affairs. Finding a picture of Soders, 47 and Diana infer that he has served as Providence's agent in infiltrating the ICA; Diana announces that Soders must now take precedence over pursuing the shadow client.
+As Agent 47 leaves the farm, the shadow client observes him through a sniper rifle while speaking to Hall by phone. Urged by Hall to kill 47, he instead tells Hall a story of how as a boy, he and his friend tried to escape from "that place", but were found by their warden, who murdered everyone who had met them during their escape. The shadow client declines to shoot 47 and reveals to Hall that he knows 47 "better than anyone".
+Partnership 
+Main article(s): Situs Inversus 
+The ICA confirms that Erich Soders has defected to Providence in exchange for a cardiac transplantation to stave off Soders' incipient heart failure—complicated due to a congenital condition. Leveraging its power and influence, Providence has procured a rare right-sided heart required for the operation and admitted Soders to the GAMA private hospital in Hokkaido, Japan for a fast-tracked surgery. To prevent Soders from giving a full list of ICA operatives to Providence and to issue a warning against interference with the ICA's sovereignty, 47 is admitted to the hospital under the alias Tobias Rieper to eliminate Soders and his Providence operative, Yuki Yamazaki , a lawyer to the Yakuza.
+Diana and the member from Providence
+After 47 completes his mission, much later Diana is approached by the lapel-pin wearing Providence member on a train. He informs her that Providence , now aware of the shadow client's role in using the ICA to attack them, wishes to partner up with the ICA and target the shadow client instead. In the face of Diana's reticence and suspicion of Providence's honor, he offers to provide information on 47's unknown background in exchange for an alliance, handing her an old photograph of a small boy who appears to be 47.
+Locations 
+Image 
+Missions 
+Location 
+Freeform Training 
+ The Final Test 
+Arctic Ocean
+Greenland
+ICA Training Facility 
+The Showstopper 
+Europe
+France
+Paris 
+World of Tomorrow 
+Europe
+Italy
+Sapienza 
+A Gilded Cage 
+Africa
+Morocco
+Marrakesh 
+Club 27 
+Asia
+Thailand
+Bangkok 
+Freedom Fighters 
+North America
+U.S.A
+Colorado 
+Situs Inversus 
+Asia
+Japan
+Hokkaido 
+Weapons 
+Firearms 
+ICA19 
+ ICA19-Chrome
+ICA19 F/A 
+ICA 19 F/A Stealth
+ICA Silverballer 
+Krugermeier 2-2 
+HWK21 
+ HWK 21 Covert
+Striker 
+Bartoli 75R 
+ Bartoli 75S
+Bartoli .12g 
+Enram HV 
+ Custom Enram HV
+Silenced Enram HV
+TAC-SMG 
+ TAC-SMG Auto
+TAC-SMG Covert
+TAC-SMG Silenced
+HX-10 
+MP5 
+RS-15 
+TAC-4 AR S/A 
+TAC-4 AR Auto 
+ TAC-4 AR Stealth
+TAC-4 AR Desert
+Fusil G2 
+ Fusil G1-4 
+Fusil G4
+Jaeger 7 
+ Jaeger 7 Lancer
+Jaeger 7 Tiger
+Jaeger 7 Covert
+Sieger 300 
+ Sieger 300 Advanced 
+Sieger 300 Ghost 
+Melee 
+Sharp/Lethal 
+Amputation Knife 
+Fire Axe 
+Battle Axe 
+Circumcision Knife 
+Concealable Knife 
+Cleaver 
+Combat Knife 
+Fiber Wire 
+Folding Knife 
+Hatchet 
+Janbiya 
+Katana 
+Kitchen Knife 
+Letter Opener 
+Masamune 
+Nna Obara's Machete 
+Old Axe 
+Saber 
+Scalpel 
+Scissors 
+Screwdriver 
+Shuriken 
+Blunt/Non-Lethal 
+Baseball 
+Baseball Bat 
+Branding Iron 
+Brick 
+Bust 
+Cannonball 
+Coconut 
+Concealable Baton 
+Cowboy Bust 
+Crowbar 
+Expired Can of Spaghetti Sauce 
+Fire Poker 
+Golf Club 
+Hammer 
+Claw Hammer 
+Lead Pipe 
+Mannequin Arm 
+A New Bat 
+Okinawan Tonfa 
+Police Baton 
+Pool Ball 
+Shovel 
+Soda Can 
+Toy Tank 
+Wrench 
+Other 
+Apricot 
+Coin 
+ Gold Coin 
+ICA Outstanding Performance Coin
+Disposable Scrambler 
+ICA Remote Audio Distraction 
+Lockpick 
+"Mixtape 47" 
+Poison
+Antique Lethal Syringe 
+ Botulinum Toxin
+Emetic Poison Vial 
+Fugu Fish Poison
+Lethal Poison Vial
+ Modern Lethal Syringe 
+Sedative Poison Vial 
+Explosive 
+Bag of Gunpowder 
+Explosive Compound 
+Explosive Golf Ball 
+Explosive Phone 
+Fire Extinguisher 
+ICA Explosive Phone 
+ ICA Proximity Explosive 
+ICA Remote Explosive 
+Rubber Duck Explosive 
+ Rubber Duck Remote Explosive (Pale/White)
+Rubber Duck Proximity Explosive (Yellow)
+Rubber Duck Remote Explosive (Red)
+Propane Tank 
+Proximity CX Demo Block 
+Remote Breaching Charge 
+Remote CX Demo Block 
+The Iconator 
+Napoleon Blownaparte 
+Trivia 
+As a promotional event for Hitman , IO Interactive collaborated with Realms Pictures to create a small real-life version of Hitman titled " Real Life Hitman," which can be found here .
+After the events of Absolution, it is never mentioned what transpired with Victoria or the cliff-hanger with both Birdie and Cosmo Faulkner . Unfortunately it may never be known what has happened to these characters. Its also unknown what Agent 47 and Diana have done after the games events from 2013-2019. A sequel to Hitman: Absolution was in development in 2013-14 but was quickly canceled with most of its assets and Absolution's assets being used to build Hitman. 
+Videos 
+12 Minute Full Operation - Hitman Beta PS4 Gameplay
+Talking HITMAN Level Design Part 1 PS4
+Talking HITMAN Level Design Part 2 PS4
+HITMAN - Legacy Opening Cinematic Trailer PS4
+HITMAN - Season Premiere Trailer PS4
+Game of the Year Edition
+HITMAN Halloween Pack
+HITMAN - Landslide Reveal
+HITMAN - 101 Gameplay Trailer
+HITMAN - Holiday Hoarders Trailer
+HITMAN - The Complete First Season Trailer
+HITMAN - The Season Finale Teaser
+HITMAN - Episode 5 Colorado Launch Trailer
+HITMAN - Episode 5 Colorado Teaser Trailer
+HITMAN Episode 4 - Bangkok Trailer
+HITMAN A 360 degree visit to Bangkok
+HITMAN - The Class - Are We Stars - Official Music Video
+HITMAN Summer Bonus Episode - Launch Trailer
+HITMAN - Episode Three Marrakesh Launch Trailer (May 31st)
+HITMAN A 360 Degree Visit to Marrakesh
+HITMAN - Episode Two Sapienza Launch Trailer
+HITMAN A 360 Degree Visit to Sapienza
+HITMAN - Welcome to Sapienza
+HITMAN - 4K UltraHD Showstopper
+HITMAN - 360 degree Fashion Show
+HITMAN - World Premiere 'Showstopper' Playthrough
+HITMAN - World Exclusive Gameplay Trailer (E3 2015)
+HITMAN - World of Assassination Trailer
+HITMAN - Beta Teaser Trailer
+HITMAN - Announcement Trailer
+Gallery 
+Concept Art 
+Hitman concept art." data-src="http://web.archive.org/web/20250118080011/https://static.wikia.nocookie.net/hitman/images/0/0d/HITMANConceptArt.png/revision/latest/scale-to-width-down/185?cb=20160725045906"/> 
+Hitman concept art.
+Ditto.
+Promotional Images 
+Game of the Year Edition overview.
+Regular Steam header.
+Updated Game of the Year Steam header.
+Game of the Year body promotional.
+Holiday promotional header (December 2017).
+Clown outfit promo.
+Cowboy promo.
+Daytime Colorado promo.
+Sniping promo.
+Oybek Nabazov promo.
+Miscellaneous 
+Pistols.
+Shotguns.
+SMGs.
+Assault Rifles.
+Sniper Rifles.
+Melee Weapons.
+Tools.
+Distractions.
+Poisons.
+Explosives.
+Suits.
+References 
+↑ 1.0 1.1 HITMAN™ Digital Purchase Page (Steam) - 10/2/17 
+↑ "Disc Version of HITMAN Delayed Into 2017" - VG247.com 
+↑ "Hitman changes release structure again, now 'fully episodic'" . Polygon. Vox Media. Retrieved 19 March 2016. 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman 
+Languages 
+Deutsch

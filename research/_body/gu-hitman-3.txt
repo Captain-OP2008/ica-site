@@ -1,0 +1,123 @@
+This article is about the 2021 video game. For the 2004 video game, see Hitman: Contracts . 
+Hitman 3 (stylized as HITMAN™ III ) is the 8 th and most recent major installment into the Hitman video game series, and serves as the conclusion to the World of Assassination trilogy. It was announced on June 11, 2020 and was released on January 20, 2021. [1] HITMAN™ III is the first game in the Hitman series to be self-published by IO Interactive. [2] 
+It launched with 6 new locations to explore, and owners of HITMAN™ and HITMAN™ 2 are be able to 'import' locations introduced in those games into HITMAN™ III . Additionally, HITMAN™ 2 players are given the option to carry over unlocks and progression into HITMAN™ 3 .
+With the Freelancer update on January 26, 2023 HITMAN III was rebranded to HITMAN™: WORLD OF ASSASSINATION on all platforms, and access passes for HITMAN™ and HITMAN™ 2 Standard content were granted to all players, creating a single point of entry for the trilogy.
+A standalone expanded version of the game's VR mode, HITMAN III™ VR: RELOADED , developed and published by XR Games, was announced on June 4, 2024 and was released on September 5, 2024.
+Contents
+1 Gameplay Overview 
+1.1 Progression 
+1.2 Difficulty 
+2 Plot 
+3 Missions 
+4 Updates 
+5 Gallery 
+5.1 Promotional Images 
+5.2 Videos 
+6 References 
+Gameplay Overview 
+In HITMAN™ 3 , players once again take control of Agent 47 in order to fulfil assassination missions. Missions take place in dynamic locations across the globe, where players can utilize the sandbox nature of the maps to their advantage in order to achieve their goal in any way they see fit. From an assortment of weapons, environmental hazards, distractions and tactics, creative use of the world is at your disposal, along with the return of opportunities and hints from the previous game which aid players into seeing some of the more spectacular assassination methods. As with the previous game in the series, in addition to the standard single-player experience, players can also complete contracts in the Sniper Assassin game mode.
+New features that come with HITMAN™ 3 include keypads that are on specific locked doors in the levels (requiring the knowledge of the four-digit code to pass), Permanent shortcuts are also featured (in ladder and door forms), and can be unlocked to cut down on map travel time, and reward player exploration in the process.
+As with HITMAN™ and HITMAN™ 2 , the game also features Elusive targets; seven of them as of writing that tie into the Seven Deadly Sins DLC that released over seven months of 2021. Beginning in 2022, Elusive Target Arcade was introduced to let players play specific Elusive Targets in an Escalation Contracts -esque fashion, with optional complications, and get rewarded with a unique suit or weapon.
+Progression 
+Progression is centered around mastering locations. As players level up the Mastery track for each location, they unlock starting locations, agency pickups, and new items that give options to take on each mission in new ways. Progress can be achieved by either completing Challenges or earning Performance XP.
+Performance XP acts as a second avenue to accumulate experience points. It awards a small amount of XP for doing moment-to-moment actions during a playthrough, like taking someone out silently, hiding a body, or killing a target. By default, Performance XP will be displayed, but this can be toggled on or off in Settings.
+A Player Profile levels up according to total XP earned. Player badges are the visual representation of the profile level. Both Mastery and Performance XP are funnelled into the Player Profile as well as the Mastery Track, levelling both up as players progress through the game. Outside of those two systems, items can be unlocked by completing specific Challenges.
+Both XP systems also work on locations imported from HITMAN™ and HITMAN™ 2 if players owned the specific Access Passes or used location importing. Mastery tracks for the Legacy locations have been tweaked to give a more directed progression of unlocks.
+Difficulty 
+There are three difficulty levels: Casual, Professional, and Master.
+Casual is for new players. It gives players an easier way to experiment with the world without fear of failing. Security Cameras have been removed in Casual, and the AI is much more forgiving of combat.
+Professional (default option). It gives players a feeling of being a true assassin, using all of the game's intricate mechanics to assassinate targets. Cameras are now present in the level, the AI is smarter, and gun fights are considerably more risky to partake in.
+Master is for the masters of assassinations; those who know the map inside out, and know every trick in the book. Combat is extremely hard and risky, NPCs will be more aware of their surroundings, there are more cameras and enforcers, making stealth gameplay a greater challenge.
+As with the progression system, all of difficulty levels can be selected on the Legacy locations within HITMAN 3. Some unlocks can only be earned by completing Challenges , and in an inversion of the previous entries, Hitman 3 does not make a distinction on what difficulty you complete challenges on; especially applicable to The Classics .
+Plot 
+This plot summary contains spoilers for HITMAN™ 3 , Agent 47: Birth of the Hitman , as well as the prior games that are a part of the World of Assassination Trilogy. 
+Note: While the general plot of HITMAN 3™ follows a distinct path, many elements such as the assassination methods and character interactions are subject to the player's decisions. The game offers several events and methods to targets, along with multiple decisions based on the sandbox gameplay. This story synopsis concentrates on the main plot thread of the game the player would generally encounter on their first time playing. 
+Following immediately after the events of Hitman 2 ; 47 , Lucas Grey , Diana Burnwood , and Olivia Hall continue their mission to take down The Partners . The game begins with 47, Grey, and Diana planning their ambush of the Partners in the Burj Al-Ghazali in Dubai . However, while HALO jumping down to the tower, 47 and Grey learn that Alexa Carlisle has fled the tower at the last minute, due to discovering Arthur Edwards embezzling the Partners' accounts and assets. Two of the partners; Carl Ingram and Marcus Stuyvesant , are still in the tower however. 47 and Grey continue with their plan, and skydive in to take down the remaining Partners. After the mission, 47 and Grey plan their next move, and notes Olivia has a fix for Carlise's location. Meanwhile, Diana receives a call from Arthur Edwards, who gloats about his escape and threatens her with the notion of a new Providence.
+Olivia tracks Alexa Carlisle to her home estate in Dartmoor, England ; Thornbridge Manor , where she is with family, much to their shock at her being alive. However, she knows this isn't for very long, and has quickly started to contain the Constant's efforts to control Providence. In the midst of all of this, however, her brother Zachary has been found dead, seemingly having poisoned himself in his own bed. Alexa, however, is adamant this is not the case, and has hired Phineas Whitmer , a London private investigator, in order to solve it. 47 and Grey arrive at Thornbridge Manor, the birthplace of Providence, contemplating the dramatic irony of the situation. 47 asks Grey what he'll do "without a score to settle", which he laughs off as settling for "worlds most wanted assassin" instead. 
+47 kills Alexa, as well as retrieves the case file on Arthur Edwards. However not long after he does this, communications with Diana get interrupted and 47 is cut off. When approaching his bike, Grey talks over the comms and informs 47 that they are compromised and Arthur Edwards has found them. 47 manages to impersonate a mercenary sent to capture them, but Grey informs him that it's too late for him and "wish they had more time". While 47 finds him pinned down by mercenaries, he does attempt to rescue Grey, but he takes his own life to protect 47's cover instead. Meanwhile, Diana's Paris office is broken into by Edwards, and is whisked away to parts unknown, leaving only Olivia and 47 to head to Berlin, Germany .
+When 47 arrives in Berlin, he contacts Olivia, only to find she's being pursued by several agents from the ICA; 12 of them, one of which Olivia is killed and sounds horrified when he tells him this. 47 tells her not to worry about the situation, and to lay low, while 47 kills 5 of them through the crowds of Club Hölle, in order to "send a message" to the agency to leave them alone. After killing them, 47 contacts Olivia that the coast is clear, and meetup in a nearby bar.
+As it turns out, the file 47 picks up in Dartmoor on Arthur Edwards is useless; the Partners had spent a lot of effort into making sure the Constant was untraceable. With the walls closing in on 47 and Olivia, and with the ICA now resorting to hacking Olivia's files remotely, it seems like it's only a matter of time before the two lose. However, 47 hatches a risky play; he figures the path of least resistance is to whistle blow the entire ICA by leaking target and client information to the internet, utterly destroying the organization in the process. 47 infiltrates the ICA's primary data facility in Chongqing, China , and eliminates its two supervisors; "Hush", Olivia's former mentor, and Imogen Royce, the data analysis head, all to bypass a biometric lock the Data core has.
+47 accesses his files pertaining to himself and Diana, and the screens start scrolling through almost every major target in the World of Assassination Trilogy; including the majority of the Elusive Targets from HITMAN™ . Olivia asks him if this is what he wants, and 47 agrees that "maybe it's time for a change" He then publishes the contracts to a non-profit site, outing the ICA to the world at large.
+Olivia however, misses a coding trap and the ICA is put into permanent lockdown, requiring 47 to sneak past multiple armed guards, while Olivia starts to set the place on fire to cause a distraction. After 47 escapes the underground facility, Olivia admits "that was tense", and they escape the city.
+In the wake of the ICA's public destruction, the Constant offers Diana a position as his successor, and the two devise a plan to capture 47. Diana suggests that 47's only weakness is Diana herself, and Edwards starts putting a plan into action. Meanwhile, 47 gets a tip-off from Olivia, in that Diana is heading to Vinedo Yates in Argentina , so Diana can inform him of her plan to destroy Providence from the inside. To do so, however, Don Archibald Yates , the Constant's closest fixer and top candidate, must be eliminated alongside Tamara Vidal , an ex-CIA agent turned Providence Herald, so the subterfuge works.
+After the two targets are Eliminated, Diana tells 47 to meet her by the Olive grove at sunset, and 47 agrees. However, 47 see's through the ploy and suspects Diana wants to become a Providence herald, and puts a gun on her. However, 47 is then surrounded by Guards, much like Grey was in Berlin, and Diana activates an Ether-branded Neurotoxin, in which 47 is totally incapacitated. She finally confronts 47 about the him killing her parents back in 1989 , which she admits he didn't have much choice in the matter, and that she's no better. Diana leaves 47 in the hands of the guards, and 47 is taken away.
+The final level starts off as a dream sequence, where 47 comes to the grips of the fact Diana knows what he did, as well as his mental state of killing so many people, all the while the voice of Diana taunting him. However, a figment of Grey tells him that the toxins are messing with his head, and he takes him to a recreation of the graveyard in Untouchable (Cinematic) , and Grey notes she has "every right to be angry at us" for what they did. 47 struggles to know what to do, but Diana tells him to accept his past, and blows up the Burnwoods' car once more, sending a Young Diana hurling back. 
+47 wakes up in a confined room, and makes his way to the nearest door and opens it with a crowbar...to discover it's a heavily gurded train the Carpathian Mountains in Romania . 47 makes his way through the Constant's heavily guarded train to bring an end to Providence by killing any Providence Member that see's him, and kill Arthur Edwards. Once this is done, 47 stops the train, gets off, walks into the sunset.
+Diana now has full control of Providence, but as promised to 47 in Mendoza, dismantles the organisation, wherein the heralds in the echelons of power start to step down, including several bankers like Alexander Fanin . She burns The Institute's contract on her parents, and a year later, 47 accepts a satellite call from her with a phone left to him in the hut she was staying at. 47 tells Diana that he chooses to remain a killer and the two return to their former roles as assassin and handler, respectively, as a means of keeping the global elites in check. 47 smiles, and says "It's good to be back" as the final words of the phonecall.
+Missions 
+Image 
+Missions 
+Location 
+On Top of the World 
+Asia
+United Arab Emirates 
+Dubai 
+Death in the Family 
+Europe
+England 
+Dartmoor 
+Apex Predator 
+Europe
+Germany 
+Berlin 
+End of an Era 
+Asia
+China 
+Chongqing 
+The Farewell 
+South America
+Argentina 
+Mendoza 
+Untouchable 
+Europe
+Romania 
+Carpathian Mountains 
+Shadows in the Water 
+Asia
+Andaman Sea 
+Ambrose Island 
+Updates 
+Various game updates and DLC have been and will continue to release throughout HITMAN™ 3' s lifespan including seasonal events, digital item packs, mission expansions and regular gameplay changes & fixes.
+For a list of downloadable content click here. 
+For a list of game updates and patch notes , click here. 
+Gallery 
+Promotional Images 
+Dramatic conclusion screenshot.
+Play your way screenshot.
+World of assassination screenshot.
+Death awaits screenshot.
+The main cast of HITMAN™ III.
+Official art.
+Videos 
+HITMAN 3 - Announcement Trailer
+HITMAN 3 - Dubai Cinematic Gameplay Trailer
+HITMAN 3 - The Thornbridge Mystery (England Location Reveal)
+Hitman 3 - Nintendo Switch Announcement
+HITMAN 3 - Under the Hood (Chongqing Location Reveal)
+HITMAN 3 - Launch Trailer (4K)
+References 
+↑ "Hitman 3 Coming to PS5 in January 2021" . IGN Retrieved June 11, 2020. 
+↑ " Announcing HITMAN 3 " IO Interactive Retrieved June 11, 2020. 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Games 
+Hitman 
+HITMAN™ III 
+Languages 
+Español 
+ Français 
+ Italiano 
+ Русский

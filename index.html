@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ICA · International Contract Agency</title>
+<meta name="description" content="国际合同代理机构（ICA）——一家在瑞士楚格设有通讯地址的国际咨询机构。Merces Letifer.">
+<meta name="theme-color" content="#07080a">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2307080a'/><circle cx='16' cy='16' r='10' fill='none' stroke='%23c8102e' stroke-width='2'/><circle cx='16' cy='16' r='3.4' fill='%23c8102e'/><path d='M16 2v5M16 25v5M2 16h5M25 16h5' stroke='%23c8102e' stroke-width='2'/></svg>">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/layout.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/effects.css">
+</head>
+<body class="is-locked" data-layer="corporate" data-surface="corporate">
+
+<!-- =====================================================================
+     SVG 符号库：ICA 徽记 / 图标
+     ===================================================================== -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <!-- ICA 徽记：靶心 + 罗盘刻度 + 全视之眼 -->
+    <symbol id="i-ica" viewBox="0 0 100 100">
+      <circle cx="50" cy="50" r="46" fill="none" stroke="currentColor" stroke-width="2.4"/>
+      <circle cx="50" cy="50" r="38.5" fill="none" stroke="currentColor" stroke-width=".8" opacity=".55"/>
+      <circle cx="50" cy="50" r="15" fill="none" stroke="currentColor" stroke-width="2.2"/>
+      <circle cx="50" cy="50" r="5.2" fill="currentColor"/>
+      <g stroke="currentColor" stroke-width="1.7">
+        <path d="M50 3.5V13M50 87v9.5M3.5 50H13M87 50h9.5"/>
+      </g>
+      <g stroke="currentColor" stroke-width="1" opacity=".7">
+        <path d="M17.2 17.2l6.7 6.7M76.1 76.1l6.7 6.7M82.8 17.2l-6.7 6.7M23.9 76.1l-6.7 6.7"/>
+      </g>
+    </symbol>
+    <!-- 全视之眼 -->
+    <symbol id="i-eye" viewBox="0 0 100 60">
+      <path d="M50 6C24 6 5 30 5 30s19 24 45 24 45-24 45-24S76 6 50 6z" fill="none" stroke="currentColor" stroke-width="4"/>
+      <circle cx="50" cy="30" r="11" fill="currentColor"/>
+    </symbol>
+    <symbol id="i-org" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/></symbol>
+    <symbol id="i-agent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"/></symbol>
+    <symbol id="i-contract" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M6 2h9l5 5v15H6z"/><path d="M15 2v5h5M9 12h8M9 16h5"/></symbol>
+    <symbol id="i-gear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="3.2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9L17 7M7 17l-2.1 2.1"/></symbol>
+    <symbol id="i-map" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M9 3L3 6v15l6-3 6 3 6-3V3l-6 3z"/><path d="M9 3v15M15 6v15"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="9"/><path d="M12 7v5.2l3.4 2"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="2.5" y="5" width="19" height="14" rx="1.5"/><path d="M3 6.5l9 6.5 9-6.5"/></symbol>
+    <symbol id="i-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="4" y="10" width="16" height="11" rx="1.5"/><path d="M8 10V7a4 4 0 018 0v3"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 2l8 3.5v6c0 5-3.4 9.3-8 10.5C7.4 20.8 4 16.5 4 11.5v-6z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+    <symbol id="i-vol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 9.5h3.5L12 5.5v13L7.5 14.5H4z"/><path d="M16 9.2a4 4 0 010 5.6M18.6 6.6a7.6 7.6 0 010 10.8"/></symbol>
+    <symbol id="i-vol-off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 9.5h3.5L12 5.5v13L7.5 14.5H4z"/><path d="M16.5 9.5l5 5M21.5 9.5l-5 5"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 6h18M3 12h18M3 18h18"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M15 4h4v16h-4M10 8l-4 4 4 4M6 12h9"/></symbol>
+    <symbol id="i-file" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M6 2h8l4 4v16H6z"/><path d="M14 2v4h4"/></symbol>
+    <symbol id="i-alert" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 3l9.5 17h-19z"/><path d="M12 9.5v5M12 17.2v.3"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M5 12h14"/></symbol>
+    <symbol id="i-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 3 2.6 15 0 18M12 3c-2.6 3-2.6 15 0 18"/></symbol>
+    <symbol id="i-pistol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 8h16l3 2v2h-5l-1 3h-5l-1-3H2z"/><path d="M6 13v5h3.5v-3"/></symbol>
+    <symbol id="i-wire" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 16c3-8 5 4 8-2s4 6 7-1"/><circle cx="3" cy="16" r="1.6"/><circle cx="21" cy="13" r="1.6"/></symbol>
+    <symbol id="i-bomb" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="10" cy="14" r="6"/><path d="M15 9l3-3M18 6l3-3M16 3h5v5"/></symbol>
+    <symbol id="i-vial" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M9 2h6M10 2v7l-3.5 9a2.5 2.5 0 002.3 3.5h6.4a2.5 2.5 0 002.3-3.5L14 9V2"/><path d="M7.2 15h9.6"/></symbol>
+    <symbol id="i-mask" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 5h16v6c0 5-3.6 9-8 11-4.4-2-8-6-8-11z"/><circle cx="9.2" cy="10" r="1.4"/><circle cx="14.8" cy="10" r="1.4"/></symbol>
+    <symbol id="i-case" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2.5" y="7" width="19" height="12" rx="1.5"/><path d="M9 7V4.5h6V7M2.5 12h19"/></symbol>
+  </defs>
+</svg>
+
+<!-- =====================================================================
+     全局特效层
+     ===================================================================== -->
+<div id="progress"></div>
+<div class="fx" id="fx-glow"></div>
+<div class="fx" id="fx-vig"></div>
+<div class="fx" id="fx-grain">
+  <svg xmlns="http://www.w3.org/2000/svg"><filter id="grain-f"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter><rect width="100%" height="100%" filter="url(#grain-f)"/></svg>
+</div>
+<div class="fx" id="fx-scan"></div>
+<div class="fx" id="fx-sweep"></div>
+<div id="cursor" class="hidden"></div>
+<div id="rip"><div class="rip-panel"></div><div class="rip-seam"></div><div class="rip-flash"></div></div>
+
+<!-- =====================================================================
+     准入终端
+     ===================================================================== -->
+<div id="boot">
+  <div class="boot-in">
+    <svg class="boot-mark mark-anim" viewBox="0 0 100 100" aria-hidden="true"><use href="#i-ica"/></svg>
+    <div class="boot-title">
+      <h1>INTERNATIONAL CONTRACT AGENCY</h1>
+      <div class="sub">Merces Letifer · Secure Access Terminal</div>
+    </div>
+    <div class="boot-log" id="boot-log"></div>
+    <div class="boot-bar"><i id="boot-bar"></i></div>
+    <div class="boot-hint" id="boot-hint">初始化安全通道…</div>
+  </div>
+</div>
+
+<!-- =====================================================================
+     第一层：伪装企业官网 —— ICA Global Advisory
+     ===================================================================== -->
+<div class="layer layer-corporate" id="layer-corp">
+<div class="corp">
+
+  <nav class="corp-nav">
+    <div class="corp-nav-in">
+      <a class="corp-logo" href="#" data-corp="home">
+        <svg viewBox="0 0 100 100" aria-hidden="true"><use href="#i-ica"/></svg>
+        <span class="corp-logo-t">
+          <b>ICA Global Advisory</b>
+          <span>Risk · Intelligence · Logistics</span>
+        </span>
+      </a>
+      <div class="corp-menu" id="corp-menu">
+        <a href="#" data-corp="services">服务范围</a>
+        <a href="#" data-corp="approach">方法论</a>
+        <a href="#" data-corp="clients">客户与合规</a>
+        <a href="#" data-corp="careers">职业机会</a>
+        <a class="corp-cta" href="#" data-corp="contact">联系顾问</a>
+      </div>
+      <button class="corp-burger" id="corp-burger" aria-label="菜单"><svg viewBox="0 0 24 24" width="20" height="20"><use href="#i-menu"/></svg></button>
+    </div>
+  </nav>
+
+  <header class="corp-hero" id="corp-hero">
+    <div>
+      <span class="eyebrow" style="display:block;margin-bottom:var(--sp-4)">Established in Europe · Global Operations</span>
+      <h1>在不确定性中，<br>为您提供<em>确定的结果</em>。</h1>
+      <p class="lede">
+        ICA Global Advisory 为全球企业与高净值客户提供风险管理、商业情报与关键事务协调服务。
+        数十年间，我们以绝对的谨慎与可验证的执行力，处理那些无法在公开渠道解决的问题。
+      </p>
+      <div class="corp-actions">
+        <a class="btn btn-primary" href="#" data-corp="contact">预约顾问咨询</a>
+        <a class="btn btn-ghost" href="#" data-corp="services">查看服务范围</a>
+      </div>
+    </div>
+    <div class="corp-hero-art" aria-hidden="true">
+      <svg viewBox="0 0 520 450">
+        <g fill="none" stroke="rgba(15,76,129,.2)" stroke-width="1">
+          <circle cx="260" cy="215" r="72"/><circle cx="260" cy="215" r="118"/>
+          <circle cx="260" cy="215" r="164"/><circle cx="260" cy="215" r="205"/>
+        </g>
+        <g stroke="rgba(15,76,129,.35)" stroke-width="1.2">
+          <path d="M260 6v42M260 382v52M46 215h44M430 215h46"/>
+        </g>
+        <g fill="none" stroke="rgba(15,76,129,.5)" stroke-width="1.6">
+          <path d="M260 158 L318 272 L202 272 Z"/>
+        </g>
+        <circle cx="260" cy="215" r="26" fill="none" stroke="rgba(15,76,129,.75)" stroke-width="1.8"/>
+        <circle cx="260" cy="215" r="7" fill="rgba(15,76,129,.85)"/>
+        <g fill="none" stroke="rgba(15,76,129,.13)" stroke-width=".8">
+          <path d="M0 96h520M0 155h520M0 215h520M0 275h520M0 335h520"/>
+          <path d="M96 0v450M176 0v450M260 0v450M344 0v450M424 0v450"/>
+        </g>
+      </svg>
+    </div>
+  </header>
+
+  <section class="corp-stats">
+    <div class="corp-stats-in">
+      <div class="corp-stat"><b>47</b><span>个国家有执行记录</span></div>
+      <div class="corp-stat"><b>2,400<span style="font-size:var(--fs-xl)">+</span></b><span>已结案委托</span></div>
+      <div class="corp-stat"><b>6</b><span>大洲业务覆盖</span></div>
+      <div class="corp-stat"><b>100<span style="font-size:var(--fs-xl)">%</span></b><span>交付完成率</span></div>
+    </div>
+  </section>
+
+  <section class="corp-sec" id="sec-services">
+    <div class="corp-sec-h">
+      <span class="eyebrow">Our Services</span>
+      <h2>我们处理那些不写在合同里的问题</h2>
+      <p>每一项委托都经过严格的风险评估与可行性论证。我们只承接能够确定完成的业务。</p>
+    </div>
+    <div class="corp-grid">
+      <article class="corp-card">
+        <span class="corp-card-n">01</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-shield"/></svg>
+        <h3>风险消除</h3>
+        <p>针对持续性商业威胁，提供根本性的、一次性的解决方案。我们确保结果不可逆，且与委托方无任何可追溯关联。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">02</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-search"/></svg>
+        <h3>商业情报</h3>
+        <p>目标人物的完整档案：作息规律、安保配置、人际关系与心理弱点。每份情报均经交叉验证，可直接支撑决策。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">03</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-globe"/></svg>
+        <h3>全球协调</h3>
+        <p>覆盖六大洲的执行网络与本地资源。无论标的位于何处，我们都能在七十二小时内完成部署。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">04</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-lock"/></svg>
+        <h3>绝对保密</h3>
+        <p>我们不存在于任何公开记录中。委托信息以分布式存储，无单一节点掌握完整链条，不留书面痕迹。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">05</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-agent"/></svg>
+        <h3>专属顾问</h3>
+        <p>每位客户由固定顾问全程对接，从需求确认到交付验收，单一联络点，减少暴露面。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">06</span>
+        <svg class="corp-card-ico" viewBox="0 0 24 24"><use href="#i-target"/></svg>
+        <h3>精度交付</h3>
+        <p>我们区分"结果"与"附带损害"。所有方案以最小可见度为设计前提，必要时可将结果呈现为意外。</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="corp-sec" id="sec-approach" style="padding-top:0">
+    <div class="corp-sec-h">
+      <span class="eyebrow">Our Approach</span>
+      <h2>四步交付流程</h2>
+    </div>
+    <div class="corp-grid" style="grid-template-columns:repeat(4,1fr)">
+      <article class="corp-card">
+        <span class="corp-card-n">STEP 1</span>
+        <h3>委托受理</h3>
+        <p style="margin-top:var(--sp-3)">通过加密渠道提交标的资料。我们在 24 小时内完成初步评估并回复报价区间。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">STEP 2</span>
+        <h3>情报尽调</h3>
+        <p style="margin-top:var(--sp-3)">情报部门建立完整目标档案，标定时间窗口、安保漏洞与最优方案。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">STEP 3</span>
+        <h3>执行部署</h3>
+        <p style="margin-top:var(--sp-3)">指派最匹配的执行顾问。全程由专属协调人远程支持，实时调整方案。</p>
+      </article>
+      <article class="corp-card">
+        <span class="corp-card-n">STEP 4</span>
+        <h3>交付验收</h3>
+        <p style="margin-top:var(--sp-3)">提供可核验的结果凭证。确认后结算，全流程无纸质记录留存。</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="corp-sec" id="sec-clients" style="padding-top:0">
+    <div class="corp-sec-h">
+      <span class="eyebrow">Compliance</span>
+      <h2>关于合规</h2>
+      <p>我们不在任何司法管辖区注册，亦不承认任何司法管辖区的管辖权。我们政治中立，道德务实。</p>
+    </div>
+    <div class="corp-grid" style="grid-template-columns:repeat(2,1fr)">
+      <article class="corp-card">
+        <h3>我们不做什么</h3>
+        <p style="margin-top:var(--sp-3)">我们不接受针对儿童、宗教人士或医疗人员的委托；不接受出于私人恩怨的委托；
+          我们拒绝任何"不利于生意"的委托。这些标准高于大多数客户的预期，也正因此我们得以存续至今。</p>
+      </article>
+      <article class="corp-card">
+        <h3>我们如何保密</h3>
+        <p style="margin-top:var(--sp-3)">我们没有总部大楼，没有公开注册地址，没有可被传唤的法人实体。我们仅保留少量必要设施，
+          其余全部基于云端分布存储。即便我们的存在被人怀疑，也无法被证实。</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="corp-hire" id="sec-careers">
+    <div class="corp-hire-t">
+      <span class="eyebrow" style="display:block;margin-bottom:var(--sp-3)">Careers</span>
+      <h2>我们始终在寻找杰出的人</h2>
+      <p>如果你认为自己具备我们需要的特质——冷静、精确、可靠，并且不介意工作内容的保密性——我们欢迎你的申请。
+        我们提供业界领先的报酬、完善的装备支持与全球范围的职业发展空间。</p>
+      <!-- 彩蛋入口：极小的字 -->
+      <div class="corp-hire-tiny" id="egg-line" title="">To apply, close this page.</div>
+    </div>
+    <a class="btn btn-primary btn-mono" href="#" data-corp="apply" id="apply-entrance">提交申请</a>
+  </section>
+
+  <footer class="corp-foot">
+    <div class="corp-foot-in">
+      <div>
+        <a class="corp-logo" href="#" data-corp="home" style="margin-bottom:var(--sp-4)">
+          <svg viewBox="0 0 100 100" aria-hidden="true" style="width:30px;height:30px"><use href="#i-ica"/></svg>
+          <span class="corp-logo-t"><b>ICA Global Advisory</b><span>Merces Letifer</span></span>
+        </a>
+        <p style="font-size:var(--fs-base);color:var(--fg-3);max-width:38ch;line-height:var(--lh-base)">
+          一家在瑞士楚格设有通讯地址的国际咨询机构。我们不提供法律服务，不提供会计服务，
+          也不对任何司法管辖区内的合法性作出陈述。
+        </p>
+      </div>
+      <div>
+        <h4>服务</h4>
+        <ul>
+          <li><a href="#" data-corp="services">风险消除</a></li>
+          <li><a href="#" data-corp="services">商业情报</a></li>
+          <li><a href="#" data-corp="services">全球协调</a></li>
+          <li><a href="#" data-corp="services">专职安保</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>机构</h4>
+        <ul>
+          <li><a href="#" data-corp="approach">方法论</a></li>
+          <li><a href="#" data-corp="clients">合规声明</a></li>
+          <li><a href="#" data-corp="careers">职业机会</a></li>
+          <li><a href="#" data-corp="contact">联系顾问</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>通讯地址</h4>
+        <ul style="font-family:var(--font-mono);font-size:var(--fs-sm);color:var(--fg-3);line-height:var(--lh-loose)">
+          <li>Zug, Switzerland</li>
+          <li>P.O. Box 4471</li>
+          <li>ref. ICA-GA/447</li>
+        </ul>
+      </div>
+    </div>
+    <div class="corp-foot-bot">
+      <span>© <span id="corp-year">2025</span> ICA Global Advisory. All rights reserved.</span>
+      <span>This site uses no cookies, no analytics, and no logs.</span>
+    </div>
+    <p class="corp-disclaimer">
+      免责声明：本页面所载服务描述仅为一般性商业说明，不构成任何形式的要约、承诺或代理关系。
+      若您对本机构的存在本身感到疑惑，那说明我们的工作做得很好。
+    </p>
+  </footer>
+
+</div>
+</div><!-- /layer-corporate -->
+
+<!-- =====================================================================
+     第二层：ICA 内部终端
+     ===================================================================== -->
+<div class="layer layer-terminal" id="layer-term">
+<div class="term">
+
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <button class="topbar-btn rail-toggle" id="rail-toggle" aria-label="目录"><svg viewBox="0 0 24 24"><use href="#i-menu"/></svg></button>
+    <div class="topbar-brand">
+      <svg viewBox="0 0 100 100" aria-hidden="true"><use href="#i-ica"/></svg>
+      <span>
+        <b>ICA</b>
+        <span>INTERNAL TERMINAL</span>
+      </span>
+    </div>
+    <div class="topbar-mid">
+      <span class="topbar-status"><i class="dot pulse"></i> SECURE LINK</span>
+      <span class="topbar-clock" id="clock">--:--:-- UTC</span>
+      <span class="topbar-clock" style="color:var(--fg-4)" id="session-id">SESSION —</span>
+    </div>
+    <div class="topbar-right">
+      <button class="topbar-btn" id="btn-sound" aria-pressed="false" title="环境音">
+        <svg viewBox="0 0 24 24"><use href="#i-vol-off"/></svg><span>AUDIO</span>
+      </button>
+      <button class="topbar-btn" id="btn-exit" title="退出内部终端">
+        <svg viewBox="0 0 24 24"><use href="#i-out"/></svg><span>EXIT</span>
+      </button>
+      <span class="topbar-avatar" title="访问等级：RESTRICTED">RB</span>
+    </div>
+  </header>
+
+  <!-- 左侧目录 -->
+  <nav class="rail" id="rail">
+    <div class="rail-sec">
+      <div class="rail-sec-h">Briefing</div>
+      <a class="rail-link" data-view="overview"><svg viewBox="0 0 24 24"><use href="#i-org"/></svg><span>机构概览</span><span class="rail-n">01</span></a>
+      <a class="rail-link" data-view="org"><svg viewBox="0 0 24 24"><use href="#i-shield"/></svg><span>组织编制</span><span class="rail-n">02</span></a>
+    </div>
+    <div class="rail-sec">
+      <div class="rail-sec-h">Operations</div>
+      <a class="rail-link" data-view="agents"><svg viewBox="0 0 24 24"><use href="#i-agent"/></svg><span>代理人档案</span><span class="rail-n" id="n-agents">—</span></a>
+      <a class="rail-link" data-view="contracts"><svg viewBox="0 0 24 24"><use href="#i-contract"/></svg><span>合同记录</span><span class="rail-n" id="n-contracts">—</span></a>
+      <a class="rail-link" data-view="targets"><svg viewBox="0 0 24 24"><use href="#i-target"/></svg><span>目标档案</span><span class="rail-n" id="n-targets">—</span></a>
+      <a class="rail-link" data-view="locations"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg><span>全球据点</span><span class="rail-n" id="n-locations">—</span></a>
+    </div>
+    <div class="rail-sec">
+      <div class="rail-sec-h">Dossiers</div>
+      <a class="rail-link" data-view="personae"><svg viewBox="0 0 24 24"><use href="#i-agent"/></svg><span>人物传记</span><span class="rail-n" id="n-personae">—</span></a>
+      <a class="rail-link" data-view="providence"><svg viewBox="0 0 24 24"><use href="#i-eye"/></svg><span>Providence</span><span class="rail-n" id="n-providence">—</span></a>
+    </div>
+    <div class="rail-sec">
+      <div class="rail-sec-h">Assets</div>
+      <a class="rail-link" data-view="gear"><svg viewBox="0 0 24 24"><use href="#i-gear"/></svg><span>装备库</span><span class="rail-n" id="n-gear">—</span></a>
+      <a class="rail-link" data-view="poisons"><svg viewBox="0 0 24 24"><use href="#i-vial"/></svg><span>毒药与注射剂</span><span class="rail-n" id="n-poisons">—</span></a>
+      <a class="rail-link" data-view="disguises"><svg viewBox="0 0 24 24"><use href="#i-mask"/></svg><span>伪装系统</span><span class="rail-n" id="n-disguises">—</span></a>
+      <a class="rail-link" data-view="timeline"><svg viewBox="0 0 24 24"><use href="#i-clock"/></svg><span>大事记</span><span class="rail-n" id="n-timeline">—</span></a>
+    </div>
+    <div class="rail-sec">
+      <div class="rail-sec-h">Covert</div>
+      <a class="rail-link" data-view="assets"><svg viewBox="0 0 24 24"><use href="#i-case"/></svg><span>情报资产</span><span class="rail-n" id="n-assets">—</span></a>
+      <a class="rail-link" data-view="finance"><svg viewBox="0 0 24 24"><use href="#i-contract"/></svg><span>财务与定价</span><span class="rail-n" id="n-finance">—</span></a>
+    </div>
+    <div class="rail-sec">
+      <div class="rail-sec-h">Agency</div>
+      <a class="rail-link" data-view="facilities"><svg viewBox="0 0 24 24"><use href="#i-shield"/></svg><span>机构设施</span><span class="rail-n" id="n-facilities">—</span></a>
+      <a class="rail-link" data-view="setbacks"><svg viewBox="0 0 24 24"><use href="#i-alert"/></svg><span>受挫记录</span><span class="rail-n" id="n-setbacks">—</span></a>
+      <a class="rail-link" data-view="recruit"><svg viewBox="0 0 24 24"><use href="#i-target"/></svg><span>代理人招募</span><span class="rail-n">↗</span></a>
+      <a class="rail-link" data-view="vault"><svg viewBox="0 0 24 24"><use href="#i-lock"/></svg><span>加密档案</span><span class="rail-n">🔒</span></a>
+      <a class="rail-link" data-view="sources"><svg viewBox="0 0 24 24"><use href="#i-file"/></svg><span>来源与考据</span><span class="rail-n">§</span></a>
+    </div>
+    <div class="rail-foot">
+      <b>Merces Letifer</b><br>
+      等级 <span style="color:var(--ica-red-l)">RESTRICTED</span><br>
+      终端 v4.7.1 / 节点 CHQ-01
+    </div>
+  </nav>
+
+  <!-- 主内容 -->
+  <main class="main" id="main">
+
+    <!-- 01 机构概览 -->
+    <section class="view" data-view="overview">
+      <div class="hero">
+        <div class="hero-in">
+          <svg class="hero-mark mark-anim" viewBox="0 0 100 100" aria-hidden="true"><use href="#i-ica"/></svg>
+          <div class="motto">Merces Letifer · 致命交易</div>
+          <h1>国际合同代理机构<br><span class="term" style="font-size:.5em;color:var(--fg-3)">International Contract Agency</span></h1>
+          <p class="type-target" id="hero-type" data-text="ICA 是全球性的职业杀手、士兵、雇佣兵、保镖与刺客的联合体，向世界各地的富有与有权势的客户提供专业服务。我们只聘用顶尖人才，被公认为本领域的黄金标准。">ICA 是全球性的职业杀手、士兵、雇佣兵、保镖与刺客的联合体，向世界各地的富有与有权势的客户提供专业服务。我们只聘用顶尖人才，被公认为本领域的黄金标准。</p>
+        </div>
+      </div>
+
+      <div class="stat-row" style="margin-bottom:var(--sp-6);border:1px solid var(--line);border-radius:var(--radius-m);overflow:hidden">
+        <div class="stat"><b style="font-size:var(--fs-xl)">未载明</b><span>Founded</span><em>成立年份 · 见大事记</em></div>
+        <div class="stat"><b class="hl">BRO3886</b><span>Asset No.</span><em>47 号在册编号</em></div>
+        <div class="stat"><b>3<span style="font-size:var(--fs-md)">%</span></b><span>Kills by 47</span><em>占机构目标数</em></div>
+        <div class="stat"><b class="hl">37<span style="font-size:var(--fs-md)">%</span></b><span>Revenue</span><em>却贡献年收入</em></div>
+        <div class="stat"><b>1,500</b><span>USD / File</span><em>情报简报单价</em></div>
+      </div>
+
+      <div class="grid g-side">
+        <div>
+          <div class="block">
+            <div class="block-h"><h2>机构性质</h2><span class="eyebrow">Overview</span></div>
+            <div class="panel cornered">
+              <div class="panel-b">
+                <p style="font-size:var(--fs-md);line-height:var(--lh-loose);color:var(--fg-2)">
+                  ICA 是一支跨国、资金极度充裕的中立（同时也是犯罪）组织，独立于世界各国政府之外，
+                  与各类团体和个人保持联系，提供暗杀与雇佣兵服务。已确认的暗杀发生在美洲、环太平洋地区与欧亚大陆。
+                </p>
+                <p style="font-size:var(--fs-md);line-height:var(--lh-loose);color:var(--fg-2);margin-top:var(--sp-4)">
+                  本机构由<b style="color:var(--fg)">分散式董事会</b><span class="term">Board of Directors</span>管理，
+                  雇佣数量有限的"代理人—协调人"小组<span class="term">agent-handler cells</span>，
+                  以及由分析师、研究员、黑客、清道夫、招募人员与训练人员构成的后备网络。
+                  我们主要以云端方式运作，除少数关键设施外不设办公室——例如位于
+                  <b style="color:var(--fg)">中国重庆的数据设施</b>与
+                  <b style="color:var(--fg)">格陵兰山中的训练设施</b>。
+                </p>
+                <p style="font-size:var(--fs-md);line-height:var(--lh-loose);color:var(--fg-2);margin-top:var(--sp-4)">
+                  我们在政治上中立，在道德上务实。除被判定为"不利于生意"的委托外，我们很少拒绝合同；
+                  但每位协调人有权遵循自己的职业准则，前提是不为个人利益接受委托。
+                  在 ICA，<b style="color:var(--ica-red-l)">职业性的超然</b>，是代理人与暴徒之间的区别。
+                </p>
+                <div class="quote">
+                  <p>"Exclusive. Reliable. Discreet. The world's most elite assassination agency employs only top talent and is considered the gold standard of the field."</p>
+                  <cite>— IO Interactive · 官方设定</cite>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="block">
+            <div class="block-h"><h2>业务范围</h2><span class="eyebrow">Services</span></div>
+            <div class="grid g-2">
+              <div class="panel"><div class="panel-b">
+                <h3 style="font-size:var(--fs-md);font-weight:var(--fw-semibold);margin-bottom:7px">合同暗杀</h3>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">定价取决于目标身份、重要程度、所受安保强度，以及所选用的执行资产——47 号是最昂贵的一项。</p>
+              </div></div>
+              <div class="panel"><div class="panel-b">
+                <h3 style="font-size:var(--fs-md);font-weight:var(--fw-semibold);margin-bottom:7px">情报出售</h3>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">除暗杀外，我们也向代理人出售任务目标的情报简报，每份文件收费 1,500 美元。</p>
+              </div></div>
+              <div class="panel"><div class="panel-b">
+                <h3 style="font-size:var(--fs-md);font-weight:var(--fw-semibold);margin-bottom:7px">雇佣兵服务</h3>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">武装护送、设施防卫与战术支援，由机构直属战斗单位执行。</p>
+              </div></div>
+              <div class="panel"><div class="panel-b">
+                <h3 style="font-size:var(--fs-md);font-weight:var(--fw-semibold);margin-bottom:7px">善后清理</h3>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">清道夫部门<span class="term">Cleaner Division</span>负责现场痕迹消除与证据链切断。</p>
+              </div></div>
+            </div>
+          </div>
+
+          <div class="block">
+            <div class="block-h"><h2>客户构成</h2><span class="eyebrow">Known Clients</span></div>
+            <div class="panel">
+              <div class="panel-b">
+                <p style="font-size:var(--fs-md);color:var(--fg-2);line-height:var(--lh-loose);margin-bottom:var(--sp-4)">
+                  任何人都可以联系本机构——从富有的国际企业与其他机构，到寻求复仇的个人。
+                  我们与多国政府机构保持合作关系，当直接介入被认为风险过高时，政府机构常常雇佣我们。
+                </p>
+                <div style="display:flex;flex-wrap:wrap;gap:6px">
+                  <span class="tag">CIA</span><span class="tag">FBI</span><span class="tag">MI5</span><span class="tag">MI6</span>
+                  <span class="tag">NSA</span><span class="tag">Interpol</span><span class="tag">CSIS</span>
+                  <span class="tag">United Nations</span><span class="tag">Kronstadt Industries</span>
+                  <span class="tag">Hamilton-Lowe</span><span class="tag">The Highmoore Family</span>
+                  <span class="tag">The Keeble Family</span><span class="tag">New York Mafia</span>
+                  <span class="tag">Dexter Industries</span><span class="tag">L'Avventura Pictures</span>
+                  <span class="tag dim">Providence（已终止）</span>
+                </div>
+                <div class="note" style="margin-top:var(--sp-4)">
+                  <svg viewBox="0 0 24 24"><use href="#i-alert"/></svg>
+                  <div>出于维护政府盟友合作关系的考虑，本机构不接受由盟友的敌对势力下达的委托。此外，47 号被指派的目标大多是职业罪犯。</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="block">
+            <div class="block-h"><h2>资产经济学</h2><span class="eyebrow">Unit Economics</span></div>
+            <div class="panel"><div class="panel-b">
+              <div id="econ-body"></div>
+              <div class="note" style="margin-top:var(--sp-4)">
+                <svg viewBox="0 0 24 24"><use href="#i-alert"/></svg>
+                <div>一个代理人贡献了机构年度收入的 37%，却只占全部目标数的 3%。这项差额就是机构从不出售 47 号的原因，也是它最终失去他的原因。</div>
+              </div>
+            </div></div>
+          </div>
+
+          <div class="block">
+            <div class="block-h"><h2>运作条令</h2><span class="eyebrow">Operating Doctrine</span></div>
+            <div class="grid g-2" id="ops-body"></div>
+          </div>
+        </div>
+
+        <aside class="side-col">
+          <div class="panel cornered">
+            <div class="panel-h"><h3>机构速览</h3><span class="panel-n">FACT SHEET</span></div>
+            <div class="panel-b">
+              <dl class="dl">
+                <div class="dl-row"><dt>类型</dt><dd>犯罪组织<span class="term">Criminal Organization</span></dd></div>
+                <div class="dl-row"><dt>格言</dt><dd>Merces Letifer<br><span style="font-size:var(--fs-sm);color:var(--fg-4)">直译"致命交易"</span></dd></div>
+                <div class="dl-row"><dt>成立</dt><dd>未载明<span class="term">Unstated</span><br><span style="font-size:var(--fs-sm);color:var(--fg-4)">官方资料未给出成立年份；最早确证记录为 1973 年</span></dd></div>
+                <div class="dl-row"><dt>治理</dt><dd>分散式董事会<br><span style="font-size:var(--fs-sm);color:var(--fg-4)">主席身份不明，从不露面</span></dd></div>
+                <div class="dl-row"><dt>业务</dt><dd>暗杀<span class="term">Assassination</span></dd></div>
+                <div class="dl-row"><dt>政治立场</dt><dd>中立<span class="term">Neutral</span></dd></div>
+                <div class="dl-row"><dt>已知设施</dt><dd>格陵兰 · 训练设施<br>中国重庆 · 数据设施<br><span style="font-size:var(--fs-sm);color:var(--fg-4)">均无公开地址，机构条目信息栏自标为"机密"</span></dd></div>
+                <div class="dl-row"><dt>当前状态</dt><dd><span class="tag red">已解散 · DISSOLVED</span></dd></div>
+              </dl>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-h"><h3>系统日志</h3><span class="panel-n">LIVE</span></div>
+            <div class="panel-b">
+              <div class="console" style="border:0">
+                <div class="console-b" id="syslog" style="max-height:190px;padding:0"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-h"><h3>徽记考据</h3><span class="panel-n">TRIVIA</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">
+                本机构徽记以英国军情五处<span class="term">MI5</span>的原始徽章为基础，
+                将三个角上的字符由 M、I、5 替换为 <b style="color:var(--fg-2)">IOI</b>（IO Interactive）
+                与 <b style="color:var(--fg-2)">D.K.</b>（丹麦）。
+              </p>
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-3)">
+                徽记顶部的"全视之眼"常被与光明会及共济会联系在一起，也出现在美国一美元纸币上。
+              </p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- 02 组织编制 -->
+    <section class="view" data-view="org">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-shield"/></svg> Organization</span>
+        <h1>组织编制</h1>
+        <p class="sub">ICA 由分散式董事会管理，下设部门主管、协调人、代理人、战斗单位与后勤支持系统。以下为已确证的在编人员与单位。</p>
+      </div>
+      <div id="org-body"></div>
+    </section>
+
+    <!-- 03 人物传记 -->
+    <section class="view" data-view="personae">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-agent"/></svg> Dossiers</span>
+        <h1>人物传记</h1>
+        <p class="sub">代理人档案记录的是编制位置；这里记录的是「这个人经历了什么」。按原文条目的章节顺序逐章梳理，不压缩成要点——47 号、戴安娜·伯恩伍德、卢卡斯·格雷、阿瑟·爱德华兹，以及他们的五位基因父亲。</p>
+      </div>
+      <div id="personae-body"></div>
+    </section>
+
+    <!-- 04 Providence -->
+    <section class="view" data-view="providence">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-eye"/></svg> The Hidden Hand</span>
+        <h1>Providence</h1>
+        <p class="sub">一个由三个古老家族王朝运营的企业造王者集团，权力凌驾于各国政府之上。它在机构档案里长期只以「客户组织」的一行存在——但它是后三部曲真正的对手，也是 47 之所以被造出来的原因。</p>
+      </div>
+      <div id="providence-body"></div>
+    </section>
+
+    <!-- 05 代理人档案 -->
+    <section class="view" data-view="agents">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-agent"/></svg> Personnel</span>
+        <h1>代理人档案</h1>
+        <p class="sub">本机构以鸟类名称作为行动人员等级代号。点击任意档案查看完整履历。</p>
+      </div>
+      <div class="filters" id="agent-filters"></div>
+      <div id="agents-body"></div>
+    </section>
+
+    <!-- 04 合同记录 -->
+    <section class="view" data-view="contracts">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-contract"/></svg> Contracts</span>
+        <h1>合同记录</h1>
+        <p class="sub">合同编号规则：<span class="mono" style="color:var(--fg-2)">ICA-YYYY-NNN</span>。所有记录均标注目标、地点、时间窗口、风险评级与结算金额。</p>
+      </div>
+      <div class="filters" id="contract-filters"></div>
+      <div id="contracts-body"></div>
+      <div class="block" style="margin-top:var(--sp-8)">
+        <div class="block-h"><h2>委托生成器</h2><span class="eyebrow">Contract Builder</span></div>
+        <div class="grid g-side">
+          <div class="panel cornered">
+            <div class="panel-h"><h3>新建委托</h3><span class="panel-n">FORM 447-B</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-bottom:var(--sp-5)">
+                填写下表以生成一份格式化的机密合同简报。生成的合同可下载为文本文件留档。
+              </p>
+              <div class="grid g-2" style="gap:0 var(--sp-4)">
+                <label class="field"><span class="field-l">标的姓名 / Target</span>
+                  <input class="input" id="cb-name" placeholder="例如：Marco Abiatti" autocomplete="off">
+                </label>
+                <label class="field"><span class="field-l">所在城市 / Location</span>
+                  <input class="input" id="cb-city" placeholder="例如：Sapienza, Italy" autocomplete="off">
+                </label>
+                <label class="field"><span class="field-l">委托类型 / Type</span>
+                  <select class="select" id="cb-type">
+                    <option>Public Contract · 公开合同</option>
+                    <option>Private Contract · 私密合同</option>
+                    <option>Franchise Contract · 特许合同</option>
+                    <option>Elusive Target · 限时目标</option>
+                    <option>Extraction · 撤离/护送</option>
+                  </select>
+                </label>
+                <label class="field"><span class="field-l">风险评级 / Risk</span>
+                  <select class="select" id="cb-risk">
+                    <option>LOW · 低</option>
+                    <option selected>MODERATE · 中</option>
+                    <option>HIGH · 高</option>
+                    <option>CRITICAL · 极高</option>
+                  </select>
+                </label>
+                <label class="field"><span class="field-l">时间窗口 / Window</span>
+                  <input class="input" id="cb-window" placeholder="72 小时" value="72 小时">
+                </label>
+                <label class="field"><span class="field-l">指定资产 / Asset</span>
+                  <select class="select" id="cb-asset">
+                    <option>AGENT 47 · GAMMA（最昂贵）</option>
+                    <option>标准行动组 · Standard Cell</option>
+                    <option>狙击小组 · Sniper Unit</option>
+                    <option>清道夫 · Cleaner Division</option>
+                  </select>
+                </label>
+              </div>
+              <label class="field"><span class="field-l">补充要求 / Notes</span>
+                <textarea class="textarea" id="cb-notes" placeholder="例如：需呈现为意外事故；不得伤害在场平民；标的须在午夜前失去行动能力。"></textarea>
+              </label>
+              <div style="display:flex;gap:var(--sp-3);flex-wrap:wrap">
+                <button class="btn btn-primary btn-mono" id="cb-gen">生成合同简报</button>
+                <button class="btn btn-ghost btn-mono" id="cb-dl" disabled>下载 TXT</button>
+              </div>
+            </div>
+          </div>
+          <aside class="side-col">
+            <div class="panel cornered" id="cb-out-panel">
+              <div class="panel-h"><h3>简报预览</h3><span class="panel-n">OUTPUT</span></div>
+              <div class="panel-b flush">
+                <pre id="cb-out" class="mono" style="margin:0;padding:var(--sp-4);font-size:var(--fs-xs);line-height:var(--lh-base);color:var(--fg-2);white-space:pre-wrap;word-break:break-word;max-height:520px;overflow:auto">等待输入…</pre>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- 05 目标档案 -->
+    <section class="view" data-view="targets">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-target"/></svg> Target Index</span>
+        <h1>目标档案</h1>
+        <p class="sub">合同记录按「一纸委托」排列，这里按「一个目标是谁」排列。三部曲共 20 个主要任务、40 个目标，逐条标注其派系归属与在剧情中的作用。</p>
+      </div>
+      <div id="targets-body"></div>
+    </section>
+
+    <!-- 06 全球据点 -->
+    <section class="view" data-view="locations">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-map"/></svg> Global Network</span>
+        <h1>全球据点与行动现场</h1>
+        <p class="sub">滚轮缩放、拖动平移，点击标记查看该地点的行动档案。未标记区域表示本机构当前无在册行动。</p>
+      </div>
+      <div class="map-wrap" id="map-wrap">
+        <svg id="world-map" viewBox="0 0 2000 1000" role="img" aria-label="ICA 全球据点地图"></svg>
+        <div class="map-tip" id="map-tip"></div>
+        <div class="map-ctl" id="map-ctl">
+          <button type="button" data-mapzoom="in" title="放大" aria-label="放大"><svg viewBox="0 0 24 24"><use href="#i-plus"/></svg></button>
+          <button type="button" data-mapzoom="out" title="缩小" aria-label="缩小"><svg viewBox="0 0 24 24"><use href="#i-minus"/></svg></button>
+          <button type="button" data-mapzoom="reset" title="复位" aria-label="复位"><svg viewBox="0 0 24 24"><use href="#i-target"/></svg></button>
+          <span class="map-zoom-n mono" id="map-zoom-n">1.0×</span>
+        </div>
+        <div class="map-hint mono">滚轮缩放 · 拖动平移 · 双击放大</div>
+      </div>
+      <div id="map-legend"></div>
+      <div class="filters" style="margin-top:var(--sp-5)" id="loc-filters"></div>
+      <div id="locations-body"></div>
+      <div id="disguise-doctrine" style="margin-top:var(--sp-7)"></div>
+    </section>
+
+
+    <!-- 06 装备库 -->
+    <section class="view" data-view="gear">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-gear"/></svg> Armory</span>
+        <h1>装备库</h1>
+        <p class="sub">本机构拥有可与部分政府相匹敌的资源。除制式个人武器外，还运营军用直升机与其他航空器。</p>
+      </div>
+      <div class="filters" id="gear-filters"></div>
+      <div id="gear-body"></div>
+    </section>
+
+    <!-- 07 大事记 -->
+    <section class="view" data-view="timeline">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-clock"/></svg> Chronology</span>
+        <h1>大事记</h1>
+        <p class="sub">从最早确证条目（1973 年 <span class="term">Erich Soders</span> 加入本机构）直到机构解散的完整编年史。每条均标注来源；官方未载明之处一律明示，不作推测填充。</p>
+      </div>
+      <div class="grid g-side">
+        <div class="panel"><div class="panel-b" id="timeline-body"></div></div>
+        <aside class="side-col">
+          <div class="panel">
+            <div class="panel-h"><h3>作品年表</h3><span class="panel-n">TITLES</span></div>
+            <div class="panel-b flush"><div id="titles-body"></div></div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>势力关系</h3><span class="panel-n">FACTIONS</span></div>
+            <div class="panel-b">
+              <div class="console" style="border:0"><div class="console-b" id="faction-log" style="max-height:230px;padding:0"></div></div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- 08 毒药与注射剂 -->
+    <section class="view" data-view="poisons">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-vial"/></svg> Toxicology</span>
+        <h1>毒药与注射剂库</h1>
+        <p class="sub">本档案记录毒理与投毒机制——毒效分类、投递形态、各作规则差异。具体装备型号见「装备库」，本条目不重复收录。</p>
+      </div>
+      <div class="grid g-side">
+        <div id="poison-body"></div>
+        <aside class="side-col" id="poison-side"></aside>
+      </div>
+    </section>
+
+    <!-- 09 伪装系统 -->
+    <section class="view" data-view="disguises">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-mask"/></svg> Infiltration</span>
+        <h1>伪装系统</h1>
+        <p class="sub">机构行动人员进入现场的第一项技术。本档案记录伪装如何运作——机制、识别逻辑、规则演变与战术效果。</p>
+      </div>
+      <div id="disguise-body"></div>
+    </section>
+
+    <!-- 10 情报资产 -->
+    <section class="view" data-view="assets">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-case"/></svg> Materiel</span>
+        <h1>情报资产</h1>
+        <p class="sub">机构配发的容器、装备门类与情报文件。装备门类为全量索引；具体型号的技术参数见「装备库」。</p>
+      </div>
+      <div class="grid g-side">
+        <div id="asset-body"></div>
+        <aside class="side-col" id="asset-side"></aside>
+      </div>
+    </section>
+
+    <!-- 11 财务与定价 -->
+    <section class="view" data-view="finance">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-contract"/></svg> Ledger</span>
+        <h1>财务与定价</h1>
+        <p class="sub">机构的定价机制、资产的投入产出、董事会作为委托人的结构，以及资金流向的重大事件。</p>
+      </div>
+      <div id="finance-body"></div>
+    </section>
+
+    <!-- 12 机构设施 -->
+    <section class="view" data-view="facilities">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-shield"/></svg> Installations</span>
+        <h1>机构设施</h1>
+        <p class="sub">机构自身的基础设施——在哪里训练、在哪里存数据、在哪里办公，以及「没有总部」这件事意味着什么。</p>
+      </div>
+      <div id="facility-body"></div>
+    </section>
+
+    <!-- 13 受挫记录 -->
+    <section class="view" data-view="setbacks">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-alert"/></svg> Adverse Record</span>
+        <h1>受挫记录</h1>
+        <p class="sub">其余条目记录机构做成了什么。本档案记录它判断失误、被欺骗、被反制，以及最终失去自己最强资产的过程。</p>
+      </div>
+      <div id="setback-body"></div>
+    </section>
+
+    <!-- 14 代理人招募 -->
+    <section class="view" data-view="recruit">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-target"/></svg> Recruitment</span>
+        <h1>代理人招募</h1>
+        <p class="sub">本机构持续评估潜在行动人员。提交申请后，你将在本终端收到一份初步评估与临时代号。</p>
+      </div>
+      <div class="grid g-side">
+        <div class="panel cornered">
+          <div class="panel-h"><h3>申请表</h3><span class="panel-n">FORM 001-A</span></div>
+          <div class="panel-b">
+            <div class="steps" id="r-steps">
+              <div class="step is-active">01 基本信息</div>
+              <div class="step">02 能力自评</div>
+              <div class="step">03 职业倾向</div>
+              <div class="step">04 确认提交</div>
+            </div>
+            <form id="r-form" autocomplete="off">
+              <!-- step 1 -->
+              <div class="r-step" data-step="1">
+                <div class="grid g-2" style="gap:0 var(--sp-4)">
+                  <label class="field"><span class="field-l">代号 / Codename</span>
+                    <input class="input" name="codename" placeholder="你希望被如何称呼" required>
+                  </label>
+                  <label class="field"><span class="field-l">年龄 / Age</span>
+                    <input class="input" name="age" type="number" min="16" max="70" placeholder="30" required>
+                  </label>
+                </div>
+                <label class="field"><span class="field-l">现居地 / Residence</span>
+                  <input class="input" name="city" placeholder="城市，国家">
+                </label>
+                <label class="field"><span class="field-l">背景 / Background</span>
+                  <select class="select" name="bg">
+                    <option>前军方特种部队</option>
+                    <option>前情报机构人员</option>
+                    <option>前执法部门人员</option>
+                    <option>安保/私人军事承包商</option>
+                    <option>医疗/化学专业</option>
+                    <option>信息技术/网络安全</option>
+                    <option>其他（见备注）</option>
+                  </select>
+                </label>
+              </div>
+              <!-- step 2 -->
+              <div class="r-step" data-step="2" hidden>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);margin-bottom:var(--sp-4)">请如实评估。夸大能力在实地会造成不可逆的后果。</p>
+                <label class="field"><span class="field-l">近身格斗 / Close Quarters</span>
+                  <input type="range" name="cqc" min="1" max="10" value="6" class="input" style="padding:6px">
+                </label>
+                <label class="field"><span class="field-l">枪械熟练度 / Firearms</span>
+                  <input type="range" name="gun" min="1" max="10" value="7" class="input" style="padding:6px">
+                </label>
+                <label class="field"><span class="field-l">社交渗透 / Social</span>
+                  <input type="range" name="soc" min="1" max="10" value="5" class="input" style="padding:6px">
+                </label>
+                <label class="field"><span class="field-l">技术能力 / Technical</span>
+                  <input type="range" name="tech" min="1" max="10" value="4" class="input" style="padding:6px">
+                </label>
+                <label class="field"><span class="field-l">压力耐受 / Composure</span>
+                  <input type="range" name="cool" min="1" max="10" value="8" class="input" style="padding:6px">
+                </label>
+              </div>
+              <!-- step 3 -->
+              <div class="r-step" data-step="3" hidden>
+                <label class="field"><span class="field-l">偏好行动方式 / Preferred Method</span>
+                  <select class="select" name="method">
+                    <option>事故 · 使结果看起来像意外</option>
+                    <option>毒杀 · 化学品与投毒</option>
+                    <option>近身 · 无声接触式处置</option>
+                    <option>狙击 · 远距离精确处置</option>
+                    <option>渗透 · 伪装与社交工程</option>
+                    <option>爆破 · 爆炸物与结构性破坏</option>
+                  </select>
+                </label>
+                <label class="field"><span class="field-l">对"职业性超然"的理解 / Professional Detachment</span>
+                  <textarea class="textarea" name="essay" placeholder="在 ICA，职业性的超然是代理人与暴徒之间的区别。请简述你的理解。"></textarea>
+                  <span class="field-hint">限 500 字。此栏为空亦可提交，但会影响评估结果。</span>
+                </label>
+                <label class="check" style="margin-top:var(--sp-4)">
+                  <input type="checkbox" name="ack" required>
+                  <span>我理解本机构政治上中立、道德上务实；我理解委托不得出于个人利益接受；我理解本机构不存在，我也将不存在于任何记录中。</span>
+                </label>
+              </div>
+              <!-- step 4 -->
+              <div class="r-step" data-step="4" hidden>
+                <div class="note info">
+                  <svg viewBox="0 0 24 24"><use href="#i-alert"/></svg>
+                  <div>提交后，本终端将立即生成本地评估结果。我们不会把任何信息发送到互联网上的任何地方——这是本页面的全部技术事实。</div>
+                </div>
+                <div style="margin-top:var(--sp-5)">
+                  <label class="field"><span class="field-l">推荐人 / Referral（可选）</span>
+                    <input class="input" name="ref" placeholder="现有代理人代号或协调人姓名">
+                  </label>
+                </div>
+              </div>
+
+              <div style="display:flex;gap:var(--sp-3);margin-top:var(--sp-5);flex-wrap:wrap">
+                <button type="button" class="btn btn-ghost btn-mono" id="r-prev" disabled>上一步</button>
+                <button type="button" class="btn btn-primary btn-mono" id="r-next">下一步</button>
+                <button type="submit" class="btn btn-primary btn-mono" id="r-submit" hidden>提交申请</button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <aside class="side-col">
+          <div class="panel cornered">
+            <div class="panel-h"><h3>评估结果</h3><span class="panel-n">RESULT</span></div>
+            <div class="panel-b" id="r-result">
+              <p style="font-size:var(--fs-base);color:var(--fg-4);font-family:var(--font-mono)">尚未提交申请。</p>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>招募标准</h3><span class="panel-n">CRITERIA</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">
+                我们不看重动机，只看重能力与稳定性。机构历史上的失败案例，几乎全部源于行动人员无法把个人情绪与委托分离。
+              </p>
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-3)">
+                协调人<span class="term">Handler</span>未必曾是代理人，也可能从未亲自参与战斗。因此本申请同样接受非战斗背景的候选人。
+              </p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- 09 加密档案 -->
+    <section class="view" data-view="vault">
+      <div class="view-h">
+        <span class="eyebrow"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px"><use href="#i-lock"/></svg> Classified</span>
+        <h1>加密档案</h1>
+        <p class="sub">本区档案受额外加密保护。需要口令方可解除遮蔽。</p>
+      </div>
+      <div class="grid g-side">
+        <div>
+          <div class="panel cornered">
+            <div class="panel-h"><h3>解密终端</h3><span class="panel-n">VAULT</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-bottom:var(--sp-4)">
+                输入口令以解除档案遮蔽。口令线索隐藏在公开资料中——本机构的拉丁文格言，以及那个从未被叫出口的编号。
+              </p>
+              <div style="display:flex;gap:var(--sp-3);flex-wrap:wrap">
+                <input class="input" id="vault-in" placeholder="输入口令" style="flex:1 1 220px" autocomplete="off">
+                <button class="btn btn-primary btn-mono" id="vault-go">解密</button>
+              </div>
+              <div class="console" style="margin-top:var(--sp-4)">
+                <div class="console-b" id="vault-log" style="max-height:150px;min-height:64px"></div>
+              </div>
+            </div>
+          </div>
+          <div class="block" style="margin-top:var(--sp-6)">
+            <div class="block-h"><h2>受限档案</h2><span class="eyebrow">Restricted Files</span></div>
+            <div class="grid g-2" id="vault-files"></div>
+          </div>
+        </div>
+        <aside class="side-col">
+          <div class="panel">
+            <div class="panel-h"><h3>口令提示</h3><span class="panel-n">HINT</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-loose)">
+                <b style="color:var(--fg-2)">提示一：</b>本机构的格言写着"致命交易"，但它在语法上是错的。<b style="color:var(--ica-red-l)">正确的</b>那个写法是什么？
+              </p>
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-loose);margin-top:var(--sp-4)">
+                <b style="color:var(--fg-2)">提示二：</b>47 号身上有一个条码。条码的数字不会说话，但它一直在那里。
+              </p>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>解密记录</h3><span class="panel-n">ATTEMPTS</span></div>
+            <div class="panel-b">
+              <div style="display:flex;justify-content:space-between;font-size:var(--fs-base);color:var(--fg-3);padding:5px 0">
+                <span>尝试次数</span><span class="mono" id="vault-tries">0</span>
+              </div>
+              <div style="display:flex;justify-content:space-between;font-size:var(--fs-base);color:var(--fg-3);padding:5px 0;border-top:1px solid var(--line)">
+                <span>状态</span><span class="mono" id="vault-state" style="color:var(--fg-4)">LOCKED</span>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- 10 来源与考据 -->
+    <section class="view" data-view="sources">
+      <div class="view-h">
+        <span class="eyebrow">Provenance</span>
+        <h1>来源与考据</h1>
+        <p class="sub">本页说明终端内每一条信息来自何处，以及哪些地方是本站补写的。凡官方资料未载明之处，一律标注为"未载明"或"推补"，不伪装成原设定。</p>
+      </div>
+
+      <div class="grid g-side" style="align-items:start">
+        <div>
+          <div class="block">
+            <div class="block-h"><h2>一手资料来源</h2><span class="eyebrow">Primary Sources</span></div>
+            <div class="panel cornered"><div class="panel-b">
+              <div class="note info" style="margin-bottom:var(--sp-5)">
+                <svg viewBox="0 0 24 24"><use href="#i-alert"/></svg>
+                <div>下列资料于本页制作期间从公开的 <span class="mono">Hitman Wiki</span>（Fandom）与 IO Interactive 官方渠道取回，共 50 篇条目正文（另有 61 份页面存档），保存在 <span class="mono">research/_raw/</span> 目录。终端内的引用标签（如 <span class="mono">ica.txt</span>）即指向这些文件。</div>
+              </div>
+              <div class="dl">
+                <div class="dl-row"><dt>机构条目</dt><dd><span class="mono">ica.txt</span> · 45,562 字符 — 机构性质、治理、收费、等级、设施</dd></div>
+                <div class="dl-row"><dt>47 号条目</dt><dd><span class="mono">agent-47.txt</span> · 77,736 字符 — 出生、条码、五父、训练、逃亡</dd></div>
+                <div class="dl-row"><dt>年表</dt><dd><span class="mono">hitman-timeline.txt</span> · 45,586 字符 — 1893–2022 全部节点</dd></div>
+                <div class="dl-row"><dt>协调人</dt><dd><span class="mono">diana-burnwood.txt</span> · 37,798 字符 — 家世、等级、任职</dd></div>
+                <div class="dl-row"><dt>Providence</dt><dd><span class="mono">providence.txt</span> · 35,943 字符 — 1945 年成立、三任 Constant</dd></div>
+                <div class="dl-row"><dt>各作剧情</dt><dd><span class="mono">gu-*.txt</span> × 8 — 逐作剧情与任务目标</dd></div>
+                <div class="dl-row"><dt>装备</dt><dd><span class="mono">gu-amt-hardballer.txt</span> · <span class="mono">gu-briefcase-item.txt</span> · <span class="mono">poison.txt</span> · <span class="mono">fiber-wire.txt</span></dd></div>
+              </div>
+            </div></div>
+          </div>
+
+          <div class="block">
+            <div class="block-h"><h2>本站的三类标注</h2><span class="eyebrow">Provenance Tags</span></div>
+            <div class="grid g-3">
+              <div class="panel"><div class="panel-b">
+                <span class="tag red">原设定</span>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-3)">直接来自上列资料，可逐条回溯到原文。终端内的"来源"字段即标注了对应文件。</p>
+              </div></div>
+              <div class="panel"><div class="panel-b">
+                <span class="tag dim">推补</span>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-3)">官方未给出但可由既有事实合理导出的内容，例如按风险档位换算的合同金额、地图上的经纬度估算值。</p>
+              </div></div>
+              <div class="panel"><div class="panel-b">
+                <span class="tag info">未载明</span>
+                <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-3)">官方资料确实没有记载，而本站选择保留空白而非编造，例如机构的成立年份。</p>
+              </div></div>
+            </div>
+          </div>
+        </div>
+
+        <aside class="side-col">
+          <div class="panel">
+            <div class="panel-h"><h3>已确认的空白</h3><span class="panel-n">KNOWN GAPS</span></div>
+            <div class="panel-b">
+              <ul style="display:grid;gap:11px;font-size:var(--fs-sm);color:var(--fg-3);line-height:var(--lh-base)">
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">成立年份</b> — 年表与机构条目均未记载。最早的直接记录是 1973 年 Soders 入职。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">47 号的等级</b> — 仅机构条目出现一次 "Gamma"，47 号本人的长条目通篇未提等级。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">董事会主席</b> — 从未露面，身份不明。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">锡盖尔岛</b> — 该条目未能取回，本页对其环境的描述取自其他条目，标注为推补。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">爆炸物独立条目</b> — 仅有分类列表，无正文。装备库中的爆炸物条目因此较简略。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">地图坐标</b> — 全部为按真实地理位置估算，非官方发布值。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">年表下限</b> — 取回的官方年表正文止于 2021 年（末条为 47 退休）；2022 年是其后的附加段落。此后没有新的剧情记录——2023 年之后游戏的更新属于发行与运营，不是叙事年份。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">逐地图伪装清单</b> — 存档中不存在 "List of disguises" 页面，因此「全球据点」页只列出伪装系统的通用规则，不编造任何单个地图的伪装名称。</li>
+                <li style="padding-left:14px;position:relative"><span style="position:absolute;left:0;color:var(--ica-red)">·</span><b style="color:var(--fg-2)">机构存续时长</b> — 无任何官方表述。成立年份本身未载明，最早节点 1973 年只是"最早记录"，不等于创建时间。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>正史边界</h3><span class="panel-n">CANON</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base)">
+                官方年表明确将两部真人电影（2007 年《杀手》、2015 年《杀手：代号 47》）排除在正史之外，本站同样不予采用。
+              </p>
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-base);margin-top:var(--sp-4)">
+                其余作品（含三部曲重启、各支线游戏、两部小说与漫画《刺客 47 的诞生》）均按正史处理。
+              </p>
+              <div class="note" style="margin-top:var(--sp-4)">
+                <svg viewBox="0 0 24 24"><use href="#i-alert"/></svg>
+                <div>本站是企业层与内部终端的虚构载体，与 IO Interactive 及 Square Enix 无任何关联。</div>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>浏览指南</h3><span class="panel-n">HOW TO</span></div>
+            <div class="panel-b">
+              <p style="font-size:var(--fs-base);color:var(--fg-3);line-height:var(--lh-loose)">
+                本站是纯静态站点，<b style="color:var(--fg-2)">没有构建步骤</b>，也不需要联网。
+                直接双击 <span class="mono">index.html</span> 即可完整浏览。
+              </p>
+              <div class="dl" style="margin-top:var(--sp-4)">
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>首屏</dt><dd>启动序列走完后<b style="color:var(--fg-2)">点击任意位置</b>进内部终端；点那行下划线小字则浏览公开官网</dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>进终端</dt><dd>点最下面那行极小字的英文，或 <span class="mono">#terminal</span></dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>出终端</dt><dd>右上角 <span class="mono">EXIT</span></dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>换视图</dt><dd><span class="mono">j</span> / <span class="mono">k</span>，或 <span class="mono">Alt+↑</span> / <span class="mono">Alt+↓</span></dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>用地图</dt><dd>滚轮缩放 · 拖动平移 · 双击放大 · 右上角按钮复位；点标记看行动档案</dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>深链接</dt><dd>地址栏直接改 <span class="mono">#agents</span>、<span class="mono">#vault</span> 等</dd></div>
+                <div class="dl-row" style="grid-template-columns:78px 1fr"><dt>声音</dt><dd>右上角 <span class="mono">AUDIO</span>，默认关闭</dd></div>
+              </div>
+              <p style="font-size:var(--fs-sm);color:var(--fg-4);line-height:var(--lh-base);margin-top:var(--sp-4)">
+                如需以 <span class="mono">http://</span> 打开（例如为了下载合同文件更顺）：
+                在 <span class="mono">ica-site/</span> 目录下执行 <span class="mono">node serve.mjs 8742</span>，
+                再访问 <span class="mono">http://127.0.0.1:8742/</span>。
+              </p>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-h"><h3>文件结构</h3><span class="panel-n">TREE</span></div>
+            <div class="panel-b">
+              <pre class="mono" style="font-size:var(--fs-2xs);line-height:var(--lh-loose);color:var(--fg-3);white-space:pre;overflow-x:auto">ica-site/
+├ index.html        双层结构 + SVG 图标库
+├ serve.mjs         零依赖本地服务器
+├ assets/
+│  ├ css/           base · layout
+│  │                components · effects
+│  └ js/
+│     ├ data-core.js     机构：编制 · 名册 · 客户 · 经济
+│     ├ data-agents.js   30 名代理人
+│     ├ data-contracts   32 份合同
+│     ├ data-locations   27 处地点 · 1 处不入图
+│     ├ data-land.js     底图陆地轮廓（生成）
+│     ├ data-gear.js     35 件装备
+│     ├ data-timeline    38 条大事记
+│     ├ data-titles.js   24 部作品（8 部正传含剧情与机制）
+│     ├ data-poisons.js  17 条毒药与注射剂
+│     ├ data-disguises   7 类伪装系统
+│     ├ data-assets.js   9 组情报资产与装备体系
+│     ├ data-finance.js  6 份财务与定价档案
+│     ├ data-facilities  5 处机构设施
+│     ├ data-setbacks.js 10 起行动受挫记录
+│     ├ data-personae    5 篇完整人物传记 · 53 章
+│     ├ data-providence  Providence · 8 领袖 / 16 Herald / 31 行动人员
+│     ├ data-targets.js  三部曲 20 任务 · 40 个目标
+│     ├ data-iconic-gear 3 件标志性装备专章
+│     ├ audio.js         Web Audio 合成，无音频文件
+│     ├ render.js        全部渲染逻辑（含地图缩放）
+│     └ app.js           路由 · 双层 · 表单 · 解密
+├ tools/                 构建期脚本，运行不依赖
+│  ├ gen-land.mjs        生成 data-land.js
+│  ├ preview-land.mjs    底图 ASCII 自检
+│  ├ check-data.mjs      21 份数据文件结构自检
+│  ├ check-file-protocol 校验 file:// 可直开（无外链）
+│  ├ audit-narrative.mjs 叙事字段深度审计
+│  ├ audit-render-covg  数据字段/数组的渲染覆盖率审计
+│  ├ normalize-typogr   字号/字重/行高归一化到设计令牌
+│  └ map-facts.mjs       从存档页抽取据点事实
+└ research/
+   ├ official-*.md   三份考据整理稿
+   └ _raw/           50 篇条目正文 + 原始存档</pre>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="term-foot">
+    <span>ICA INTERNAL TERMINAL v4.7.1</span>
+    <span style="color:var(--ink-500)">|</span>
+    <span>NODE CHQ-01 · 本页面为虚构作品，与 IO Interactive 无关</span>
+    <span style="margin-left:auto"><a href="#" id="back-corp">返回公开站点</a></span>
+  </footer>
+
+</div>
+</div><!-- /layer-terminal -->
+
+<!-- 弹窗容器 -->
+<div class="modal" id="modal">
+  <div class="modal-bd" data-close></div>
+  <div class="modal-panel">
+    <div class="modal-h">
+      <svg width="19" height="19" viewBox="0 0 100 100" style="color:var(--ica-red)"><use href="#i-ica"/></svg>
+      <h2 id="modal-title">档案</h2>
+      <button class="modal-x" data-close aria-label="关闭"><svg width="15" height="15" viewBox="0 0 24 24"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="modal-b" id="modal-body"></div>
+    <div class="modal-f" id="modal-foot"></div>
+  </div>
+</div>
+
+<!-- 数据层 -->
+<script src="assets/js/data-core.js"></script>
+<script src="assets/js/data-agents.js"></script>
+<script src="assets/js/data-contracts.js"></script>
+<script src="assets/js/data-locations.js"></script>
+<script src="assets/js/data-land.js"></script>
+<script src="assets/js/data-gear.js"></script>
+<script src="assets/js/data-timeline.js"></script>
+<script src="assets/js/data-titles.js"></script>
+<script src="assets/js/data-poisons.js"></script>
+<script src="assets/js/data-disguises.js"></script>
+<script src="assets/js/data-assets.js"></script>
+<script src="assets/js/data-finance.js"></script>
+<script src="assets/js/data-facilities.js"></script>
+<script src="assets/js/data-setbacks.js"></script>
+<script src="assets/js/data-personae.js"></script>
+<script src="assets/js/data-providence.js"></script>
+<script src="assets/js/data-targets.js"></script>
+<script src="assets/js/data-iconic-gear.js"></script>
+<!-- 逻辑层 -->
+<script src="assets/js/audio.js"></script>
+<script src="assets/js/render.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

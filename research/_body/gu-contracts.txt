@@ -1,0 +1,246 @@
+The game is partly a remake of Hitman: Codename 47 and fills in some gaps in the Hitman storyline left after the first game. Many of its elements got incorporated into Hitman: Contracts . Hitman: Blood Money followed Hitman: Contracts in 2006. As of April 2009, the game had sold approximately 2 million copies.
+Contents
+1 Gameplay 
+1.1 New Features 
+2 Plot 
+2.1 Prologue 
+2.2 The Meat King Contract 
+2.3 Fuchs-Bjarkov Contract 
+2.4 Beldingford Contract 
+2.5 Rotterdam Contracts 
+2.6 Fuchs Brothers Contract 
+2.7 Hong Kong Contracts 
+2.8 Epilogue 
+3 Missions 
+4 Weapons 
+5 Soundtrack 
+6 Reception 
+7 Notes 
+7.1 Bugs 
+8 Trivia 
+9 Gallery 
+10 References 
+Gameplay [ ] 
+In Hitman: Contracts , players take on the role of Agent 47 , an Agency assassin sent to various locations to eliminate targets. The game offers a wide range of weapons, from kitchen knives to belt-fed machine guns, and players can choose to take a stealthy approach or engage in violent gunfights. Hitman: Contracts builds on the concepts introduced in previous games, offering an increased arsenal of firearms and close-combat weapons. Players can choose from many options to assassinate targets, including suffocating a sleeping target with a pillow, spiking tea with rat poison, and locking one target in a hot sauna. The game emphasizes stealth-based elements and offers multiple ways to navigate each mission's areas. The AI has also been revamped, with enemies working together in teams to outmaneuver and outgun 47. Suspicious actions will cause guards to become alert and make it harder for Agent 47 to escape or navigate the map undetected.
+New Features [ ] 
+Added Rifle Case to carry W2000 Sniper Rifle .
+Added new Fiber Wire killing animations.
+Added new melee weapons.
+Circular inventory menu introduced.
+Increased running speed.
+Increased sneaking moving speed.
+Map now distinguishes between alive and dead.
+New map icons .
+Reintroduced balcony jump .
+Running no longer causes security to turn hostile.
+Syringe replaced Anesthetic – it sedates the victim for approximately ten minutes.
+Etc.
+Plot [ ] 
+Upon returning to his hotel room, following a hit in the Théâtre de l'Opéra in Paris , Agent 47 gets intercepted and shot. Wounded, 47 backs to his apartment, where he collapses and begins to have hallucinatory flashbacks of the previous events.
+Prologue [ ] 
+Agent 47 kills Dr. Ort-Meyer .
+Agent 47's first flashback took him back to the events following the killing of Dr. Ort-Meyer . The asylum , which inmates had overrun, is raided by the Romanian police , who had set up a defensive perimeter around it. 47 escapes sneaking out and stealing Ort-Meyer's car.
+The Meat King Contract [ ] 
+Trying to stay awake, Agent 47 flashes back to another contract – an unnamed Romanian client contacted the Agency to infiltrate a local slaughterhouse during an erotic fetish party to assassinate the Meat King – Campbell Sturrock – and his lawyer, Andrei Puscus . 47 also had to save the client's daughter , who presumably got kidnapped by Sturrock following a court trial where the Meat King was acquitted.
+Fuchs-Bjarkov Contract [ ] 
+47 escapes Bjarkhov's base on Fabian's plane .
+After the slaughterhouse hallucination, Agent 47 relived a contract to Kamchatka , Russia . He aimed to kill the Austrian terrorist Fabian Fuchs , one of his genetic uncles, and a renegade Russian Navy commander Sergei Bjarkhov . Another objective was to destroy the dirty bomb manufacturing site by sinking a docked nuclear submarine.
+Beldingford Contract [ ] 
+47 had almost succumbed to the injury when an Agency doctor saved him. While the physician prepares to carry out surgery on Agent 47, he uses an alcoholic flask to dowse the wound –– the sound and smell of alcohol brings him back memories of a contract in which he had to assassinate members of an aristocrat English family - Winston Beldingford and his son Alistair Beldingford at their estate in England . He also had to rescue Giles Northcott , the client's son.
+Rotterdam Contracts [ ] 
+Operated by a doctor, 47 remembered two more contracts: the first involved a Dutch biker gang in Rotterdam , the second – Arkadij Jegorov , one of his genetic fathers, who had barricaded himself on a transport ship, surrounded by Rotterdam police, threatening to detonate a nuclear warhead.
+Fuchs Brothers Contract [ ] 
+Finishing the surgery, the doctor heard police alarms from the street, which made him leave the scene before injecting Agent 47 with a stimulative serum. Coming back to life, 47 relived a contract involving a hit in Budapest to kill Frantz and Fritz Fuchs and recover a briefcase with an X-ray explosive. 
+Hong Kong Contracts [ ] 
+Agent 47's last incapacitated state memories were of Hong Kong – the Triad leader Lee Hong hit. 47 weakened his syndicate by provoking a war between the Red Dragon and the rival Blue Lotus , killing Blue Lotus members and the local chief of police before finally assassinating Hong himself .
+Epilogue [ ] 
+GIGN sniper gets in position outside the hotel .
+ Following Hong Kong flashbacks, Agent 47 fully recovers but is surrounded by the French police – GIGN is storming the hotel. 47 leaves the premises, evading the police to find and assassinate their superior – Inspector Fournier . Succeeding, he escapes in an ambulance to Paris Charles de Gaulle Airport and leaves France . Onboard an airliner, Diana Burnwood tells Agent 47 that an unknown group is targeting the Agency, with 47 asking if " she had enough money for the upcoming hit ."
+Missions [ ] 
+Hitman: Contracts has twelve missions; half are remakes of the ones from Hitman: Codename 47 , all except one are flashbacks. They take place at nighttime, alluding to Agent 47 lore-wise being in a near-death state.
+Mission
+Location 
+Asylum Aftermath 
+Europe
+Romania 
+Satu Mare 
+The Meat King's Party 
+Europe
+Romania 
+Bucharest 
+The Bjarkhov Bomb 
+Asia
+Russia 
+Kamchatka Oblast 
+Beldingford Manor 
+Europe
+England 
+Beldingford Estate 
+Rendezvous in Rotterdam 
+Europe
+Netherlands 
+Rotterdam 
+Deadly Cargo ( Gunrunner's Paradise and Plutonium Runs Loose remake, combined into one mission) 
+Europe
+Netherlands
+Rotterdam
+Traditions of the Trade ( remake) 
+Europe
+Hungary 
+Budapest 
+Slaying a Dragon ( Kowloon Triads in Gang War remake) 
+Asia
+China 
+Hong Kong 
+The Wang Fou Incident ( Ambush at the Wang Fou Restaurant remake) 
+Asia
+China
+Hong Kong
+The Seafood Massacre ( The Massacre at Cheung Chau Fish Restaurant remake) 
+Asia
+China
+Hong Kong
+The Lee Hong Assassination (remake) 
+Asia
+China
+Hong Kong
+Hunter and Hunted 
+Europe
+France 
+Paris 
+Weapons [ ] 
+Hitman: Contracts has 13 handguns, eight submachine guns, four shotguns, four assault rifles, six sniper rifles, and two machine guns. Dual weld (named " Dual "), silenced (named " Silenced " or " .S ") versions, and a combination of two are available – achieving a Silent Assassin rating in specific missions is required to unlock them.
+Handguns
+"Silverballer" Dual 
+"Silverballer" Silenced
+"Silverballer"s Silenced SA 
+CZ2000 
+CZ2000 Dual SA 
+GK17 
+GK17 Dual SA 
+Gold Desert Eagle 
+Gold Desert Eagle Dual EE 
+Magnum 500 
+Magnum 500 Dual SA 
+SG 220 .S 
+SG 220 .S Dual SA 
+Submachine Guns
+AUG SMG 
+MP5 
+MP5 .S SA 
+MP9 
+Micro Uzi 
+Micro Uzi Silenced
+Micro Uzis SA 
+Micro Uzis Silenced SA 
+Shotguns
+Double-barreled Shotgun 
+SPAS 12 
+Sawn-off Shotgun 
+Sawn-off Shotgun Dual SA 
+Assault Rifles
+AK-74 
+AK-74 Silenced SA 
+M4 Carbine 
+M4 Carbine .S SA 
+Sniper Rifles
+Dragunov 
+Enforcer 
+PGM 
+PGM Silenced SA 
+R93 
+W2000 
+Machine Guns
+M60 LMG 
+Minigun EE 
+Melee Weapons
+Bolt Gun 
+Chinese Sword 
+Fiber Wire 
+Fire Poker 
+Kitchen Knife 
+Meat Cleaver 
+Meat Hook 
+Pool Cue 
+Shovel 
+Stun Gun 
+Poisons
+Bottle of Poison 
+Laxative
+Rat Poison
+Syringe 
+Vial of Poison
+Containers
+Chicken Plate
+Toolbox
+Grocery Crate
+Soundtrack [ ] 
+Hitman: Contracts' Original Soundtrack , released in 2004, was composed by Jesper Kyd , composer of previous titles' soundtracks. The score features the same Latin choral arrangements as all the other scores; however, they are heavily sampled and mixed into the dark electronic soundscape. The score was awarded the title of " Best Original Music" at the 2005 BAFTA Games Awards .
+Reception [ ] 
+Hitman: Contracts did reasonably well but did not get as good ratings as its predecessor :
+IGN gave the game an 8.4 , commenting: " Moody, Dark and brilliant stealthy, Contracts does not raise the bar, it holds it steady ."
+GameRankings – 79.92% on PlayStation 2, 77.57% on Xbox, and 75.14% on PC.
+Metacritic – 80 on PS2, 78 on Xbox, and 74 on PC, and reviewed, saying, " Elaborate levels and multiple paths you can take to solve the mission take you a long way in making you forget about the lack of narrative element. Hitman Contracts is an amazing, dark game, but feels undercooked in storyline, however, beats Hitman 2 in 'accidental kills' and more approaches. ".
+IMDb has the game with a rating of 8 out of 10.
+GameSpot gave the game a 7.6 , commenting, " Hitman: Contracts delivers some time-tested and sometimes highly entertaining stealth action, which any fan of the genre might as well check out ."
+Eurogamer – an 8 .
+Notes [ ] 
+The only classic Hitman game to include Spanish and other languages on Steam after the 1.75 update; for example, in Hitman 2: Silent Assassin and Hitman: Blood Money , Spanish is only available on PlayStation 3 .
+Only the Steam version with the 1.75 update comes with widescreen support and up to 1920 x 1080 resolution on PC; the retail or GOG version with the 1.74 update does not come with widescreen resolution support making 1600 x 1200 the maximum resolution available.
+The European release of the Hitman Collection on PC is DRM-free and patched to 1.74.
+Once Agent 47's cover gets blown, any disguise change will no longer fool security.
+Bugs [ ] 
+PS2 Enemies' vision is bugged, making the game harder to play [1] .
+Xbox 360 Saved games could glitch, resulting in them becoming disorganized and dated 11/22.
+Xbox 360 Loading the saved game triggers a rain sound glitch.
+Trivia [ ] 
+Early promotional art, the game was known as " Hitman 3 ". [2] 
+The doctor operating on Agent 47 references the 1999 movie Payback with Mel Gibson , where the protagonist Porter gets shot, and a doctor uses whiskey to sterilize the surgery tools.
+The in-game AK-74 has a model based on the real-life AK-101 .
+Unlike their original versions, this game's missions occur at night, mostly in rainy weather – an allusion to Agent 47's near-death state.
+Canonically Hitman: Contracts plot occurs within that of Hitman: Blood Money .
+In line with Hitman 2: Silent Assassin , Hitman: Contracts was titled " Hitman 3 " during development. The old logo is on some Beta screenshots.
+GOG lists the game as " Hitman 3: Contracts ".
+Due to licensing issues with a song featured in the game (" Immortal " by Clutch ), Hitman: Contracts did not get a release on Steam until 2014, despite all other Hitman games released on the platform.
+Gallery [ ] 
+Main menu.
+References [ ] 
+↑ Lethal Flailfist. Why Hitman Contracts Is Harder On The PlayStation 2 . YouTube. 
+↑ The art is actually the loading screen of Tunnel Rat from Hitman 2: Silent Assassin . 
+Missions in Hitman: Contracts 
+Training 
+Training Area 
+Prologue 
+Asylum Aftermath 
+Romania 
+The Meat King's Party 
+Russia 
+The Bjarkhov Bomb 
+England 
+Beldingford Manor 
+Netherlands 
+Rendezvous in Rotterdam - Deadly Cargo 
+Hungary 
+Traditions of the Trade 
+Hong Kong 
+Slaying a Dragon - The Wang Fou Incident - The Seafood Massacre - The Lee Hong Assassination 
+Epilogue 
+Hunter and Hunted 
+Hitman Series 
+Classic
+Hitman: Codename 47 - Hitman 2: Silent Assassin - Hitman: Contracts - Hitman: Blood Money - Hitman: Absolution 
+World of Assassination
+HITMAN - HITMAN 2 - HITMAN III 
+Promo
+Hitman 2 Christmas Game - Hitman: Sniper Challenge - HITMAN: Sniper Assassin 
+Mobile
+Hitman: Vegas - Hitman: Sniper - Hitman GO - Hitman Sniper: The Shadows 
+Films
+Hitman - Hitman: Agent 47 
+Literature
+Hitman: Enemy Within - Hitman: Damnation - Overachievers - Agent 47: Birth of the Hitman 
+Categories 
+Categories : 
+Hitman: Contracts 
+Games 
+Hitman

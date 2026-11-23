@@ -1,0 +1,106 @@
+Poison is used to describe a variety of lethal and non-lethal poisonous substances featured in all of the games so far. At first the feature was introduced as one of many ways to assassinate a target, usually by poisoning select food or drink. Sedatives were introduced in Hitman 2: Silent Assassin as Chloroform, used and designed to knock-out an NPC for a period of time. The World of Assassination series introduced a third type, Emetic, which causes the victim to seek out the nearest area to vomit, thus making them more vulnerable.
+Contents
+1 Types of Poison 
+1.1 Lethal Poison 
+1.2 Sedative Poison 
+1.3 Emetic Poison 
+2 Delivery Mechanism 
+2.1 Pills, Vials and Syringes 
+2.1.1 Pills 
+2.1.2 Vials 
+2.1.3 Syringe 
+2.1.4 Misused Items 
+3 Hitman: Codename 47 
+4 Hitman 2: Silent Assassin 
+5 Hitman: Contracts 
+6 Hitman: Blood Money 
+7 Hitman: Absolution 
+8 HITMAN™ 
+8.1 Unlockable 
+8.2 Locations 
+9 HITMAN™ 2 and HITMAN™ 3 
+10 Trivia 
+Types of Poison [ ] 
+Lethal Poison [ ] 
+Lethal poison is a substance that can usually kill an NPC or target with one dosage. It can be applied to food, drink or other refreshments, or it can be directly injected into a vein by syringe. In Codename 47 , Silent Assassin and Contracts , the poison feature can only be used when the player is prompted. In Blood Money , the Lethal Syringe can be used to poison any food or drink visible, regardless if they can be consumed. From this point in the series, Lethal Poison can be applied directly to NPCs.
+Sedative Poison [ ] 
+Sedative poisons are substances that are designed to render NPCs unconscious. Sedatives usually work for a limited time, at which point the victim will wake up and alert the guards. It first appears as the Chloroform Bottle in Silent Assassin , and is replaced in Contracts with a stainless steel, glass syringe filled with a greenish serum. Both versions could only be directly applied to NPCs. The syringe form returns in Blood Money , but this time with a purple serum. In this entry, like with the Lethal Syringe, the Sedative Syringe can be used to poison any visible food or drink.
+Emetic Poison [ ] 
+Introduced in the World of Assassination trilogy, Emetic poisons are substances that are designed to make NPC's seek out the nearest bathroom in order to vomit. This can be useful for making guards leave a restricted areas, or getting a target alone in a quiet space. The most common form of this poison is the Emetic Rat Poison , which can be found in most levels.
+Delivery Mechanism [ ] 
+In earlier games, most poisons were either based on misused products ( Rat Poison , Weedkiller), on-site medical refinements ( laxative , cyanide), or acquired gear (Syringes, early Chloroform), and with the former two, required a prompt before the player could use it. Syringes and chloroform at this point could only be used to attack NPCs directly. 
+Blood Money expanded on the feature by having a single Sedative and Lethal syringe as part of the loadout gear, and allowing the player to poison any type of food or drink visible regardless if they were to be consumed. This amount of freedom allowed the player to creatively approach contracts by poisoning select cakes, burgers or beverages destined for a target. It could also allow them to be vastly more reckless by poisoning food at random, or mass poisoning NPCs by spiking casks. 
+Pills, Vials and Syringes [ ] 
+The World of Assassination trilogy introduced various new mechanisms related to poisons in the form of Pills, Vials and Syringes, analoging Solid, Liquid and Intravenous. Each form has three types, Lethal , Sedative and Emetic . Listed here are the various forms of poisons featured;
+Pills [ ] 
+Pills are solid compressed forms of typically hydrochloride salts. The pills in game feature as a small pop-cap pill bottle, with a label medically describing its content. Lethal Pills have a black lid and label, with red inscriptions and a skull and crossbones. Sedative Pills have a white lid and a pale blue prescription label. Emetic Pills appear similar to Sedative Pills, but with the medication manufacturers logo on the prescription label. Pills can be used to spike foods, drinks and other refreshments, often causing an effervescent reaction. They can also be used to spike select ventilation systems, despite being a solid form of drug.
+Vials [ ] 
+Vials are small glass ampules containing liquid solutions of typically hydrochloride salts and some form of purified water or saline. Vials feature at first as a labelled foil-capped ampule used for storing intravenous solutions. This was changed in HITMAN™ III to a similar sized labelled bottle with a hard screw-top cap. Lethal Vials have a black and gray cap, a white and black label, with red inscriptions of a skull and crossbones. The III variant is a taller screw-cap bottle with a black label and red inscriptions, along with skull and crossbones. Sedative Vials appear as a sky blue capped, white and black labelled bottle with a sky blue solution inside. It also sports a a sky blue Z symbol. The III variant appears as a taller black screw-cap bottle with a sky blue bordered black label and the Z symbol. The solution is a slightly darker blue colour. Emetic Vials appear as a black and pea green capped, white and green labelled bottle with a lime-green solution inside. It also sports a pea green X symbol. The III variant appears as a taller black screw-cap bottle with a pea green bordered black label.
+Syringe [ ] 
+Syringes are typically presented as plastic medical syringes with various colored solutions inside. Lethal and Sedative syringes are used intravenously, usually the targets jugular. Emetic Syringes instead prick the subject. Aside from the Modern Emetic , Lethal and Sedative Syringes, all other syringe variants in the World of Assassination trilogy can only be used to attack a target directly. Antique variants also exist, replacing the plastic syringe with a glass centered brass encased syringe.
+Misused Items [ ] 
+Various items in most levels can be misused and repurposed to form poisons. Flowers , pest control poisons, misused medicines , dangerous foods and wildlife can all be used to generate some form of usable poison, varying in type. 
+Hitman: Codename 47 [ ] 
+The Lee Hong Assassination - A Vial of Poison is obtained after Agent 47 delivers the Jade Figurine to the floral shop owner. In Hitman: Contracts , it is a laxative.
+The Setup - Poison Syringe 
+Hitman 2: Silent Assassin [ ] 
+Poison appears in a few missions, most commonly simply as "Poison".
+Invitation to a Party - Appearing as a generic red bottle of poison.
+Tracking Hayamoto - Fugu Fish 
+The Death of Hannelore - Appearing as a generic red bottle of poison.
+Hitman: Contracts [ ] 
+Poison appears in the following missions in Hitman: Contracts , most commonly as "Rat Poison":
+Beldingford Manor - Vial of Poison is located on the drawer in the bedroom front of the bathroom where a maid is taking a shower.
+Rendezvous in Rotterdam - Rat Poison 
+Deadly Cargo - Rat Poison is located in Dirty Rabbit bar's second floor's toilet room.
+Traditions of the Trade - Bottle of Poison is located in dentist's office room and in various storage rooms on the 2nd and 3rd floors.
+Slaying a Dragon - Rat Poison located in sewer near the player's starting point.
+The Seafood Massacre - Rat Poison in sewer next to the Cheung Chau Fish Restaurant .
+The Lee Hong Assassination - Vial of Poison is located in Wang Fou Restaurant 's brothel.
+Hitman: Blood Money [ ] 
+In Hitman: Blood Money , poison is replaced by the Poison Syringe , which is part of Agent 47's starting gear in almost all missions. It holds two doses and can be used as a melee weapon to inject the poison directly into the target's neck. It can also be used to squirt the substance into a target's drink, like a traditional poison, although the player must take care not to be seen. Food that can be directly poisoned will make the crosshair go from white to red.
+Hitman: Absolution [ ] 
+Poison can be found in different missions of Absolution . These include Fugu fish (containing a tetrodotoxin), an old, heavy metal based rat poison and a toxin derived from a Dendrobates Azureus frog. 
+The King of Chinatown - Fugu Fish 
+Hunter and Hunted - Rat Poison 
+Attack of the Saints - Rat Poison 
+Blackwater Park - U'wa Tribe Poison 
+Additionally, in the Contracts Mode , the non-lethal Syringe and Sleeping Pills can be used to kill marked targets as if filled with poison.
+HITMAN™ [ ] 
+Before starting the mission, it's possible to choose two different forms of poison: syringes, which are used on personnel, and Poison Vials, which need to be administered to food and drinks. Unlike some previous games, syringes cannot be used to squirt their contents onto food. In addition, the levels often hold large amounts of Rat Poison , which, when administered to food, causes the intended target to go vomit on the nearest toilet, trash can or ledge. Finally, some levels contain natural poisons in the form of poisonous plants or small animals (frogs or fish, in the case of the latter.) These can be obtained and will automatically be rendered suitable for use in food or drink, with the exception of Hokkaido, where the toxin from a Fugu fish must be manually extracted with a knife. When applying these natural poisons to consumables, 47 will always be shown to be opening and pouring a small bottle, no matter what form it originally took.
+In missions that take place in Marrakesh , the player has a unique opportunity to poison a Shisha Pipe (also known as a hookah), which is a large, immobile vaping device used in the Middle East and some adjacent cultures. Because the pipes have more than one stem and can be used by multiple people simultaneously, more than one person can be poisoned with a single dose. 
+In Club 27 , the lobby of the Himmapan Hotel can be temporarily poisoned with one specific sedative substance found in the level. This ability to poison the atmosphere was expanded upon later in the trilogy. 
+Unlockable [ ] 
+A Modern Lethal Syringe is available to use from the start.
+An Antique Lethal Syringe is unlocked by completing all 5 Himmapan Horror challenges in Bangkok .
+A Modern Emetic Syringe is unlocked by reaching level 5 of Colorado mastery .
+An Antique Emetic Syringe is unlocked by reaching level 10 of Sapienza Professional mastery .
+A Sedative Poison Vial is unlocked by reaching level 11 of Paris mastery 
+A Lethal Poison Vial is unlocked by reaching level 10 of Sapienza mastery .
+A Emetic Poison Vial is unlocked by reaching level 10 of Marrakesh mastery .
+Locations [ ] 
+The Showstopper - Dalia Margolis carries two Lethal Poison Pill Jars; hers is dropped on death/KO, and impersonating Helmut Kruger and meeting Dalia allows access to the other vial.
+World of Tomorrow - A Virus Prototype can be found inside a model ship in the storage room next to Silvio Caruso's Bedroom. Although technically not a poison, it can be thrown in close proximity to Francesca De Santis , effectively releasing the virus and killing her (any other person won't be affected) and will count as poison kill.
+A Gilded Cage - One Lethal Poison Pill Jar is kept on a table in the secret tunnel, and another one is kept in Reza Zaydan 's office in the old school.
+A House Built on Sand - A lethal poison vial is on a table at one of the meeting rooftop's entrances.
+Club 27 - A Lethal Poison Pill Jar is in Room 104.
+Freedom Fighters - A Modern Lethal Syringe is hidden atop of a shelf on the basement, and Ezra Berg carries a Lethal Poison Pill Jar.
+Situs Inversus - Fugu fish can be harvested once from the Gama's kitchen's freezer. Three bottles of Botulinum Toxin are kept in locked cabinets inside Jason Portman's room, an office in the hospital's top floor, and in a gym in the hospital. Both of these types of poison are lethal.
+HITMAN™ 2 and HITMAN™ 3 [ ] 
+Poison returns in much the same way as its forerunner, HITMAN™. In addition to finding poison in the same locations in the Legacy Missions, poison is scattered throughout the new missions introduced IN HITMAN™ 2 . Additionally, there are a few characters who snort lines of cocaine throughout the series, and this substance can be poisoned in the same manner as other consumables. However, these opportunities are rare.
+In addition to poisoning food and drink, some maps now include the possibility of poisoning ventilation systems. This will turn the affected room into a damaging environment that will inflict its effect upon all characters in its confines. The player will usually be able to use any poison available in his inventory irrespective of whether or not the particular poison comes in a form that would be actually suitable for poisoning air in the real world (i.e. pills work just as well as liquids.) 
+The atmosphere in the contaminated area will sometimes take on a particular hue depending on what kind of poison was used: green for emetic poisons, blue for sedatives, red for lethal substances (this visual effect is not present in all levels for some reason.) The contamination will last for several minutes before dispersing unless the player turns off the ventilation system, which will disperse it early. The system can then be poisoned a second time if desired. The player himself will take damage if he enters the affected area regardless of what type of poison was used. Hints that the ventilation is vulnerable to such contamination are are usually present in the conversation of nearby NPCs. Some disguises that include a gas mask, such as the exterminator disguise in Another Life , will permit the player to safely enter the poisoned area.
+Possibly most useful to the player, the game introduced poison-loaded dart guns and grenades. Both will surreptitiously administer poison at a distance. Neither the victim nor bystanders will notice the poisoning despite a rather large and conspicuous dart protruding from the victim at the impact point, provided Agent 47 is not seen in the act. For balance purposes, they are only loaded with non-lethal poisons, as a lethal grenade or dart gun would make traceless assassination too easy. The only lethal thrown poison is the Red Easter Egg which is exclusive to the Berlin Egg Hunt . 
+Trivia [ ] 
+The assassination of Masahiro Hayamoto Jr. is canonically shown to be done using Fugu fish poison.
+In Hitman: Blood Money , killing a target with a lethal poison syringe will count as a "kill". Therefore 47 must hide the body or else his mission score & rewards will be deducted if the body is found and it will not be possible to get the Silent Assassin rating.
+ However, in HITMAN™ 2 , killing a target with a lethal poison syringe will count as an accident . Accidental kills do not require the player to hide the body, do not reduce the mission rating, and do not compromise the Silent Assassin rating even if the body is found.
+Categories 
+Categories : 
+Hitman: Contracts weapons 
+Hitman: Codename 47 weapons 
+Hitman 2: Silent Assassin weapons 
+Hitman: Contracts 
+Hitman: Codename 47 
+Hitman 2: Silent Assassin 
+Poisons

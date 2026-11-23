@@ -1,0 +1,245 @@
+The World of Assassination trilogy is a series within the Hitman franchise, consisting of HITMAN™ , HITMAN™ 2 , and HITMAN™ III .
+Contents
+1 History 
+2 Cast 
+3 Main Cast 
+4 Main Targets 
+4.1 HITMAN™ 
+4.2 HITMAN™ 2 
+4.3 HITMAN™ III 
+5 Around The World 
+5.1 HITMAN™ 
+5.2 HITMAN™ 2 
+5.3 HITMAN™ III 
+6 Locations 
+6.1 HITMAN™ 
+6.2 HITMAN™ 2 
+6.3 HITMAN™ III 
+7 Extras 
+8 Overview 
+9 Map Features 
+9.1 Doors 
+9.2 Damaging Environments 
+9.3 Elevators 
+10 AI Behavior 
+10.1 Disguises 
+10.2 Map Areas and Access 
+10.3 Leading NPCs 
+10.4 "Paired" NPCs 
+11 Combat 
+12 Mission Stories 
+13 Mission Planning 
+14 Challenges 
+15 Reception 
+16 Missions 
+17 Games 
+18 Known Glitches 
+History [ ] 
+The trilogy focuses on Agent 47 and Diana Burnwood and their careers working for the International Contract Agency . Diana plays a prominent role in the trilogy, and the series explores Burnwood's backstory in far more depth than previous installments of the series. 
+In the course of fulfilling assassination contracts, Burnwood and 47 will conclude that the ICA has been manipulated into taking out targets on behalf of a mysterious third party . Eventually they will learn of and take on the secretive and powerful organization known as Providence . 
+The trilogy also includes three stand-alone sniper missions unrelated to the main story, as well as bonus missions that share the same maps as some campaign missions but involve different targets, time-limited elusive targets , and small, playful side-missions called escalations .
+Cast [ ] 
+Main Cast [ ] 
+Agent 47 
+Diana Burnwood 
+Lucas Grey 
+Olivia Hall 
+International Contract Agency 
+Providence 
+Main Targets [ ] 
+To know more about the targets in the World of Assassination, see here: Targets 
+HITMAN™ [ ] 
+Viktor Novikov and Dalia Margolis 
+Silvio Caruso and Francesca De Santis 
+Reza Zaydan and Claus Hugo Strandberg 
+Ken Morgan and Jordan Cross 
+Maya Parvati , Sean Rose , Penelope Graves and Ezra Berg 
+Yuki Yamazaki and Erich Soders 
+HITMAN™ 2 [ ] 
+Alma Reynard 
+Robert and Sierra Knox 
+Rico Delgado , Andrea Martínez and Jorge Franco 
+Vanya Shah , Wazir Kale and Dawood Rangan 
+Nolan Cassidy and Janus 
+Sophia and Zoe Washington 
+Athena Savalas 
+Tyson Williams , Ljudmila Vetrova and Steven Bradley 
+HITMAN™ III [ ] 
+Marcus Stuyvesant and Carl Ingram 
+Alexa Carlisle 
+ICA Agents 
+Imogen Royce and Hush 
+Don Yates and Tamara Vidal 
+Arthur Edwards 
+Around The World [ ] 
+HITMAN™ [ ] 
+The Showstopper 
+World of Tomorrow 
+A Gilded Cage 
+Club 27 
+Freedom Fighters 
+Situs Inversus 
+HITMAN™ 2 [ ] 
+Nightcall 
+The Finish Line 
+Three-Headed Serpent 
+Chasing a Ghost 
+Another Life 
+The Ark Society 
+Golden Handshake 
+The Last Resort 
+HITMAN™ III [ ] 
+On Top of the World 
+Death in the Family 
+Apex Predator 
+End of an Era 
+The Farewell 
+Untouchable 
+Locations [ ] 
+HITMAN™ [ ] 
+Paris , France 🇫🇷
+Sapienza , Italy 🇮🇹
+Marrakesh , Morocco 🇲🇦
+Bangkok , Thailand 🇹🇭
+Colorado , U.S.A. 🇺🇸
+Hokkaido , Japan 🇯🇵
+HITMAN™ 2 [ ] 
+Hawke's Bay , New Zealand 🇳🇿
+Miami , U.S.A. 🇺🇸
+Santa Fortuna , Colombia 🇨🇴
+Mumbai , India 🇮🇳
+Whittleton Creek , U.S.A. 🇺🇸
+Isle of Sgàil , North Atlantic 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+New York , U.S.A. 🇺🇸
+Haven Island , Maldives 🇲🇻
+HITMAN™ III [ ] 
+Dubai , U.A.E. 🇦🇪
+Dartmoor , England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Berlin , Germany 🇩🇪
+Chongqing , China 🇨🇳
+Mendoza , Argentina 🇦🇷
+Carpathian Mountains , Romania 🇷🇴
+Extras [ ] 
+Storyline creators
+47's disguises 
+47's Tools of the Trade
+The Partners 
+Providence operatives
+Acknowledgements
+Overview [ ] 
+Many of the features of previous games have returned, including the ability to hide in containers and instinct mode. Containers come in the form of things like storage trunks, wall lockers, closets and laundry hampers. Most containers can hold two bodies (either unconscious or dead) and the player can hide in it if there is only one body inside. Unconscious characters placed in containers are disabled for the duration of gameplay, they become completely inaccessible and are effectively removed from the level, though their disguise can still be acquired, if applicable. For this reason, unconscious targets cannot be stored; they must be killed before being hidden. 
+Instinct mode greatly assists the player by highlighting useful objects and nearby features. It will also reveal the location of the target anywhere on the map, allowing the player to track them easily, though this does not apply to Elusive Targets and in a few other special cases. 
+New features include vastly expanded movement capabilities: Agent 47 is able to vault over some obstacles such as low walls, drop down from some higher elevations, climb pipes, walk on narrow ledges, and even hang and swing on ledges. This gives the player far more options for moving into secure areas. While standing on a ledge outside of a window, the player is able to aim a handgun into the window at certain angles. Longarms such as rifles can now be slung across the back to free up the player's hands for other tasks. Once sufficient points have been accumulated on a level, the player has the option of having additional weapons and equipment smuggled into the area, even into secure areas. Eventually, the player will be able to begin the mission already having infiltrated the area and already wearing a disguise. 
+The player can place objects on any suitable surface such as floors, tables or shelves. This is useful for setting lures and traps. 
+Notably absent is the ability to take human shields, which was available in the two previous iterations of the game. Also absent is the ability to customize weapons before each mission. However, the large variety of weapons and tools that can be unlocked will eventually give the player a great deal of flexibility during planning. 
+Contracts mode from Absolution has returned, allowing players to create their own targets and completion conditions. 
+Numerous references to events and characters in previous installments are sprinkled throughout the trilogy's missions, as a treat for long-time fans of the series. 
+Map Features [ ] 
+Mission maps are generally quite large and elaborately decorated with scenery. The player character can hide in crowds or foliage . 
+Several room features can be interacted with, such as sinks, toilets, vacuum cleaners and radios. Once turned on, these can provide a distraction, luring nearby characters to them to investigate. Toilets can be used for drowning targets if the target is sickened by an appropriate poison, resulting in a death that will be ruled accidental. Likewise, bodies of water exist on several levels and can be used to eliminate targets by first knocking them unconscious. Small containers such as trash cans can be used to smuggle weapons or bombs. 
+Doors [ ] 
+Most doors can be broken open with crowbars or their locks picked with lockpicks. Some can also be shot open. Electronic keycards are necessary for some doors, and can be hacked with the right tools. Damage to doors/cabinets will be noticed and investigated by NPCs. 
+The player can also hide on the side of a doorway and ambush a character that is about to walk through it. Agent 47 will grab the NPC and throw him or her to the ground very suddenly, so fast that this will not result in 47 being compromised by the victim. The NPC can then be either killed or pacified. 
+Damaging Environments [ ] 
+Damaging environments can be created on some level, comprised of poisoned atmospheres, electrified surfaces, or dangerous heat. These present a danger to the player and often a method of eliminating targets. Puddles of waters, which can be electrified, exist in some areas and others can be created by overflowing sinks or sabotaging other liquid containers. 
+There are also lethal containers that can be used to completely destroy bodies; examples include industrial shredders and tubs of strong acid. These can destroy an infinite number of corpses. 
+Elevators [ ] 
+Unlike Blood Money , there are no working lifts (elevators) in the game, probably because of programming difficulties. However, there are numerous elevator shafts, all of which are closed to the public due to being out of order. The player can climb within these shafts to reach restricted areas. The fact that the elevators are broken is remarked upon in non-player character dialogue at several points, no doubt as a joke. 
+AI Behavior [ ] 
+The AI exhibits complex behavior. Characters will respond to audio distractions by investigating. Objects such as briefcases will act as visual lures, causing the first character to see them to retrieve them. They will often give it to security personnel, depending on the specific object. Other player actions will elicit various reactions from witnesses. Witness reaction can depend on the player's disguise: for example, adding substances to food is usually permitted if the player is dressed as a cook or waiter. Picking up certain objects such as obvious weapons or especially valuable objects will be regarded as suspicious and cause witnesses to alert security. Dropped weapons that are found by security will taken to a storage location. 
+On some levels, targets or other NPCs can be induced to follow the player, who can then lead him or her to an isolated location. This option will become available if the player uncovers certain facts about the person in question or meets other conditions. 
+Non-player characters are divided into security personnel, who can engage in combat, and civilians, who generally cannot. This binary division results in a lack of female combatants, as all security personnel in all missions are male. Numerous female targets exist, including characters whose backstory describes them as accomplished soldiers or even assassins, but none will retaliate in-game against 47, instead fleeing or alerting security like ordinary civilians. This is in contrast to a few other games in the series such as Blood Money , where some targets were armed and could defend themselves, and where civilians would sometimes arm themselves to fight 47. The only exceptions are the few levels where security personnel are themselves targets. 
+Despite its sophistication, the AI has a number of other quirks. Among them is the fact that the source of a lethal shot is instantly known to security characters who witness it, no matter how far away the player is from the target. Guards will race across an entire map if necessary to search the area from which the player fired, even shooting at the player if the player dallies too long in the vicinity, despite the shot having been taken from far outside of the NPCs visual range. The player must therefore move some distance away and hide after having taken a sniper shot if the death of the target is witnessed by guards. 
+Another oddity is that accidental deaths are instantly recognized as such by security characters, who react nonchalantly to a person dropping dead right in front of them. 
+Disguises [ ] 
+In addition to allowing the player to enter restricted areas, disguises can allow the player to perform certain actions that would otherwise illegal. A waiter or cook outfit will usually allow the player to add poisons to food without arousing suspicion and may allow them to pick up objects such as kitchen knives which would be logical for them to carry, while a mechanic's uniform will allow the player to sabotage vehicles or equipment. A security disguise allows the player to be openly armed with most weapons, however, not sniper rifles, which are unusual enough to arouse suspicion. Only on a few maps are there disguises that permit the carrying of sniper rifles. 
+On every level there are a number of particularly perceptive NPCs known as "enforcers" who will not be fooled by the player's disguise. This can be due to their acute familiarity with the personnel and routines of the area, or simply unusually good instincts. These are not necessarily members of the group that wears the disguise in question, and there are several targets who are themselves enforcers. Some NPCs are enforcers for multiple disguises and a small number enforce all disguises, even 47's civilian clothes. 
+Many maps feature a unique disguise which creates unique possibilities for the player; these are often tied to a mission story. A few unique disguises are not tied to any story and do not grant any particular access or ability, and are merely present to create variety or for humorous purposes. It is generally not possible to disguise as a mission target, although there are a couple of exceptions. 
+An NPC that has been pacified (knocked unconscious), disrobed and subsequently discovered by security, will, upon revival, run to a wall locker where he will replace his stolen clothing. This can be useful in contracts mode for an immobile NPC must be brought to distant location. Incidentally, guards will spawn a new handgun as well; this allows an effectively unlimited number of sidearms in a level.
+Map Areas and Access [ ] 
+Maps consist of public areas that can be entered by the player regardless of disguise and two types of restricted areas, which can be entered if the player is wearing the correct disguise. The first level of restriction is considered "trespassing" (which will be explicitly stated on screen) and security personnel who discover the player in these areas in inappropriate disguises will tell the player to leave. The second level of restriction is a "hostile area" where the player will be attacked on sight. Zones can change depending on certain events: for example, a the player may be invited into a previously off-limits location after certain conditions are met. Alternatively, a previously accessible area may suddenly be placed off-limits, for example if officials decide to have a meeting in a particular room. 
+Few levels have a disguise that permits access to all areas. Some maps include an area that is off-limits to all uniforms, though this does not apply to NPCs, and it is not uncommon for a security NPC to be stationed in an area that would be off-limits to a player in the same disguise. 
+There are some other areas that, while not technically trespassing, will cause NPCs to berate the player for invading their privacy or personal space. Examples include bathroom stalls or private dwellings. While entering them is not illegal and will not result in any penalty, NPCs will constantly face the player and scold 47 continuously until the player leaves. 
+Leading NPCs [ ] 
+Under some conditions, it is possible to induce an NPC to follow Agent 47 around. These conditions are normally linked to a specific mission story, and the player will usually have to lead the NPC to a particular location, or else the NPC will leave. The player must pause frequently to do this successfully, since Agent 47 walks faster than NPCs. 
+"Paired" NPCs [ ] 
+In some cases, two NPCs may be paired, and one will follow the other through its movement cycle. This is usually the case with bodyguards or assistants, although occasionally guards patrol in pairs. More than one NPC can be paired with another. The paired NPC will always be intrinsically aware of the location of the other. If somehow separated temporarily, it will eventually return to the other NPC unless the latter is hidden in a container or inaccessible map location. 
+A paired bodyguard whose charge has disappeared may begin to wander the map searching for him/her, presenting a roving hazard that the player must watch out for. However, some bodyguards will instead make their way to a room not normally visited by the player to keep them out of the way since they no longer have. atask to do. 
+Combat [ ] 
+When aiming firearms, the game will zoom to a view just behind and to the side of Agent 47's shoulder, allowing the player to aim. Agent 47 can shoot with either hand and the player's view will change accordingly; this allows 47 to use any corner as cover, switching shouldered weapons from left to right as required. Agent 47 can hug cover such as walls or low obstacles, quickly emerging to shoot and ducking back to evade return fire. The player cannot dual-wield handguns as in some previous iterations of the game.
+The player can engage in hand-to-hand combat. Armed NPCs will fight back, causing the player to enter melee mode where he or she must choose combat moves in a limited time or else suffer damage and eventually be knocked out. Non-security NPCs will be automatically knocked out with a series of blows. There is one exception to this rule: an elusive target whose backstory indicates that he was an MMA fighter . 
+Attacking at close range from behind will result in an instant elimination if the player is armed with a firearm or sharp object, or a silent takedown if armed with a blunt object. If unarmed, the player will subdue the character with a chokehold that lasts for a few seconds. The player has the option of choking them unconscious or snapping their neck and killing them.
+The player can throw objects as weapons, resulting in either death or a knockout depending on the object. A few fragile objects will knock NPCs down but not unconscious, allowing them to recover. This is useful for contracts or escalations that forbid pacification. 
+Mission Stories [ ] 
+Most levels include mission stories that either delve into the backstory of one target or are intimately related to some other aspect of the level. To follow the mission story, the player must first learn certain facts (often an overheard conversation can initiate the story) and subsequently complete certain tasks such as obtaining a particular disguise or item, or initiating a signal. The stories will usually conclude with an opportunity for an assassination. 
+Mission Planning [ ] 
+The game permits extensive mission planning. The player is permitted to begin most missions with two tools and one sidearm of his or her choosing. An additional item may be smuggled into the mission location and hidden in a briefcase. Perhaps most importantly, the player can eventually begin the mission having already infiltrated the location, often wearing a disguise. These possibilities are unlocked as the player accumulates points by completing the level and accomplishing certain goals and challenges within the level. 
+Items, weapons and disguises are awarded for the accumulation of points and the completion of escalation missions. The weapons and tools cannot be customized as they could in some previous entries of the series, but the wide variety of weapons and tools nevertheless allows the player great latitude in how he or she wishes to engage the mission. 
+Challenges [ ] 
+Challenges are specific accomplishments within the level. These can constitute anything from donning a particular disguise or killing the target in a particular manner. Challenges are not necessarily related to the fulfillment of the mission. There are several redacted (secret) challenges throughout the game whose conditions are difficult to decipher. Fulfilling challenges will award the player points towards level mastery; there may be other rewards as well.
+Reception [ ] 
+The trilogy has received intense criticism from fans for forcing players to connect to the Internet in order to access most of the core features (such as progression, gear, challenges, etc) despite the games being single-player, like the rest of the Hitman series. Some speculate that this measure is a type of always-online DRM designed by IO Interactive intended to deter piracy. 
+Missions [ ] 
+Guided Training (Training)
+Freeform Training (Training)
+The Final Test (Training)
+The Showstopper 
+World of Tomorrow 
+A Gilded Cage 
+Club 27 
+Freedom Fighters 
+Situs Inversus 
+Nightcall 
+The Finish Line 
+Three-Headed Serpent 
+Chasing a Ghost 
+Another Life 
+The Ark Society 
+Golden Handshake 
+The Last Resort 
+On Top of the World 
+Death in the Family 
+Apex Predator 
+End of an Era 
+The Farewell 
+Untouchable 
+Shadows in the Water 
+The Source (Patient Zero)
+The Author (Patient Zero)
+The Vector (Patient Zero)
+Patient Zero (Patient Zero)
+The Icon (Bonus mission)
+A House Built on Sand (Bonus mission)
+Holiday Hoarders (Bonus mission)
+Landslide (Bonus mission)
+The Last Yardbird (Sniper Assassin)
+The Pen and the Sword (Sniper Assassin)
+Crime and Punishment (Sniper Assassin)
+Hokkaido Snow Festival (Bonus mission)
+Embrace Of The Serpent (Special assignment)
+Illusions Of Grandeur (Special assignment)
+A Silver Tongue (Special assignment)
+A Bitter Pill (Special assignment)
+Games [ ] 
+HITMAN™ (2016)
+HITMAN™ 2 (2018)
+HITMAN™ 3 (2021)
+Known Glitches [ ] 
+(This is a tentative list of known glitches and bugs, ongoing and not complete)
+Levitation Glitch - Non-Player Characters sometimes clip over surfaces such as tables and end up floating several feet above the floor. A fairly common glitch.
+Non-Functional Poison Glitch - Food is successfully poisoned, but characters shown consuming it are not affected, and the food remains in its poisoned state (visible with the appropriately colored smoke).
+ This glitch can happen as a result of an NPC creating a new food or drink item during an animation, in which case it is necessary to destroy the initial one with a gunshot and poison the one the NPC consumes.
+Infinite Walkaway Glitch - In this glitch, a character will begin walking in a straight line, clipping through walls and objects (though rising with changing elevation), ultimately walking out of the mission area and continuing infinitely off of the map.
+ While ordinarily harmless, this glitch can be disastrous if the character in question is the target in a Freelancer campaign showdown, as it will make the mission impossible to complete and fail the campaign. The campaign can still be salvaged, however. If the player causes a major disturbance that prompts an evacuation (explosion, found body, gunshot heard, etc.) and suspects begin running for exit points. The departed target character will instantly spawn back into the mission area and can be killed as normal. The exact spot where the character will appear is not known with certainty; it may be the initial spawning point where he or she began the mission, or it may be a point at the edge of the map where the character clipped out of the mission area. One time when this was observed, the target did not attempt to evacuate like the other suspects.
+T-Pose Glitch - Rarely, an NPC may assume a T-pose with arms extended from its sides, which is the default 3d model pose for humanoid figures.
+General Limb Glitches - Other arm-related glitches have been observed, such as NPC arms bending inside torsos; bumping into the character will sometimes revert its limbs to normal.
+Fluttering Body Glitch - An elimination that involves by pushing or pulling the victim into some type of portal or contraption such as window, machinery, etc may sometimes result in the victim's body fluttering wildly in the threshold as though blown by wind. The elimination completes successfully, however, and other NPCs do not seem to notice.
+Invisible Dance Partner Glitch - Occasionally observed in Mendoza and in the "reflection" mental sequence preceding Untouchable . A dancer will dance solo as though holding an invisible partner, while the partner stands off to the side motionless.
+Categories 
+Categories : 
+HITMAN™ 
+HITMAN™ 2 
+HITMAN™ III 
+World of Assassination 
+Languages 
+Français
